@@ -67,7 +67,7 @@
 
 ## KD + Meta-learning
 
-1. Knowledge Distillation from Few Samples. Li, Tianhong et al. Arxiv:1812.01839
+1. Few Sample Knowledge Distillation for Efficient Network Compression. Li, Tianhong et al. Arxiv:1812.01839
 2. Zero-Shot Knowledge Distillation in Deep Networks. Nayak, Gaurav Kumar et al, AAAI 2019
 3. Learning What and Where to Transfer. Jang, Yunhun et al, ICML 2019
 4. Transferring Knowledge across Learning Processes. Moreno, Pablo G et al. ICLR 2019
