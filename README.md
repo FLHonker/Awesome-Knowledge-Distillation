@@ -57,7 +57,7 @@
 
 1. Training Shallow and Thin Networks for Acceleration via Knowledge Distillation with Conditional Adversarial Networks. Xu, Zheng et al. ArXiv:1709.00513
 2. KDGAN:Knowledge Distillation with Generative Adversarial Networks. Wang, Xiaojie. NIPS 2018
-3. Adversarial Learning of Portable Student Networks. Wang Yunhe et al. AAAI 2018
+3. Adversarial Learning of Portable Student Networks. Wang, Yunhe et al. AAAI 2018
 4. Cross-Modality Distillation: A case for Conditional Generative Adversarial Networks. ICASSP 2018
 5. Adversarial Distillation for Efficient Recommendation with External Knowledge. TOIS 2018
 6. [noval]DAFL:Data-Free Learning of Student Networks. Chen, Hanting et al. ICCV 2019
@@ -75,6 +75,11 @@
 ## KD + AutoML
 
 1. Improving Neural Architecture Search Image Classifiers via Ensemble Learning. Macko, Vladimir et al. 2019
+
+## KD + RL
+
+1. Knowledge Flow:Improve Upon Your Teachers. Liu, Iou-jen et al. ICLR 2019
+2. Transferring Knowledge across Learning Processes. Moreno, Pablo G et al. ICLR 2019
 
 ## Multi-teaacher KD 
 
