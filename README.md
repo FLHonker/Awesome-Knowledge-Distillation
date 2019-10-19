@@ -67,12 +67,13 @@
 10. Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection. Liu, Jian et al. AAAI 2019
 11. Adversarially Robust Distillation. Goldblum, Micah et al. ArXiv:1905.09747
 
-## KD + Meta-learning
+## KD + Meta-learning & data-free
 
-1. Few Sample Knowledge Distillation for Efficient Network Compression. Li, Tianhong et al. Arxiv:1812.01839
-2. Zero-Shot Knowledge Distillation in Deep Networks. Nayak, Gaurav Kumar et al, AAAI 2019
-3. Learning What and Where to Transfer. Jang, Yunhun et al, ICML 2019
-4. Transferring Knowledge across Learning Processes. Moreno, Pablo G et al. ICLR 2019
+1. Data-Free Knowledge Distillation for Deep Neural Networks. Lopes, Raphael Gontijo et al. NIPS 2017
+2. Sample Knowledge Distillation for Efficient Network Compression. Li, Tianhong et al. Arxiv:1812.01839
+3 Zero-Shot Knowledge Distillation in Deep Networks. Nayak, Gaurav Kumar et al, AAAI 2019
+4 Learning What and Where to Transfer. Jang, Yunhun et al, ICML 2019
+5 Transferring Knowledge across Learning Processes. Moreno, Pablo G et al. ICLR 2019
 
 ## KD + AutoML
 
