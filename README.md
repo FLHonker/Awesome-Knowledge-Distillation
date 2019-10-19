@@ -7,7 +7,7 @@
     - [Self-KD](#self-kd)
     - [Structured knowledge](#structured-knowledge)
   - [KD + GAN](#kd--gan)
-  - [KD + Meta-learning](#kd--meta-learning)
+  - [KD + Meta-learning & data-free](#kd--meta-learning)
   - [KD + AutoML](#kd--automl)
   - [Multi-teaacher KD](#multi-teaacher-kd)
   - [Application of KD](#application-of-kd)
