@@ -7,8 +7,10 @@
     - [Self-KD](#self-kd)
     - [Structured knowledge](#structured-knowledge)
   - [KD + GAN](#kd--gan)
-  - [KD + Meta-learning & data-free](#kd--meta-learning)
+  - [KD + Meta-learning](#kd--meta-learning)
+  - [Data-free KD](#data-free-kd)
   - [KD + AutoML](#kd--automl)
+  - [KD + RL](#kd--rl)
   - [Multi-teaacher KD](#multi-teaacher-kd)
   - [Application of KD](#application-of-kd)
     - [for NLP](#for-nlp)
@@ -67,13 +69,17 @@
 10. Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection. Liu, Jian et al. AAAI 2019
 11. Adversarially Robust Distillation. Goldblum, Micah et al. ArXiv:1905.09747
 
-## KD + Meta-learning & data-free
+## KD + Meta-learning
 
-1. Data-Free Knowledge Distillation for Deep Neural Networks. Lopes, Raphael Gontijo et al. NIPS 2017
-2. Sample Knowledge Distillation for Efficient Network Compression. Li, Tianhong et al. Arxiv:1812.01839
-3 Zero-Shot Knowledge Distillation in Deep Networks. Nayak, Gaurav Kumar et al, AAAI 2019
-4 Learning What and Where to Transfer. Jang, Yunhun et al, ICML 2019
-5 Transferring Knowledge across Learning Processes. Moreno, Pablo G et al. ICLR 2019
+1. Sample Knowledge Distillation for Efficient Network Compression. Li, Tianhong et al. Arxiv:1812.01839
+2. Zero-Shot Knowledge Distillation in Deep Networks. Nayak, Gaurav Kumar et al, AAAI 2019
+3. Learning What and Where to Transfer. Jang, Yunhun et al, ICML 2019
+4. Transferring Knowledge across Learning Processes. Moreno, Pablo G et al. ICLR 2019
+
+## Data-free KD
+1. Data-Free Knowledge Distillation for Deep Neural Networks. NIPS 2017
+2. Zero-Shot Knowledge Distillation in Deep Networks. AAAI 2019
+3. DAFL:Data-Free Learning of Student Networks. ICCV 2019
 
 ## KD + AutoML
 
@@ -135,3 +141,5 @@
 Note: All papers pdf can be found and downloaded on bing or Google.
 
 Source: <https://github.com/FLHonker/Awesome-Knowledge-Distillation>
+
+Contact:<frankliu624@gmail.com>
