@@ -143,4 +143,4 @@ Note: All papers pdf can be found and downloaded on bing or Google.
 
 Source: <https://github.com/FLHonker/Awesome-Knowledge-Distillation>
 
-Contact:<frankliu624@gmail.com>
+Contact:Yuang Liu<frankliu624@gmail.com>, AIDA,[ECNU](https://www.ecnu.edu.cn/).
