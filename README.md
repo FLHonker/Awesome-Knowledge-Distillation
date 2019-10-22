@@ -28,8 +28,7 @@
 6. Learning Metrics from Teachers: Compact Networks for Image Embedding. Yu, Lu et al. CVPR 2019
 7. Relational Knowledge Distillation.  Park, Wonpyo et al, CVPR 2019
 8. Like What You Like: Knowledge Distill via Neuron Selectivity Transfer. Huang, Zehao and Wang, Naiyan. 2017
-9. Correlation Congruence for Knowledge Distillation.Peng, Baoyun et al. ICCV 2019
-10. On Knowledge Distillation from Complex Networks for Response Prediction. Arora, Siddhartha et al. NAACL 2019
+9. On Knowledge Distillation from Complex Networks for Response Prediction. Arora, Siddhartha et al. NAACL 2019
 
 ### Knowledge from intermediate layers
 
@@ -41,6 +40,12 @@
 5. Knowledge Distillation via Route Constrained Optimization. Jin, Xiao et al. ICCV 2019
 6. Similarity-Preserving Knowledge Distillation. Tung, Frederick, and Mori Greg. ICCV 2019
 7. MEAL: Multi-Model Ensemble via Adversarial Learning. Shen,Zhiqiang, He,Zhankui, and Xue Xiangyang. AAAI 2019
+
+### Mutual Information
+
+1. Correlation Congruence for Knowledge Distillation.Peng, Baoyun et al. ICCV 2019
+2. Similarity-Preserving Knowledge Distillation. Tung, Frederick, and Mori Greg. ICCV 2019
+3. Variational Information Distillation for Knowledge Transfer. Ahn, Sungsoo et al. CVPR 2019
 
 ### Self-KD
 
@@ -72,13 +77,12 @@
 ## KD + Meta-learning
 
 1. Sample Knowledge Distillation for Efficient Network Compression. Li, Tianhong et al. Arxiv:1812.01839
-2. Zero-Shot Knowledge Distillation in Deep Networks. Nayak, Gaurav Kumar et al, AAAI 2019
-3. Learning What and Where to Transfer. Jang, Yunhun et al, ICML 2019
-4. Transferring Knowledge across Learning Processes. Moreno, Pablo G et al. ICLR 2019
+2. Learning What and Where to Transfer. Jang, Yunhun et al, ICML 2019
+3. Transferring Knowledge across Learning Processes. Moreno, Pablo G et al. ICLR 2019
 
 ## Data-free KD
 1. Data-Free Knowledge Distillation for Deep Neural Networks. NIPS 2017
-2. Zero-Shot Knowledge Distillation in Deep Networks. AAAI 2019
+2. Zero-Shot Knowledge Distillation in Deep Networks. ICML 2019
 3. DAFL:Data-Free Learning of Student Networks. ICCV 2019
 
 ## KD + AutoML
