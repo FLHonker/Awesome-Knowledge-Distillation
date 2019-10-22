@@ -125,6 +125,7 @@
 6. Structured Knowledge Distillation for _Semantic Segmentation_. Liu, Yifan et al. CVPR 2019
 7. Relation Distillation Networks for _Video Object Detection_. Deng, Jiajun et al. ICCV 2019
 8. Teacher Supervises Students How to Learn From Partially Labeled Images for _Facial Landmark Detection_. Dong, Xuanyi and Yang, Yi. ICCV 2019
+9. Progressive Teacher-student Learning for Early Action Prediction. Wang, Xionghui et al. CVPR2019
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
