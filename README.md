@@ -35,12 +35,13 @@
 
 1. Fitnets: Hints for thin deep nets. Romero, Adriana et al. arXiv:1412.6550
 2. Paying more attention to attention: Improving the performance of convolutional neural networks via attention transfer. Zagoruyko et al. ICLR 2017
-3. Variational Information Distillation for Knowledge Transfer. Ahn, Sungsoo et al. CVPR 2019
+3. Knowledge Projection for Effective Design of Thinner and Faster Deep Neural Networks. Zhang, Zhi et al. ArXiv:1710.09505
+4. Variational Information Distillation for Knowledge Transfer. Ahn, Sungsoo et al. CVPR 2019
    <!-- * 通过互信息导出关于student中间层表示和teacher中间表示的关系。 -->
-4. Knowledge Distillation via Instance Relationship Graph. Liu, Yufan et al. CVPR 2019
-5. Knowledge Distillation via Route Constrained Optimization. Jin, Xiao et al. ICCV 2019
-6. Similarity-Preserving Knowledge Distillation. Tung, Frederick, and Mori Greg. ICCV 2019
-7. MEAL: Multi-Model Ensemble via Adversarial Learning. Shen,Zhiqiang, He,Zhankui, and Xue Xiangyang. AAAI 2019
+5. Knowledge Distillation via Instance Relationship Graph. Liu, Yufan et al. CVPR 2019
+6. Knowledge Distillation via Route Constrained Optimization. Jin, Xiao et al. ICCV 2019
+7. Similarity-Preserving Knowledge Distillation. Tung, Frederick, and Mori Greg. ICCV 2019
+8. MEAL: Multi-Model Ensemble via Adversarial Learning. Shen,Zhiqiang, He,Zhankui, and Xue Xiangyang. AAAI 2019
 
 ### Mutual Information
 
