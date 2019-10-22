@@ -6,7 +6,8 @@
     - [Knowledge from intermediate layers](#knowledge-from-intermediate-layers)
     - [Mutual Information](#mutual-information)
     - [Self-KD](#self-kd)
-    - [Structured knowledge](#structured-knowledge)
+    - [Structured Knowledge](#structured-knowledge)
+    - [Privileged Information](#privileged-information)
   - [KD + GAN](#kd--gan)
   - [KD + Meta-learning](#kd--meta-learning)
   - [Data-free KD](#data-free-kd)
@@ -22,14 +23,12 @@
 ### Knowledge from logits
 
 1. Distilling the knowledge in a neural network. Hinton et al. arXiv:1503.02531
-2. Learning using privileged information: similarity control and knowledge transfer. Vapnik, Vladimir and Rauf, Izmailov. MLR 2015 
-3. Unifying distillation and privileged information. Lopez-Paz, David et al. ICLR 2016
-4. A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning. Yim, Junho et al. CVPR 2017
-5. Knowledge distillation by on-the-fly native ensemble. Lan, Xu et al. NIPS 2018
-6. Learning Metrics from Teachers: Compact Networks for Image Embedding. Yu, Lu et al. CVPR 2019
-7. Relational Knowledge Distillation.  Park, Wonpyo et al, CVPR 2019
-8. Like What You Like: Knowledge Distill via Neuron Selectivity Transfer. Huang, Zehao and Wang, Naiyan. 2017
-9. On Knowledge Distillation from Complex Networks for Response Prediction. Arora, Siddhartha et al. NAACL 2019
+2. A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning. Yim, Junho et al. CVPR 2017
+3. Knowledge distillation by on-the-fly native ensemble. Lan, Xu et al. NIPS 2018
+4. Learning Metrics from Teachers: Compact Networks for Image Embedding. Yu, Lu et al. CVPR 2019
+5. Relational Knowledge Distillation.  Park, Wonpyo et al, CVPR 2019
+6. Like What You Like: Knowledge Distill via Neuron Selectivity Transfer. Huang, Zehao and Wang, Naiyan. 2017
+7. On Knowledge Distillation from Complex Networks for Response Prediction. Arora, Siddhartha et al. NAACL 2019
 
 ### Knowledge from intermediate layers
 
@@ -55,12 +54,20 @@
 2. Learning Lightweight Lane Detection CNNs by Self Attention Distillation. Hou, Yuenan et al. ICCV 2019
 3. BAM! Born-Again Multi-Task Networks for Natural Language Understanding. Clark, Kevin et al. ACL 2019,short
 
-### Structured knowledge
+### Structured Knowledge
 
 1. Relational Knowledge Distillation.  Park, Wonpyo et al, CVPR 2019
    <!-- * 通过对输出embedding表示构建了instance之间的二阶距离关系和三届角度关系，作为一种知识引导student学习 -->
 2. Knowledge Distillation via Instance Relationship Graph. Liu, Yufan et al. CVPR 2019
    <!-- * 通过instance中间层表示构建了instance之间的图，并将图作为一种知识进行传递。 -->
+
+### Privileged Information
+
+1. Learning using privileged information: similarity control and knowledge transfer. Vapnik, Vladimir and Rauf, Izmailov. MLR 2015  
+2. Unifying distillation and privileged information. Lopez-Paz, David et al. ICLR 2016
+3. Model compression via distillation and quantization. Polino, Antonio et al. ICLR 2018
+4. KDGAN:Knowledge Distillation with Generative Adversarial Networks. Wang, Xiaojie. NIPS 2018
+5. [noval]Efficient Video Classification Using Fewer Frames. Bhardwaj, Shweta et al. CVPR 2019
 
 ## KD + GAN
 
