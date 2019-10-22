@@ -4,6 +4,7 @@
   - [Differnet form of knowledge](#differnet-form-of-knowledge)
     - [Knowledge from logits](#knowledge-from-logits)
     - [Knowledge from intermediate layers](#knowledge-from-intermediate-layers)
+    - [Mutual Information](#mutual-information)
     - [Self-KD](#self-kd)
     - [Structured knowledge](#structured-knowledge)
   - [KD + GAN](#kd--gan)
@@ -35,7 +36,7 @@
 1. Fitnets: Hints for thin deep nets. Romero, Adriana et al. arXiv:1412.6550
 2. Paying more attention to attention: Improving the performance of convolutional neural networks via attention transfer. Zagoruyko et al. ICLR 2017
 3. Variational Information Distillation for Knowledge Transfer. Ahn, Sungsoo et al. CVPR 2019
-   * 通过互信息导出关于student中间层表示和teacher中间表示的关系。
+   <!-- * 通过互信息导出关于student中间层表示和teacher中间表示的关系。 -->
 4. Knowledge Distillation via Instance Relationship Graph. Liu, Yufan et al. CVPR 2019
 5. Knowledge Distillation via Route Constrained Optimization. Jin, Xiao et al. ICCV 2019
 6. Similarity-Preserving Knowledge Distillation. Tung, Frederick, and Mori Greg. ICCV 2019
@@ -56,9 +57,9 @@
 ### Structured knowledge
 
 1. Relational Knowledge Distillation.  Park, Wonpyo et al, CVPR 2019
-   * 通过对输出embedding表示构建了instance之间的二阶距离关系和三届角度关系，作为一种知识引导student学习
+   <!-- * 通过对输出embedding表示构建了instance之间的二阶距离关系和三届角度关系，作为一种知识引导student学习 -->
 2. Knowledge Distillation via Instance Relationship Graph. Liu, Yufan et al. CVPR 2019
-   * 通过instance中间层表示构建了instance之间的图，并将图作为一种知识进行传递。
+   <!-- * 通过instance中间层表示构建了instance之间的图，并将图作为一种知识进行传递。 -->
 
 ## KD + GAN
 
@@ -98,22 +99,22 @@
 
 1. Learning from Multiple Teacher Networks. You, Shan et al. KDD 2017
 2. Semi-Supervised Knowledge Transfer for Deep Learning from Private Training Data. ICLR 2017
-    * 也是多teacher，但是从隐私保护的角度来融合teacher输出的结果
+    <!-- * 也是多teacher，但是从隐私保护的角度来融合teacher输出的结果 -->
 3. Knowledge Adaptation: Teaching to Adapt. Arxiv:1702.02052
-    * 迁移学习，每个source domain对应一个teacher。KD中的温度值设定为5。
+    <!-- * 迁移学习，每个source domain对应一个teacher。KD中的温度值设定为5。 -->
 4. Deep Model Compression: Distilling Knowledge from Noisy Teachers.  Sau, Bharat Bhusan et al. arXiv:1610.09650v2 
 5. Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results. Tarvainen, Antti and Valpola, Harri. NIPS 2017
 6. Born-Again Neural Networks. Furlanello, Tommaso et al. ICML 2018
-   * 教师网络和学生网络具有同样结果，多个网络交替依次训练，最终结果进行平均融合
+   <!-- * 教师网络和学生网络具有同样结果，多个网络交替依次训练，最终结果进行平均融合 -->
 7. Deep Mutual Learning. Zhang, Ying et al. CVPR 2018
-   * 多个学生模型之间同时互相学习
+   <!-- * 多个学生模型之间同时互相学习 -->
 8. Knowledge distillation by on-the-fly native ensemble. Lan, Xu et al. NIPS 2018
 9. Multilingual Neural Machine Translation with Knowledge Distillation. ICLR 2019
-    * 多个teacher（一个teacher一个语言对），简单融合。
+    <!-- * 多个teacher（一个teacher一个语言对），简单融合。 -->
 10. Unifying Heterogeneous Classifiers with Distillation. Vongkulbhisal et al. CVPR 2019
-    * 有多个不完全一样场景下的分类器（分类目标不尽相同），如何将它们统一起来，构造一个总的分类器：认为每一个classifier同等重要，都要去拟合它们。
+    <!-- * 有多个不完全一样场景下的分类器（分类目标不尽相同），如何将它们统一起来，构造一个总的分类器：认为每一个classifier同等重要，都要去拟合它们。 -->
 11. Distilled Person Re-Identification: Towards a More Scalable System. Wu, Ancong et al. CVPR 2019
-    * 知识不再是soft-label，而是similarity matrix。权重引入是teacher-level的，而不是instance-level的。
+    <!-- * 知识不再是soft-label，而是similarity matrix。权重引入是teacher-level的，而不是instance-level的。 -->
 
 ## Application of KD
 
@@ -141,7 +142,7 @@
 2. When Does Label Smoothing Help? Müller, Rafael, Kornblith, and Hinton. NIPS 2019
 3. Towards Understanding Knowledge Distillation. Phuong, Mary and Lampert, Christoph. AAAI 2019
 4. Harnessing deep neural networks with logucal rules. ACL 2016
-   * 融合先验知识
+   <!-- * 融合先验知识 -->
 
 ---
 Note: All papers pdf can be found and downloaded on bing or Google.
