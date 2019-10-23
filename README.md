@@ -60,6 +60,7 @@
    <!-- * 通过对输出embedding表示构建了instance之间的二阶距离关系和三届角度关系，作为一种知识引导student学习 -->
 2. Knowledge Distillation via Instance Relationship Graph. Liu, Yufan et al. CVPR 2019
    <!-- * 通过instance中间层表示构建了instance之间的图，并将图作为一种知识进行传递。 -->
+3. Paraphrasing Complex Network:Network Compression via Factor Transfer. Kim, Jangho et al. NIPS 2018
 
 ### Privileged Information
 
@@ -103,7 +104,7 @@
 1. Knowledge Flow:Improve Upon Your Teachers. Liu, Iou-jen et al. ICLR 2019
 2. Transferring Knowledge across Learning Processes. Moreno, Pablo G et al. ICLR 2019
 
-## Multi-teaacher KD 
+## Multi-teacher KD 
 
 1. Learning from Multiple Teacher Networks. You, Shan et al. KDD 2017
 2. Semi-Supervised Knowledge Transfer for Deep Learning from Private Training Data. ICLR 2017
