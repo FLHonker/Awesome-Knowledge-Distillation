@@ -129,9 +129,12 @@
 
 ## Cross-modal KD
 
-1. Compact Trilinear Interaction for Visual Question Answering. Do, Tuong et al. ICCV 2019
-2. Lightweight Image Super-Resolution with Information Multi-distillation Network. Hui, Zheng et al. ICCVW 2019
-3. Cross-Modal Knowledge Distillation for Action Recognition. Thoker, Fida Mohammad and Gall, Juerge. ICIP 2019
+1. Cross Modal Distillation for Supervision Transfer. Gupta, Saurabh et al. CVPR 2016
+2. Emotion recognition in speech using cross-modal transfer in the wild. Albanie, Samuel et al. ACM MM 2018
+3. Through-Wall Human Pose Estimation Using Radio Signals. Zhao, Mingmin et al. CVPR 2018
+4. Compact Trilinear Interaction for Visual Question Answering. Do, Tuong et al. ICCV 2019
+5. Lightweight Image Super-Resolution with Information Multi-distillation Network. Hui, Zheng et al. ICCVW 2019
+6. Cross-Modal Knowledge Distillation for Action Recognition. Thoker, Fida Mohammad and Gall, Juerge. ICIP 2019
 
 ## Application of KD
 
