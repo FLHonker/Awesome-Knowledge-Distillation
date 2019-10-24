@@ -125,6 +125,13 @@
     <!-- * 有多个不完全一样场景下的分类器（分类目标不尽相同），如何将它们统一起来，构造一个总的分类器：认为每一个classifier同等重要，都要去拟合它们。 -->
 11. Distilled Person Re-Identification: Towards a More Scalable System. Wu, Ancong et al. CVPR 2019
     <!-- * 知识不再是soft-label，而是similarity matrix。权重引入是teacher-level的，而不是instance-level的。 -->
+12. Model Compression with Two-stage Multi-teacher Knowledge Distillation for Web Question Answering System。 Yang, Ze et al. WSDM 2020 
+
+## Cross-modal KD
+
+1. Compact Trilinear Interaction for Visual Question Answering. Do, Tuong et al. ICCV 2019
+2. Lightweight Image Super-Resolution with Information Multi-distillation Network. Hui, Zheng et al. ICCVW 2019
+3. Cross-Modal Knowledge Distillation for Action Recognition. Thoker, Fida Mohammad and Gall, Juerge. ICIP 2019
 
 ## Application of KD
 
