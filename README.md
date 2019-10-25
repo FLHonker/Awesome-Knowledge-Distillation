@@ -150,7 +150,7 @@
 10. Relation Distillation Networks for _Video Object Detection_. Deng, Jiajun et al. ICCV 2019
 11. Teacher Supervises Students How to Learn From Partially Labeled Images for _Facial Landmark Detection_. Dong, Xuanyi and Yang, Yi. ICCV 2019
 12. Progressive Teacher-student Learning for Early Action Prediction. Wang, Xionghui et al. CVPR2019
-13. Lightweight Image Super-Resolution with Information Multi-distillation Network. Hui, Zheng et al. ICCVW 2019
+13. Lightweight Image _Super-Resolution_ with Information Multi-distillation Network. Hui, Zheng et al. ICCVW 2019
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
