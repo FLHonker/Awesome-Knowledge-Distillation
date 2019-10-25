@@ -134,8 +134,7 @@
 2. Emotion recognition in speech using cross-modal transfer in the wild. Albanie, Samuel et al. ACM MM 2018
 3. Through-Wall Human Pose Estimation Using Radio Signals. Zhao, Mingmin et al. CVPR 2018
 4. Compact Trilinear Interaction for Visual Question Answering. Do, Tuong et al. ICCV 2019
-5. Lightweight Image Super-Resolution with Information Multi-distillation Network. Hui, Zheng et al. ICCVW 2019
-6. Cross-Modal Knowledge Distillation for Action Recognition. Thoker, Fida Mohammad and Gall, Juerge. ICIP 2019
+5. Cross-Modal Knowledge Distillation for Action Recognition. Thoker, Fida Mohammad and Gall, Juerge. ICIP 2019
 
 ## Application of KD
 
@@ -151,6 +150,7 @@
 10. Relation Distillation Networks for _Video Object Detection_. Deng, Jiajun et al. ICCV 2019
 11. Teacher Supervises Students How to Learn From Partially Labeled Images for _Facial Landmark Detection_. Dong, Xuanyi and Yang, Yi. ICCV 2019
 12. Progressive Teacher-student Learning for Early Action Prediction. Wang, Xionghui et al. CVPR2019
+13. Lightweight Image Super-Resolution with Information Multi-distillation Network. Hui, Zheng et al. ICCVW 2019
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
