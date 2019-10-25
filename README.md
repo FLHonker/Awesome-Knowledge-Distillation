@@ -138,15 +138,18 @@
 
 ## Application of KD
 
-1. Distilled Person _Re-identification_: Towars a More Scalable System. Wu, Ancong et al. CVPR 2019
-2. [noval]Efficient _Video Classification_ Using Fewer Frames. Bhardwaj, Shweta et al. CVPR 2019
-3. Fast Human _Pose Estimation_. Zhang, Feng et al. CVPR 2019
-4. Distilling knowledge from a deep _pose_ regressor network. Saputra et al. arXiv:1908.00858 (2019)
-5. Learning Lightweight _Lane Detection_ CNNs by Self Attention Distillation. Hou, Yuenan et al. ICCV 2019
-6. Structured Knowledge Distillation for _Semantic Segmentation_. Liu, Yifan et al. CVPR 2019
-7. Relation Distillation Networks for _Video Object Detection_. Deng, Jiajun et al. ICCV 2019
-8. Teacher Supervises Students How to Learn From Partially Labeled Images for _Facial Landmark Detection_. Dong, Xuanyi and Yang, Yi. ICCV 2019
-9. Progressive Teacher-student Learning for Early Action Prediction. Wang, Xionghui et al. CVPR2019
+1. Face model compression by distilling knowledge from neurons. Luo, Ping et al. AAAI 2016
+2. Learning efficient object detection models with knowledge distillation. Chen, Guobin et al. NIPS 2017
+3. Apprentice: Using Knowledge Distillation Techniques To Improve Low-Precision Network Accuracy. Mishra, Asit et al. NIPS 2018
+4. Distilled Person _Re-identification_: Towars a More Scalable System. Wu, Ancong et al. CVPR 2019
+5. [noval]Efficient _Video Classification_ Using Fewer Frames. Bhardwaj, Shweta et al. CVPR 2019
+6. Fast Human _Pose Estimation_. Zhang, Feng et al. CVPR 2019
+7. Distilling knowledge from a deep _pose_ regressor network. Saputra et al. arXiv:1908.00858 (2019)
+8. Learning Lightweight _Lane Detection_ CNNs by Self Attention Distillation. Hou, Yuenan et al. ICCV 2019
+9. Structured Knowledge Distillation for _Semantic Segmentation_. Liu, Yifan et al. CVPR 2019
+10. Relation Distillation Networks for _Video Object Detection_. Deng, Jiajun et al. ICCV 2019
+11. Teacher Supervises Students How to Learn From Partially Labeled Images for _Facial Landmark Detection_. Dong, Xuanyi and Yang, Yi. ICCV 2019
+12. Progressive Teacher-student Learning for Early Action Prediction. Wang, Xionghui et al. CVPR2019
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
