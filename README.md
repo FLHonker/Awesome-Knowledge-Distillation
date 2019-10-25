@@ -102,8 +102,9 @@
 
 ## KD + RL
 
-1. Knowledge Flow:Improve Upon Your Teachers. Liu, Iou-jen et al. ICLR 2019
-2. Transferring Knowledge across Learning Processes. Moreno, Pablo G et al. ICLR 2019
+1. N2N Learning: Network to Network Compression via Policy Gradient Reinforcement Learning. Ashok, Anubhav et al. ICLR 2018
+2. Knowledge Flow:Improve Upon Your Teachers. Liu, Iou-jen et al. ICLR 2019
+3. Transferring Knowledge across Learning Processes. Moreno, Pablo G et al. ICLR 2019
 
 ## Multi-teacher KD 
 
