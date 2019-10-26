@@ -35,7 +35,7 @@
 
 1. Fitnets: Hints for thin deep nets. Romero, Adriana et al. arXiv:1412.6550
 2. Paying more attention to attention: Improving the performance of convolutional neural networks via attention transfer. Zagoruyko et al. ICLR 2017
-3. Knowledge Projection for Effective Design of Thinner and Faster Deep Neural Networks. Zhang, Zhi et al. ArXiv:1710.09505
+3. Knowledge Projection for Effective Design of Thinner and Faster Deep Neural Networks. Zhang, Zhi et al. arXiv:1710.09505
 4. Variational Information Distillation for Knowledge Transfer. Ahn, Sungsoo et al. CVPR 2019
    <!-- * 通过互信息导出关于student中间层表示和teacher中间表示的关系。 -->
 5. Knowledge Distillation via Instance Relationship Graph. Liu, Yufan et al. CVPR 2019
@@ -48,7 +48,7 @@
 1. Correlation Congruence for Knowledge Distillation.Peng, Baoyun et al. ICCV 2019
 2. Similarity-Preserving Knowledge Distillation. Tung, Frederick, and Mori Greg. ICCV 2019
 3. Variational Information Distillation for Knowledge Transfer. Ahn, Sungsoo et al. CVPR 2019
-4. Contrastive Representation Distillation. Tian, Yonglong et al. ArXiv: 1910.10699
+4. Contrastive Representation Distillation. Tian, Yonglong et al. arXiv: 1910.10699
 
 ### Self-KD
 
@@ -64,7 +64,7 @@
    <!-- * 通过对输出embedding表示构建了instance之间的二阶距离关系和三届角度关系，作为一种知识引导student学习 -->
 3. Knowledge Distillation via Instance Relationship Graph. Liu, Yufan et al. CVPR 2019
    <!-- * 通过instance中间层表示构建了instance之间的图，并将图作为一种知识进行传递。 -->
-4. Contrastive Representation Distillation. Tian, Yonglong et al. ArXiv: 1910.10699
+4. Contrastive Representation Distillation. Tian, Yonglong et al. arXiv: 1910.10699
 
 ### Privileged Information
 
@@ -86,7 +86,7 @@
 8. MEAL: Multi-Model Ensemble via Adversarial Learning. Shen,Zhiqiang, He,Zhankui, and Xue Xiangyang. AAAI 2019
 9. Knowledge Distillation with Adversarial Samples Supporting Decision Boundary. Heo, Byeongho et al. AAAI 2019
 10. Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection. Liu, Jian et al. AAAI 2019
-11. Adversarially Robust Distillation. Goldblum, Micah et al. ArXiv:1905.09747
+11. Adversarially Robust Distillation. Goldblum, Micah et al. arXiv:1905.09747
 
 ## KD + Meta-learning
 
@@ -161,7 +161,7 @@
 3. Learning to Specialize with Knowledge Distillation for Visual Question Answering. NIPS 2018
 4. Knowledge Distillation for Bilingual Dictionary Induction. EMNLP 2017
 5. A Teacher-Student Framework for Maintainable Dialog Manager. EMNLP 2018
-6. Understanding Knowledge Distillation in Non-Autoregressive Machine Translation. Arxiv 2019
+6. Understanding Knowledge Distillation in Non-Autoregressive Machine Translation. arxiv 2019
 
 ## Beyond
 
