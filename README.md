@@ -1,7 +1,7 @@
 # Awesome Knowledge-Distillation
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
-  - [Differnet form of knowledge](#differnet-form-of-knowledge)
+  - [Different form of knowledge](#different-form-of-knowledge)
     - [Knowledge from logits](#knowledge-from-logits)
     - [Knowledge from intermediate layers](#knowledge-from-intermediate-layers)
     - [Mutual Information](#mutual-information)
@@ -19,7 +19,7 @@
     - [for NLP](#for-nlp)
   - [Beyond](#beyond)
 
-## Differnet form of knowledge
+## Different form of knowledge
 
 ### Knowledge from logits
 
