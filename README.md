@@ -30,6 +30,8 @@
 5. Relational Knowledge Distillation.  Park, Wonpyo et al, CVPR 2019
 6. Like What You Like: Knowledge Distill via Neuron Selectivity Transfer. Huang, Zehao and Wang, Naiyan. 2017
 7. On Knowledge Distillation from Complex Networks for Response Prediction. Arora, Siddhartha et al. NAACL 2019
+8. On the Efficacy of Knowledge Distillation. Cho, Jang Hyun and Hariharan, Bharath. arXiv:1910.01348
+9.[noval]Revisit Knowledge Distillation: a Teacher-free Framework. Yuan, Li et al. arXiv:1909.11723
 
 ### Knowledge from intermediate layers
 
@@ -56,6 +58,7 @@
 2. Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation. Zhang, Linfeng et al. ICCV 2019
 3. Learning Lightweight Lane Detection CNNs by Self Attention Distillation. Hou, Yuenan et al. ICCV 2019
 4. BAM! Born-Again Multi-Task Networks for Natural Language Understanding. Clark, Kevin et al. ACL 2019,short
+5. Self-Knowledge Distillation in Natural Language Processing. Hahn, Sangchul and Choi, Heeyoul. arXiv:1908.01851
 
 ### Structured Knowledge
 
@@ -87,6 +90,8 @@
 9. Knowledge Distillation with Adversarial Samples Supporting Decision Boundary. Heo, Byeongho et al. AAAI 2019
 10. Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection. Liu, Jian et al. AAAI 2019
 11. Adversarially Robust Distillation. Goldblum, Micah et al. arXiv:1905.09747
+12. GAN-Knowledge Distillation for one-stage Object Detection. Hong, Wei et al. arXiv:1906.08467
+13. Lifelong GAN: Continual Learning for Conditional Image Generation. Kundu et al. arXiv:1908.03884
 
 ## KD + Meta-learning
 
@@ -130,6 +135,7 @@
 11. Distilled Person Re-Identification: Towards a More Scalable System. Wu, Ancong et al. CVPR 2019
     <!-- * 知识不再是soft-label，而是similarity matrix。权重引入是teacher-level的，而不是instance-level的。 -->
 12. Model Compression with Two-stage Multi-teacher Knowledge Distillation for Web Question Answering System。 Yang, Ze et al. WSDM 2020 
+13. FEED: Feature-level Ensemble for Knowledge Distillation. Park, SeongUk and Kwak, Nojun. arXiv:1909.10754(AAAI20 pre)
 
 ## Cross-modal KD
 
@@ -138,6 +144,7 @@
 3. Through-Wall Human Pose Estimation Using Radio Signals. Zhao, Mingmin et al. CVPR 2018
 4. Compact Trilinear Interaction for Visual Question Answering. Do, Tuong et al. ICCV 2019
 5. Cross-Modal Knowledge Distillation for Action Recognition. Thoker, Fida Mohammad and Gall, Juerge. ICIP 2019
+6. Learning to Map Nearly Anything. Salem, Tawfiq et al. arXiv:1909.06928
 
 ## Application of KD
 
@@ -162,6 +169,7 @@
 4. Knowledge Distillation for Bilingual Dictionary Induction. EMNLP 2017
 5. A Teacher-Student Framework for Maintainable Dialog Manager. EMNLP 2018
 6. Understanding Knowledge Distillation in Non-Autoregressive Machine Translation. arxiv 2019
+7. DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter. Sanh, Victor et al. arXiv:1910.01108
 
 ## Beyond
 
@@ -170,6 +178,7 @@
 3. Towards Understanding Knowledge Distillation. Phuong, Mary and Lampert, Christoph. AAAI 2019
 4. Harnessing deep neural networks with logucal rules. ACL 2016
    <!-- * 融合先验知识 -->
+5. Adaptive Regularization of Labels. Ding, Qianggang et al. arXiv:1908.05474
 
 ---
 Note: All papers pdf can be found and downloaded on bing or Google.
