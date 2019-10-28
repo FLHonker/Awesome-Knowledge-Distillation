@@ -147,6 +147,8 @@
 4. Compact Trilinear Interaction for Visual Question Answering. Do, Tuong et al. ICCV 2019
 5. Cross-Modal Knowledge Distillation for Action Recognition. Thoker, Fida Mohammad and Gall, Juerge. ICIP 2019
 6. Learning to Map Nearly Anything. Salem, Tawfiq et al. arXiv:1909.06928
+7. Semantic-Aware Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval. Liu, Qing et al. ICCV 2019
+8. UM-Adapt: Unsupervised Multi-Task Adaptation Using Adversarial Cross-Task Distillation. Kundu et al. ICCV 2019
 
 ## Application of KD
 
