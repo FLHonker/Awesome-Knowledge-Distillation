@@ -177,6 +177,7 @@
 5. A Teacher-Student Framework for Maintainable Dialog Manager. EMNLP 2018
 6. Understanding Knowledge Distillation in Non-Autoregressive Machine Translation. arxiv 2019
 7. DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter. Sanh, Victor et al. arXiv:1910.01108
+8. Well-Read Students Learn Better: On the Importance of Pre-training Compact Models. Turc, Iulia et al. arXiv:1908.08962
 
 ## Beyond
 
