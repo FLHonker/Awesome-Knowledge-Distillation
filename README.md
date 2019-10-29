@@ -17,6 +17,7 @@
   - [Cross-modal KD](#cross-modal-kd)
   - [Application of KD](#application-of-kd)
     - [for NLP](#for-nlp)
+  - [Model Pruning](#model-pruning)
   - [Beyond](#beyond)
 
 ## Different form of knowledge
@@ -56,7 +57,7 @@
 
 ### Self-KD
 
-1.  Moonshine:Distilling with Cheap Convolutions. Crowley, Elliot J. et al. NIPS 2018 
+1. Moonshine:Distilling with Cheap Convolutions. Crowley, Elliot J. et al. NIPS 2018 
 2. Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation. Zhang, Linfeng et al. ICCV 2019
 3. Learning Lightweight Lane Detection CNNs by Self Attention Distillation. Hou, Yuenan et al. ICCV 2019
 4. BAM! Born-Again Multi-Task Networks for Natural Language Understanding. Clark, Kevin et al. ACL 2019,short
@@ -100,6 +101,8 @@
 1. Sample Knowledge Distillation for Efficient Network Compression. Li, Tianhong et al. Arxiv:1812.01839
 2. Learning What and Where to Transfer. Jang, Yunhun et al, ICML 2019
 3. Transferring Knowledge across Learning Processes. Moreno, Pablo G et al. ICLR 2019
+4. Few-Shot Image Recognition with Knowledge Transfer. Peng, Zhimao et al. ICCV 2019
+5. Semantic-Aware Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval. Liu, Qing et al. ICCV 2019
 
 ## Data-free KD
 1. Data-Free Knowledge Distillation for Deep Neural Networks. NIPS 2017
@@ -168,6 +171,7 @@
 14. AWSD:Adaptive Weighted Spatiotemporal Distillation for _Video Representation_. Tavakolian, Mohammad et al. ICCV 2019
 15. Dynamic Kernel Distillation for Efficient _Pose Estimation_ in Videos. Nie, Xuecheng et al. ICCV 2019
 16. Teacher Guided _Architecture Search_. Bashivan, Pouya and Tensen, Mark. ICCV 2019
+17. Online Model Distillation for Efficient _Video Inference_. Mullapudi et al. ICCV 2019
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
@@ -178,6 +182,12 @@
 6. Understanding Knowledge Distillation in Non-Autoregressive Machine Translation. arxiv 2019
 7. DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter. Sanh, Victor et al. arXiv:1910.01108
 8. Well-Read Students Learn Better: On the Importance of Pre-training Compact Models. Turc, Iulia et al. arXiv:1908.08962
+
+## Model Pruning
+1. N2N Learning: Network to Network Compression via Policy Gradient Reinforcement Learning. Ashok, Anubhav et al. ICLR 2018
+2. Slimmable Neural Networks. Yu, Jiahui et al. ICLR 2018
+3. Co-Evolutionary Compression for Unpaired Image Translation. Shu, Han et al. ICCV 2019
+4. MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning. Liu, Zechun et al. ICCV 2019
 
 ## Beyond
 
