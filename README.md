@@ -32,7 +32,7 @@
 6. Like What You Like: Knowledge Distill via Neuron Selectivity Transfer. Huang, Zehao and Wang, Naiyan. 2017
 7. On Knowledge Distillation from Complex Networks for Response Prediction. Arora, Siddhartha et al. NAACL 2019
 8. On the Efficacy of Knowledge Distillation. Cho, Jang Hyun and Hariharan, Bharath. arXiv:1910.01348
-9.[noval]Revisit Knowledge Distillation: a Teacher-free Framework. Yuan, Li et al. arXiv:1909.11723
+9. [noval]Revisit Knowledge Distillation: a Teacher-free Framework. Yuan, Li et al. arXiv:1909.11723
 
 ### Knowledge from intermediate layers
 
@@ -197,7 +197,7 @@
 4. Harnessing deep neural networks with logucal rules. ACL 2016
    <!-- * 融合先验知识 -->
 5. Adaptive Regularization of Labels. Ding, Qianggang et al. arXiv:1908.05474
-
+6. Knowledge Isomorphism between Neural Networks. Liang, Ruofan et al. arXiv:1908.01581
 ---
 Note: All papers pdf can be found and downloaded on bing or Google.
 
