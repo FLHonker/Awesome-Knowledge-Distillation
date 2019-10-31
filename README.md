@@ -167,7 +167,7 @@
 9. Structured Knowledge Distillation for _Semantic Segmentation_. Liu, Yifan et al. CVPR 2019
 10. Relation Distillation Networks for _Video Object Detection_. Deng, Jiajun et al. ICCV 2019
 11. Teacher Supervises Students How to Learn From Partially Labeled Images for _Facial Landmark Detection_. Dong, Xuanyi and Yang, Yi. ICCV 2019
-12. Progressive Teacher-student Learning for Early Action Prediction. Wang, Xionghui et al. CVPR2019
+12. Progressive Teacher-student Learning for Early _Action Prediction_. Wang, Xionghui et al. CVPR2019
 13. Lightweight Image _Super-Resolution_ with Information Multi-distillation Network. Hui, Zheng et al. ICCVW 2019
 14. AWSD:Adaptive Weighted Spatiotemporal Distillation for _Video Representation_. Tavakolian, Mohammad et al. ICCV 2019
 15. Dynamic Kernel Distillation for Efficient _Pose Estimation_ in Videos. Nie, Xuecheng et al. ICCV 2019
