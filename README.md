@@ -152,6 +152,7 @@
 6. Learning to Map Nearly Anything. Salem, Tawfiq et al. arXiv:1909.06928
 7. Semantic-Aware Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval. Liu, Qing et al. ICCV 2019
 8. UM-Adapt: Unsupervised Multi-Task Adaptation Using Adversarial Cross-Task Distillation. Kundu et al. ICCV 2019
+9. CrDoCo: Pixel-level Domain Transfer with Cross-Domain Consistency. Chen, Yun-Chun et al. CVPR 2019
 
 ## Application of KD
 
@@ -198,6 +199,7 @@
    <!-- * 融合先验知识 -->
 5. Adaptive Regularization of Labels. Ding, Qianggang et al. arXiv:1908.05474
 6. Knowledge Isomorphism between Neural Networks. Liang, Ruofan et al. arXiv:1908.01581
+
 ---
 Note: All papers pdf can be found and downloaded on bing or Google.
 
