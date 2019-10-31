@@ -25,28 +25,28 @@
 ### Knowledge from logits
 
 1. Distilling the knowledge in a neural network. Hinton et al. arXiv:1503.02531
-2. A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning. Yim, Junho et al. CVPR 2017
-3. Knowledge distillation by on-the-fly native ensemble. Lan, Xu et al. NIPS 2018
-4. Learning Metrics from Teachers: Compact Networks for Image Embedding. Yu, Lu et al. CVPR 2019
-5. Relational Knowledge Distillation.  Park, Wonpyo et al, CVPR 2019
-6. Like What You Like: Knowledge Distill via Neuron Selectivity Transfer. Huang, Zehao and Wang, Naiyan. 2017
-7. On Knowledge Distillation from Complex Networks for Response Prediction. Arora, Siddhartha et al. NAACL 2019
-8. On the Efficacy of Knowledge Distillation. Cho, Jang Hyun and Hariharan, Bharath. arXiv:1910.01348
-9. [noval]Revisit Knowledge Distillation: a Teacher-free Framework. Yuan, Li et al. arXiv:1909.11723
+2. Knowledge distillation by on-the-fly native ensemble. Lan, Xu et al. NIPS 2018
+3. Learning Metrics from Teachers: Compact Networks for Image Embedding. Yu, Lu et al. CVPR 2019
+4. Relational Knowledge Distillation.  Park, Wonpyo et al, CVPR 2019
+5. Like What You Like: Knowledge Distill via Neuron Selectivity Transfer. Huang, Zehao and Wang, Naiyan. 2017
+6. On Knowledge Distillation from Complex Networks for Response Prediction. Arora, Siddhartha et al. NAACL 2019
+7. On the Efficacy of Knowledge Distillation. Cho, Jang Hyun and Hariharan, Bharath. arXiv:1910.01348
+8. [noval]Revisit Knowledge Distillation: a Teacher-free Framework. Yuan, Li et al. arXiv:1909.11723
 
 ### Knowledge from intermediate layers
 
 1. Fitnets: Hints for thin deep nets. Romero, Adriana et al. arXiv:1412.6550
 2. Paying more attention to attention: Improving the performance of convolutional neural networks via attention transfer. Zagoruyko et al. ICLR 2017
 3. Knowledge Projection for Effective Design of Thinner and Faster Deep Neural Networks. Zhang, Zhi et al. arXiv:1710.09505
-4. Paraphrasing complex network: Network compression via factor transfer. Kim, Jangho et al. NIPS 2018
-5. Variational Information Distillation for Knowledge Transfer. Ahn, Sungsoo et al. CVPR 2019
+4. A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning. Yim, Junho et al. CVPR 2017
+5. Paraphrasing complex network: Network compression via factor transfer. Kim, Jangho et al. NIPS 2018
+6. Variational Information Distillation for Knowledge Transfer. Ahn, Sungsoo et al. CVPR 2019
    <!-- * 通过互信息导出关于student中间层表示和teacher中间表示的关系。 -->
-6. Knowledge Distillation via Instance Relationship Graph. Liu, Yufan et al. CVPR 2019
-7. Knowledge Distillation via Route Constrained Optimization. Jin, Xiao et al. ICCV 2019
-8. Similarity-Preserving Knowledge Distillation. Tung, Frederick, and Mori Greg. ICCV 2019
-9. MEAL: Multi-Model Ensemble via Adversarial Learning. Shen,Zhiqiang, He,Zhankui, and Xue Xiangyang. AAAI 2019
-10. A Comprehensive Overhaul of Feature Distillation. Heo, Byeongho et al. ICCV 2019
+7. Knowledge Distillation via Instance Relationship Graph. Liu, Yufan et al. CVPR 2019
+8. Knowledge Distillation via Route Constrained Optimization. Jin, Xiao et al. ICCV 2019
+9. Similarity-Preserving Knowledge Distillation. Tung, Frederick, and Mori Greg. ICCV 2019
+10. MEAL: Multi-Model Ensemble via Adversarial Learning. Shen,Zhiqiang, He,Zhankui, and Xue Xiangyang. AAAI 2019
+11. A Comprehensive Overhaul of Feature Distillation. Heo, Byeongho et al. ICCV 2019
 
 ### Mutual Information
 
