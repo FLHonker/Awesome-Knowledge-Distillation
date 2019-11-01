@@ -109,6 +109,11 @@
 2. Zero-Shot Knowledge Distillation in Deep Networks. ICML 2019
 3. DAFL:Data-Free Learning of Student Networks. ICCV 2019
 
+---
+other data-free model compression:
+4. Data-free Parameter Pruning for Deep Neural Networks. Srinivas, Suraj et al. arXiv:1507.06149
+5. Data-Free Quantization Through Weight Equalization and Bias Correction. Nagel, Markus et al. ICCV 2019
+
 ## KD + AutoML
 
 1. Improving Neural Architecture Search Image Classifiers via Ensemble Learning. Macko, Vladimir et al. 2019
