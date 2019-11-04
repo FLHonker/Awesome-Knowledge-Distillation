@@ -99,7 +99,7 @@
 
 ## KD + Meta-learning
 
-1. Few Sample Knowledge Distillation for Efficient Network Compression. Li, Tianhong et al. Arxiv:1812.01839
+1. Few Sample Knowledge Distillation for Efficient Network Compression. Li, Tianhong et al. arxiv:1812.01839
 2. Learning What and Where to Transfer. Jang, Yunhun et al, ICML 2019
 3. Transferring Knowledge across Learning Processes. Moreno, Pablo G et al. ICLR 2019
 4. Few-Shot Image Recognition with Knowledge Transfer. Peng, Zhimao et al. ICCV 2019
