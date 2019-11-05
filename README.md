@@ -180,6 +180,7 @@
 15. Dynamic Kernel Distillation for Efficient _Pose Estimation_ in Videos. Nie, Xuecheng et al. ICCV 2019
 16. Teacher Guided _Architecture Search_. Bashivan, Pouya and Tensen, Mark. ICCV 2019
 17. Online Model Distillation for Efficient _Video Inference_. Mullapudi et al. ICCV 2019
+18. Distilling _Object Detectors_ with Fine-grained Feature Imitation. Wang, Tao et al. CVPR2019
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
