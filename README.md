@@ -82,7 +82,7 @@
 
 ## KD + GAN
 
-1. Training Shallow and Thin Networks for Acceleration via Knowledge Distillation with Conditional Adversarial Networks. Xu, Zheng et al. ArXiv:1709.00513
+1. Training Shallow and Thin Networks for Acceleration via Knowledge Distillation with Conditional Adversarial Networks. Xu, Zheng et al. arXiv:1709.00513
 2. KDGAN:Knowledge Distillation with Generative Adversarial Networks. Wang, Xiaojie. NIPS 2018
 3. Adversarial Learning of Portable Student Networks. Wang, Yunhe et al. AAAI 2018
 4. Adversarial Network Compression. Belagiannis, Vasileios et al. ECCV 2018
