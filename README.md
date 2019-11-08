@@ -98,6 +98,7 @@
 12. GAN-Knowledge Distillation for one-stage Object Detection. Hong, Wei et al. arXiv:1906.08467
 13. Lifelong GAN: Continual Learning for Conditional Image Generation. Kundu et al. arXiv:1908.03884
 14. Compressing GANs using Knowledge Distillation. Aguinaldo, Angeline et al. arXiv:1902.00159
+15. Feature-map-level Online Adversarial Knowledge Distillation. ICLR 2020
 
 ## KD + Meta-learning
 
