@@ -195,6 +195,7 @@
 6. Understanding Knowledge Distillation in Non-Autoregressive Machine Translation. arxiv 2019
 7. DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter. Sanh, Victor et al. arXiv:1910.01108
 8. Well-Read Students Learn Better: On the Importance of Pre-training Compact Models. Turc, Iulia et al. arXiv:1908.08962
+9. On Knowledge distillation from complex networks for response prediction. Arora, Siddhartha et al. NAACL 2019
 
 ## Model Pruning
 1. N2N Learning: Network to Network Compression via Policy Gradient Reinforcement Learning. Ashok, Anubhav et al. ICLR 2018
