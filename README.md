@@ -32,6 +32,12 @@
 6. On Knowledge Distillation from Complex Networks for Response Prediction. Arora, Siddhartha et al. NAACL 2019
 7. On the Efficacy of Knowledge Distillation. Cho, Jang Hyun and Hariharan, Bharath. arXiv:1910.01348
 8. [noval]Revisit Knowledge Distillation: a Teacher-free Framework. Yuan, Li et al. arXiv:1909.11723
+9. Improved Knowledge Distillation via Teacher Assistant: Bridging the Gap Between Student and Teacher. Mirzadeh et al. arXiv:1902.03393
+10. Ensemble Distribution Distillation. ICLR 2020
+11. Regularizing Predictions via Class wise Self knowledge Distillation. ICLR 2020
+12. Noisy Collaboration in Knowledge Distillation. ICLR 2020
+13. On Compressing U-net Using Knowledge Distillation. arXiv:1812.00249
+14. Distillation-Based Training for Multi-Exit Architectures. Phuong, Mary and Lampert, Christoph H. ICCV 2019
 
 ### Knowledge from intermediate layers
 
@@ -47,6 +53,12 @@
 9. Similarity-Preserving Knowledge Distillation. Tung, Frederick, and Mori Greg. ICCV 2019
 10. MEAL: Multi-Model Ensemble via Adversarial Learning. Shen,Zhiqiang, He,Zhankui, and Xue Xiangyang. AAAI 2019
 11. A Comprehensive Overhaul of Feature Distillation. Heo, Byeongho et al. ICCV 2019
+12. Paraphrasing complex network: Network compression via factor transfer. Kim, Jangho et al. NIPS 2018
+13. Self-supervised knowledge distillation using singular value decomposition. Lee, Seung Hyun et al. ECCV 2018
+14. Graph-based Knowledge Distillation by Multi-head Attention Network. Lee, Seunghyun and Song, Byung. Cheol arXiv:1907.02226
+15. Feature-map-level Online Adversarial Knowledge Distillation. ICLR 2020
+16. Distilling Object Detectors with Fine-grained Feature Imitation. ICLR 2020
+17. A Comprehensive Overhaul of Feature Distillation. Heo, Byeongho et al. ICCV 2019
 
 ### Mutual Information
 
@@ -99,6 +111,7 @@
 13. Lifelong GAN: Continual Learning for Conditional Image Generation. Kundu et al. arXiv:1908.03884
 14. Compressing GANs using Knowledge Distillation. Aguinaldo, Angeline et al. arXiv:1902.00159
 15. Feature-map-level Online Adversarial Knowledge Distillation. ICLR 2020
+16. Progressive Knowledge Distillation For Generative Modeling. ICLR 2020
 
 ## KD + Meta-learning
 
@@ -164,6 +177,7 @@
 7. Semantic-Aware Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval. Liu, Qing et al. ICCV 2019
 8. UM-Adapt: Unsupervised Multi-Task Adaptation Using Adversarial Cross-Task Distillation. Kundu et al. ICCV 2019
 9. CrDoCo: Pixel-level Domain Transfer with Cross-Domain Consistency. Chen, Yun-Chun et al. CVPR 2019
+10. XD:Cross lingual Knowledge Distillation for Polyglot Sentence Embeddings. ICLR 2020
 
 ## Application of KD
 
@@ -185,6 +199,7 @@
 16. Teacher Guided _Architecture Search_. Bashivan, Pouya and Tensen, Mark. ICCV 2019
 17. Online Model Distillation for Efficient _Video Inference_. Mullapudi et al. ICCV 2019
 18. Distilling _Object Detectors_ with Fine-grained Feature Imitation. Wang, Tao et al. CVPR2019
+19. Relation Distillation Networks for _Video Object Detection_. Deng, Jiajun et al. ICCV 2019
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
@@ -202,6 +217,9 @@
 2. Slimmable Neural Networks. Yu, Jiahui et al. ICLR 2018
 3. Co-Evolutionary Compression for Unpaired Image Translation. Shu, Han et al. ICCV 2019
 4. MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning. Liu, Zechun et al. ICCV 2019
+5. LightPAFF: A Two-Stage Distillation Framework for Pre-training and Fine-tuning. ICLR 2020
+6. Pruning with hints: an efficient framework for model acceleration. ICLR 2020
+7. Training convolutional neural networks with cheap convolutions and online distillation. arXiv:1909.13063
 
 ## Beyond
 
@@ -212,6 +230,7 @@
    <!-- * 融合先验知识 -->
 5. Adaptive Regularization of Labels. Ding, Qianggang et al. arXiv:1908.05474
 6. Knowledge Isomorphism between Neural Networks. Liang, Ruofan et al. arXiv:1908.01581
+7. Role-Wise Data Augmentation for Knowledge Distillation. ICLR 2020
 
 ---
 Note: All papers pdf can be found and downloaded on bing or Google.
