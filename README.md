@@ -34,10 +34,9 @@
 8. [noval]Revisit Knowledge Distillation: a Teacher-free Framework. Yuan, Li et al. arXiv:1909.11723
 9. Improved Knowledge Distillation via Teacher Assistant: Bridging the Gap Between Student and Teacher. Mirzadeh et al. arXiv:1902.03393
 10. Ensemble Distribution Distillation. ICLR 2020
-11. Regularizing Predictions via Class wise Self knowledge Distillation. ICLR 2020
-12. Noisy Collaboration in Knowledge Distillation. ICLR 2020
-13. On Compressing U-net Using Knowledge Distillation. arXiv:1812.00249
-14. Distillation-Based Training for Multi-Exit Architectures. Phuong, Mary and Lampert, Christoph H. ICCV 2019
+11. Noisy Collaboration in Knowledge Distillation. ICLR 2020
+12. On Compressing U-net Using Knowledge Distillation. arXiv:1812.00249
+13. Distillation-Based Training for Multi-Exit Architectures. Phuong, Mary and Lampert, Christoph H. ICCV 2019
 
 ### Knowledge from intermediate layers
 
@@ -74,6 +73,7 @@
 4. BAM! Born-Again Multi-Task Networks for Natural Language Understanding. Clark, Kevin et al. ACL 2019,short
 5. Self-Knowledge Distillation in Natural Language Processing. Hahn, Sangchul and Choi, Heeyoul. arXiv:1908.01851
 6. Rethinking Data Augmentation: Self-Supervision and Self-Distillation. Lee, Hankook et al. ICLR 2020
+7. Regularizing Predictions via Class wise Self knowledge Distillation. ICLR 2020
 
 ### Structured Knowledge
 
