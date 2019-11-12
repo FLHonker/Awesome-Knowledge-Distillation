@@ -57,6 +57,7 @@
 14. Graph-based Knowledge Distillation by Multi-head Attention Network. Lee, Seunghyun and Song, Byung. Cheol arXiv:1907.02226
 15. Feature-map-level Online Adversarial Knowledge Distillation. ICLR 2020
 16. Distilling Object Detectors with Fine-grained Feature Imitation. ICLR 2020
+17. Knowledge Squeezed Adversarial Network Compression. Changyong, Shu et al. AAAI 2020
 
 ### Mutual Information
 
