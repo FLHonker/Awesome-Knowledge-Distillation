@@ -37,6 +37,7 @@
 11. Noisy Collaboration in Knowledge Distillation. ICLR 2020
 12. On Compressing U-net Using Knowledge Distillation. arXiv:1812.00249
 13. Distillation-Based Training for Multi-Exit Architectures. Phuong, Mary and Lampert, Christoph H. ICCV 2019
+14. Self-training with Noisy Student improves ImageNet classification. Xie, Qizhe et al.(Google) arXiv:1911.04252
 
 ### Knowledge from intermediate layers
 
