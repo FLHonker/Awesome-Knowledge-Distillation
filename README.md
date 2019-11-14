@@ -4,6 +4,7 @@
   - [Different form of knowledge](#different-form-of-knowledge)
     - [Knowledge from logits](#knowledge-from-logits)
     - [Knowledge from intermediate layers](#knowledge-from-intermediate-layers)
+    - [Graph-based](#graph-based)
     - [Mutual Information](#mutual-information)
     - [Self-KD](#self-kd)
     - [Structured Knowledge](#structured-knowledge)
