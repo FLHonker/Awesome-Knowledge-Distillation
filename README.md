@@ -38,6 +38,7 @@
 12. On Compressing U-net Using Knowledge Distillation. arXiv:1812.00249
 13. Distillation-Based Training for Multi-Exit Architectures. Phuong, Mary and Lampert, Christoph H. ICCV 2019
 14. Self-training with Noisy Student improves ImageNet classification. Xie, Qizhe et al.(Google) arXiv:1911.04252
+15. Variational Student: Learning Compact and Sparser Networks in Knowledge Distillation Framework. arXiv:1910.12061
 
 ### Knowledge from intermediate layers
 
@@ -55,10 +56,14 @@
 11. A Comprehensive Overhaul of Feature Distillation. Heo, Byeongho et al. ICCV 2019
 12. Paraphrasing complex network: Network compression via factor transfer. Kim, Jangho et al. NIPS 2018
 13. Self-supervised knowledge distillation using singular value decomposition. Lee, Seung Hyun et al. ECCV 2018
-14. Graph-based Knowledge Distillation by Multi-head Attention Network. Lee, Seunghyun and Song, Byung. Cheol arXiv:1907.02226
-15. Feature-map-level Online Adversarial Knowledge Distillation. ICLR 2020
-16. Distilling Object Detectors with Fine-grained Feature Imitation. ICLR 2020
-17. Knowledge Squeezed Adversarial Network Compression. Changyong, Shu et al. AAAI 2020
+14. Feature-map-level Online Adversarial Knowledge Distillation. ICLR 2020
+15. Distilling Object Detectors with Fine-grained Feature Imitation. ICLR 2020
+16. Knowledge Squeezed Adversarial Network Compression. Changyong, Shu et al. AAAI 2020
+
+### Graph-based
+1. Graph-based Knowledge Distillation by Multi-head Attention Network. Lee, Seunghyun and Song, Byung. Cheol arXiv:1907.02226
+2. Graph Representation Learning via Multi-task Knowledge Distillation. arXiv:1911.05700
+3. Deep geometric knowledge distillation with graphs. arXiv:1911.03080
 
 ### Mutual Information
 
@@ -202,6 +207,8 @@
 17. Online Model Distillation for Efficient _Video Inference_. Mullapudi et al. ICCV 2019
 18. Distilling _Object Detectors_ with Fine-grained Feature Imitation. Wang, Tao et al. CVPR2019
 19. Relation Distillation Networks for _Video Object Detection_. Deng, Jiajun et al. ICCV 2019
+20. Knowledge Distillation for Incremental Learning in _Semantic Segmentation_. arXiv:1911.03462
+21. MOD: A Deep Mixture Model with Online Knowledge Distillation for Large Scale Video Temporal Concept Localization. arXiv:1910.12295
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
@@ -213,6 +220,8 @@
 7. DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter. Sanh, Victor et al. arXiv:1910.01108
 8. Well-Read Students Learn Better: On the Importance of Pre-training Compact Models. Turc, Iulia et al. arXiv:1908.08962
 9. On Knowledge distillation from complex networks for response prediction. Arora, Siddhartha et al. NAACL 2019
+10. Distilling the Knowledge of BERT for Text Generation. arXiv:1911.03829v1
+11. Understanding Knowledge Distillation in Non-autoregressive Machine Translation. arXiv:1911.02727
 
 ## Model Pruning
 1. N2N Learning: Network to Network Compression via Policy Gradient Reinforcement Learning. Ashok, Anubhav et al. ICLR 2018
@@ -233,6 +242,8 @@
 5. Adaptive Regularization of Labels. Ding, Qianggang et al. arXiv:1908.05474
 6. Knowledge Isomorphism between Neural Networks. Liang, Ruofan et al. arXiv:1908.01581
 7. Role-Wise Data Augmentation for Knowledge Distillation. ICLR 2020
+8. Neural Network Distiller: A Python Package For DNN Compression Research. arXiv:1910.12232
+
 
 ---
 Note: All papers pdf can be found and downloaded on bing or Google.
