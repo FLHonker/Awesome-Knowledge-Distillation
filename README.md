@@ -243,7 +243,7 @@
 5. Adaptive Regularization of Labels. Ding, Qianggang et al. arXiv:1908.05474
 6. Knowledge Isomorphism between Neural Networks. Liang, Ruofan et al. arXiv:1908.01581
 7. Role-Wise Data Augmentation for Knowledge Distillation. ICLR 2020
-8. Neural Network Distiller: A Python Package For DNN Compression Research. arXiv:1910.12232
+8. [Neural Network Distiller][1]: A Python Package For DNN Compression Research. arXiv:1910.12232
 
 
 ---
@@ -252,3 +252,5 @@ Note: All papers pdf can be found and downloaded on bing or Google.
 Source: <https://github.com/FLHonker/Awesome-Knowledge-Distillation>
 
 Contact: Yuang Liu(<frankliu624@gmail.com>), AIDA, [ECNU](https://www.ecnu.edu.cn/).
+
+[1]:https://github.com/NervanaSystems/distiller
