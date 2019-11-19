@@ -40,6 +40,7 @@
 13. Distillation-Based Training for Multi-Exit Architectures. Phuong, Mary and Lampert, Christoph H. ICCV 2019
 14. Self-training with Noisy Student improves ImageNet classification. Xie, Qizhe et al.(Google) arXiv:1911.04252
 15. Variational Student: Learning Compact and Sparser Networks in Knowledge Distillation Framework. arXiv:1910.12061
+16. Preparing Lessons: Improve Knowledge Distillation with Better Supervision. arXiv:1911.07471
 
 ### Knowledge from intermediate layers
 
@@ -60,6 +61,7 @@
 14. Feature-map-level Online Adversarial Knowledge Distillation. ICLR 2020
 15. Distilling Object Detectors with Fine-grained Feature Imitation. ICLR 2020
 16. Knowledge Squeezed Adversarial Network Compression. Changyong, Shu et al. AAAI 2020
+17. Stagewise Knowledge Distillation. Kulkarni, Akshay et al. arXiv: 1911.06786
 
 ### Graph-based
 1. Graph-based Knowledge Distillation by Multi-head Attention Network. Lee, Seunghyun and Song, Byung. Cheol arXiv:1907.02226
@@ -128,6 +130,7 @@
 3. Transferring Knowledge across Learning Processes. Moreno, Pablo G et al. ICLR 2019
 4. Few-Shot Image Recognition with Knowledge Transfer. Peng, Zhimao et al. ICCV 2019
 5. Semantic-Aware Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval. Liu, Qing et al. ICCV 2019
+6. Knowledge Representing: Efficient, Sparse Representation of Prior Knowledge for Knowledge Distillation. arXiv:1911.05329v1
 
 ## Data-free KD
 1. Data-Free Knowledge Distillation for Deep Neural Networks. NIPS 2017
