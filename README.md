@@ -57,13 +57,12 @@
 9. Similarity-Preserving Knowledge Distillation. Tung, Frederick, and Mori Greg. ICCV 2019
 10. MEAL: Multi-Model Ensemble via Adversarial Learning. Shen,Zhiqiang, He,Zhankui, and Xue Xiangyang. AAAI 2019
 11. A Comprehensive Overhaul of Feature Distillation. Heo, Byeongho et al. ICCV 2019
-12. Paraphrasing complex network: Network compression via factor transfer. Kim, Jangho et al. NIPS 2018
-13. Self-supervised knowledge distillation using singular value decomposition. Lee, Seung Hyun et al. ECCV 2018
-14. Feature-map-level Online Adversarial Knowledge Distillation. ICLR 2020
-15. Distilling Object Detectors with Fine-grained Feature Imitation. ICLR 2020
-16. Knowledge Squeezed Adversarial Network Compression. Changyong, Shu et al. AAAI 2020
-17. Stagewise Knowledge Distillation. Kulkarni, Akshay et al. arXiv: 1911.06786
-18. Knowledge Distillation from Internal Representations. arXiv:1910.03723
+12. Self-supervised knowledge distillation using singular value decomposition. Lee, Seung Hyun et al. ECCV 2018
+13. Feature-map-level Online Adversarial Knowledge Distillation. ICLR 2020
+14. Distilling Object Detectors with Fine-grained Feature Imitation. ICLR 2020
+15. Knowledge Squeezed Adversarial Network Compression. Changyong, Shu et al. AAAI 2020
+16. Stagewise Knowledge Distillation. Kulkarni, Akshay et al. arXiv: 1911.06786
+17. Knowledge Distillation from Internal Representations. arXiv:1910.03723
 
 ### Graph-based
 1. Graph-based Knowledge Distillation by Multi-head Attention Network. Lee, Seunghyun and Song, Byung. Cheol arXiv:1907.02226
