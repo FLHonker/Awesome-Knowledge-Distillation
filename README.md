@@ -63,6 +63,7 @@
 15. Knowledge Squeezed Adversarial Network Compression. Changyong, Shu et al. AAAI 2020
 16. Stagewise Knowledge Distillation. Kulkarni, Akshay et al. arXiv: 1911.06786
 17. Knowledge Distillation from Internal Representations. arXiv:1910.03723
+18. Knowledge Flow:Improve Upon Your Teachers. ICLR 2019
 
 ### Graph-based
 1. Graph-based Knowledge Distillation by Multi-head Attention Network. Lee, Seunghyun and Song, Byung. Cheol arXiv:1907.02226
