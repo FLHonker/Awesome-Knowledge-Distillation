@@ -41,6 +41,7 @@
 14. Self-training with Noisy Student improves ImageNet classification. Xie, Qizhe et al.(Google) arXiv:1911.04252
 15. Variational Student: Learning Compact and Sparser Networks in Knowledge Distillation Framework. arXiv:1910.12061
 16. Preparing Lessons: Improve Knowledge Distillation with Better Supervision. arXiv:1911.07471
+17. Adaptive Regularization of Labels. arXiv:1908.05474
 
 ### Knowledge from intermediate layers
 
@@ -62,6 +63,7 @@
 15. Distilling Object Detectors with Fine-grained Feature Imitation. ICLR 2020
 16. Knowledge Squeezed Adversarial Network Compression. Changyong, Shu et al. AAAI 2020
 17. Stagewise Knowledge Distillation. Kulkarni, Akshay et al. arXiv: 1911.06786
+18. Knowledge Distillation from Internal Representations. arXiv:1910.03723
 
 ### Graph-based
 1. Graph-based Knowledge Distillation by Multi-head Attention Network. Lee, Seunghyun and Song, Byung. Cheol arXiv:1907.02226
@@ -213,6 +215,7 @@
 19. Relation Distillation Networks for _Video Object Detection_. Deng, Jiajun et al. ICCV 2019
 20. Knowledge Distillation for Incremental Learning in _Semantic Segmentation_. arXiv:1911.03462
 21. MOD: A Deep Mixture Model with Online Knowledge Distillation for Large Scale Video Temporal Concept Localization. arXiv:1910.12295
+22. Teacher-Students Knowledge Distillation for _Siamese Trackers_. arXiv:1907.10586
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
