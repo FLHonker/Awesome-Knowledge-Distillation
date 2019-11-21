@@ -42,6 +42,7 @@
 15. Variational Student: Learning Compact and Sparser Networks in Knowledge Distillation Framework. arXiv:1910.12061
 16. Preparing Lessons: Improve Knowledge Distillation with Better Supervision. arXiv:1911.07471
 17. Adaptive Regularization of Labels. arXiv:1908.05474
+18. Positive-Unlabeled Compression on the Cloud. Xu, Yixing(HUAWEI) et al. NIPS 2019
 
 ### Knowledge from intermediate layers
 
