@@ -253,7 +253,7 @@
 
 
 ---
-Note: All papers pdf can be found and downloaded on [bing](bing.com) or [Google](google.com).
+Note: All papers pdf can be found and downloaded on [bing](https://www.bing.com) or [Google](https://www.google.com).
 
 Source: <https://github.com/FLHonker/Awesome-Knowledge-Distillation>
 
