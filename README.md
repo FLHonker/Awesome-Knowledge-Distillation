@@ -123,7 +123,6 @@
 14. Lifelong GAN: Continual Learning for Conditional Image Generation. Kundu et al. arXiv:1908.03884
 15. Compressing GANs using Knowledge Distillation. Aguinaldo, Angeline et al. arXiv:1902.00159
 16. Feature-map-level Online Adversarial Knowledge Distillation. ICLR 2020
-17. Progressive Knowledge Distillation For Generative Modeling. ICLR 2020
 
 ## KD + Meta-learning
 
@@ -133,6 +132,7 @@
 4. Few-Shot Image Recognition with Knowledge Transfer. Peng, Zhimao et al. ICCV 2019
 5. Semantic-Aware Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval. Liu, Qing et al. ICCV 2019
 6. Knowledge Representing: Efficient, Sparse Representation of Prior Knowledge for Knowledge Distillation. arXiv:1911.05329v1
+7. Progressive Knowledge Distillation For Generative Modeling. ICLR 2020
 
 ## Data-free KD
 1. Data-Free Knowledge Distillation for Deep Neural Networks. NIPS 2017
