@@ -87,6 +87,7 @@
 5. Self-Knowledge Distillation in Natural Language Processing. Hahn, Sangchul and Choi, Heeyoul. arXiv:1908.01851
 6. Rethinking Data Augmentation: Self-Supervision and Self-Distillation. Lee, Hankook et al. ICLR 2020
 7. Regularizing Predictions via Class wise Self knowledge Distillation. ICLR 2020
+8. MSD: Multi-Self-Distillation Learning via Multi-classifiers within Deep Neural Networks. arXiv:1911.09418
 
 ### Structured Knowledge
 
@@ -134,6 +135,7 @@
 5. Semantic-Aware Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval. Liu, Qing et al. ICCV 2019
 6. Knowledge Representing: Efficient, Sparse Representation of Prior Knowledge for Knowledge Distillation. arXiv:1911.05329v1
 7. Progressive Knowledge Distillation For Generative Modeling. ICLR 2020
+8. Few Shot Network Compression via Cross Distillation. AAAI 2020
 
 ## Data-free KD
 1. Data-Free Knowledge Distillation for Deep Neural Networks. NIPS 2017
