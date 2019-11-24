@@ -234,6 +234,7 @@
 9. On Knowledge distillation from complex networks for response prediction. Arora, Siddhartha et al. NAACL 2019
 10. Distilling the Knowledge of BERT for Text Generation. arXiv:1911.03829v1
 11. Understanding Knowledge Distillation in Non-autoregressive Machine Translation. arXiv:1911.02727
+12. MobileBERT: Task-Agnostic Compression of BERT by Progressive Knowledge Transfer. ICLR 2020
 
 ## Model Pruning
 1. N2N Learning: Network to Network Compression via Policy Gradient Reinforcement Learning. Ashok, Anubhav et al. ICLR 2018
