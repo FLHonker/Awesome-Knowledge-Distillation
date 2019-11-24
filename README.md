@@ -106,6 +106,8 @@
 3. Model compression via distillation and quantization. Polino, Antonio et al. ICLR 2018
 4. KDGAN:Knowledge Distillation with Generative Adversarial Networks. Wang, Xiaojie. NIPS 2018
 5. [noval]Efficient Video Classification Using Fewer Frames. Bhardwaj, Shweta et al. CVPR 2019
+6. Retaining privileged information for multi-task learning. Tang, Fengyi et al. KDD 2019
+7. A Generalized Meta-loss function for regression and classification using privileged information. Asif, Amina et al. arXiv:1811.06885
 
 ## KD + GAN
 
