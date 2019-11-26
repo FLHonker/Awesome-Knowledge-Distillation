@@ -198,6 +198,7 @@
 8. UM-Adapt: Unsupervised Multi-Task Adaptation Using Adversarial Cross-Task Distillation. Kundu et al. ICCV 2019
 9. CrDoCo: Pixel-level Domain Transfer with Cross-Domain Consistency. Chen, Yun-Chun et al. CVPR 2019
 10. XD:Cross lingual Knowledge Distillation for Polyglot Sentence Embeddings. ICLR 2020
+11. Effective Domain Knowledge Transfer with Soft Fine-tuning. Zhao, Zhichen et al. arXiv:1909.02236
 
 ## Application of KD
 
