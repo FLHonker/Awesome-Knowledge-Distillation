@@ -144,7 +144,7 @@
 1. Data-Free Knowledge Distillation for Deep Neural Networks. NIPS 2017
 2. Zero-Shot Knowledge Distillation in Deep Networks. ICML 2019
 3. DAFL:Data-Free Learning of Student Networks. ICCV 2019
-4. Zero-shot Knowledge Transfer via Adversarial Belief Matching. NIPS 2019
+4. Zero-shot Knowledge Transfer via Adversarial Belief Matching. Micaelli, Paul and Storkey, Amos. NIPS 2019
 
 - other data-free model compression:
 
