@@ -113,21 +113,22 @@
 ## KD + GAN
 
 1. Training Shallow and Thin Networks for Acceleration via Knowledge Distillation with Conditional Adversarial Networks. Xu, Zheng et al. arXiv:1709.00513
-2. KDGAN:Knowledge Distillation with Generative Adversarial Networks. Wang, Xiaojie. NIPS 2018
-3. Adversarial Learning of Portable Student Networks. Wang, Yunhe et al. AAAI 2018
-4. Adversarial Network Compression. Belagiannis, Vasileios et al. ECCV 2018
-5. Cross-Modality Distillation: A case for Conditional Generative Adversarial Networks. ICASSP 2018
-6. Adversarial Distillation for Efficient Recommendation with External Knowledge. TOIS 2018
-7. Training student networks for acceleration with conditional adversarial networks. Xu, Zheng et al. BMVC 2018
-8. [noval]DAFL:Data-Free Learning of Student Networks. Chen, Hanting et al. ICCV 2019
-9. MEAL: Multi-Model Ensemble via Adversarial Learning. Shen,Zhiqiang, He,Zhankui, and Xue Xiangyang. AAAI 2019
-10. Knowledge Distillation with Adversarial Samples Supporting Decision Boundary. Heo, Byeongho et al. AAAI 2019
-11. Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection. Liu, Jian et al. AAAI 2019
-12. Adversarially Robust Distillation. Goldblum, Micah et al. arXiv:1905.09747
-13. GAN-Knowledge Distillation for one-stage Object Detection. Hong, Wei et al. arXiv:1906.08467
-14. Lifelong GAN: Continual Learning for Conditional Image Generation. Kundu et al. arXiv:1908.03884
-15. Compressing GANs using Knowledge Distillation. Aguinaldo, Angeline et al. arXiv:1902.00159
-16. Feature-map-level Online Adversarial Knowledge Distillation. ICLR 2020
+2. KTAN: Knowledge Transfer Adversarial Network. Liu, Peiye et al. arXiv:1810.08126
+3. KDGAN:Knowledge Distillation with Generative Adversarial Networks. Wang, Xiaojie. NIPS 2018
+4. Adversarial Learning of Portable Student Networks. Wang, Yunhe et al. AAAI 2018
+5. Adversarial Network Compression. Belagiannis, Vasileios et al. ECCV 2018
+6. Cross-Modality Distillation: A case for Conditional Generative Adversarial Networks. ICASSP 2018
+7. Adversarial Distillation for Efficient Recommendation with External Knowledge. TOIS 2018
+8. Training student networks for acceleration with conditional adversarial networks. Xu, Zheng et al. BMVC 2018
+9. [noval]DAFL:Data-Free Learning of Student Networks. Chen, Hanting et al. ICCV 2019
+10. MEAL: Multi-Model Ensemble via Adversarial Learning. Shen,Zhiqiang, He,Zhankui, and Xue Xiangyang. AAAI 2019
+11. Knowledge Distillation with Adversarial Samples Supporting Decision Boundary. Heo, Byeongho et al. AAAI 2019
+12. Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection. Liu, Jian et al. AAAI 2019
+13. Adversarially Robust Distillation. Goldblum, Micah et al. arXiv:1905.09747
+14. GAN-Knowledge Distillation for one-stage Object Detection. Hong, Wei et al. arXiv:1906.08467
+15. Lifelong GAN: Continual Learning for Conditional Image Generation. Kundu et al. arXiv:1908.03884
+16. Compressing GANs using Knowledge Distillation. Aguinaldo, Angeline et al. arXiv:1902.00159
+17. Feature-map-level Online Adversarial Knowledge Distillation. ICLR 2020
 
 ## KD + Meta-learning
 
