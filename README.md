@@ -189,17 +189,18 @@
 
 ## Cross-modal KD
 
-1. Cross Modal Distillation for Supervision Transfer. Gupta, Saurabh et al. CVPR 2016
-2. Emotion recognition in speech using cross-modal transfer in the wild. Albanie, Samuel et al. ACM MM 2018
-3. Through-Wall Human Pose Estimation Using Radio Signals. Zhao, Mingmin et al. CVPR 2018
-4. Compact Trilinear Interaction for Visual Question Answering. Do, Tuong et al. ICCV 2019
-5. Cross-Modal Knowledge Distillation for Action Recognition. Thoker, Fida Mohammad and Gall, Juerge. ICIP 2019
-6. Learning to Map Nearly Anything. Salem, Tawfiq et al. arXiv:1909.06928
-7. Semantic-Aware Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval. Liu, Qing et al. ICCV 2019
-8. UM-Adapt: Unsupervised Multi-Task Adaptation Using Adversarial Cross-Task Distillation. Kundu et al. ICCV 2019
-9. CrDoCo: Pixel-level Domain Transfer with Cross-Domain Consistency. Chen, Yun-Chun et al. CVPR 2019
-10. XD:Cross lingual Knowledge Distillation for Polyglot Sentence Embeddings. ICLR 2020
-11. Effective Domain Knowledge Transfer with Soft Fine-tuning. Zhao, Zhichen et al. arXiv:1909.02236
+1. SoundNet: Learning Sound Representations from Unlabeled Video SoundNet Architecture. Aytar, Yusuf et al. NIPS 2016
+2. Cross Modal Distillation for Supervision Transfer. Gupta, Saurabh et al. CVPR 2016
+3. Emotion recognition in speech using cross-modal transfer in the wild. Albanie, Samuel et al. ACM MM 2018
+4. Through-Wall Human Pose Estimation Using Radio Signals. Zhao, Mingmin et al. CVPR 2018
+5. Compact Trilinear Interaction for Visual Question Answering. Do, Tuong et al. ICCV 2019
+6. Cross-Modal Knowledge Distillation for Action Recognition. Thoker, Fida Mohammad and Gall, Juerge. ICIP 2019
+7. Learning to Map Nearly Anything. Salem, Tawfiq et al. arXiv:1909.06928
+8. Semantic-Aware Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval. Liu, Qing et al. ICCV 2019
+9. UM-Adapt: Unsupervised Multi-Task Adaptation Using Adversarial Cross-Task Distillation. Kundu et al. ICCV 2019
+10. CrDoCo: Pixel-level Domain Transfer with Cross-Domain Consistency. Chen, Yun-Chun et al. CVPR 2019
+11. XD:Cross lingual Knowledge Distillation for Polyglot Sentence Embeddings. ICLR 2020
+12. Effective Domain Knowledge Transfer with Soft Fine-tuning. Zhao, Zhichen et al. arXiv:1909.02236
 
 ## Application of KD
 
