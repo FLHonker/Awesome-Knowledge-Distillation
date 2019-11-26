@@ -52,20 +52,21 @@
 3. Knowledge Projection for Effective Design of Thinner and Faster Deep Neural Networks. Zhang, Zhi et al. arXiv:1710.09505
 4. A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning. Yim, Junho et al. CVPR 2017
 5. Paraphrasing complex network: Network compression via factor transfer. Kim, Jangho et al. NIPS 2018
-6. Variational Information Distillation for Knowledge Transfer. Ahn, Sungsoo et al. CVPR 2019
-   <!-- * 通过互信息导出关于student中间层表示和teacher中间表示的关系。 -->
-7. Knowledge Distillation via Instance Relationship Graph. Liu, Yufan et al. CVPR 2019
-8. Knowledge Distillation via Route Constrained Optimization. Jin, Xiao et al. ICCV 2019
-9. Similarity-Preserving Knowledge Distillation. Tung, Frederick, and Mori Greg. ICCV 2019
-10. MEAL: Multi-Model Ensemble via Adversarial Learning. Shen,Zhiqiang, He,Zhankui, and Xue Xiangyang. AAAI 2019
-11. A Comprehensive Overhaul of Feature Distillation. Heo, Byeongho et al. ICCV 2019
-12. Self-supervised knowledge distillation using singular value decomposition. Lee, Seung Hyun et al. ECCV 2018
-13. Feature-map-level Online Adversarial Knowledge Distillation. ICLR 2020
-14. Distilling Object Detectors with Fine-grained Feature Imitation. ICLR 2020
-15. Knowledge Squeezed Adversarial Network Compression. Changyong, Shu et al. AAAI 2020
-16. Stagewise Knowledge Distillation. Kulkarni, Akshay et al. arXiv: 1911.06786
-17. Knowledge Distillation from Internal Representations. arXiv:1910.03723
-18. Knowledge Flow:Improve Upon Your Teachers. ICLR 2019
+6. Knowledge transfer with jacobian matching. ICML 2018
+7. Self-supervised knowledge distillation using singular value decomposition. Lee, Seung Hyun et al. ECCV 2018
+8. Variational Information Distillation for Knowledge Transfer. Ahn, Sungsoo et al. CVPR 2019
+9  <!-- * 通过互信息导出关于student中间层表示和teacher中间表示的关系。 -->
+10. Knowledge Distillation via Instance Relationship Graph. Liu, Yufan et al. CVPR 2019
+11. Knowledge Distillation via Route Constrained Optimization. Jin, Xiao et al. ICCV 2019
+12. Similarity-Preserving Knowledge Distillation. Tung, Frederick, and Mori Greg. ICCV 2019
+13. MEAL: Multi-Model Ensemble via Adversarial Learning. Shen,Zhiqiang, He,Zhankui, and Xue Xiangyang. AAAI 2019
+14. A Comprehensive Overhaul of Feature Distillation. Heo, Byeongho et al. ICCV 2019
+15. Feature-map-level Online Adversarial Knowledge Distillation. ICLR 2020
+16. Distilling Object Detectors with Fine-grained Feature Imitation. ICLR 2020
+17. Knowledge Squeezed Adversarial Network Compression. Changyong, Shu et al. AAAI 2020
+18. Stagewise Knowledge Distillation. Kulkarni, Akshay et al. arXiv: 1911.06786
+19. Knowledge Distillation from Internal Representations. arXiv:1910.03723
+20. Knowledge Flow:Improve Upon Your Teachers. ICLR 2019
 
 ### Graph-based
 1. Graph-based Knowledge Distillation by Multi-head Attention Network. Lee, Seunghyun and Song, Byung. Cheol arXiv:1907.02226
