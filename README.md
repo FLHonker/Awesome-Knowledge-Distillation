@@ -1,7 +1,7 @@
 # Awesome Knowledge-Distillation
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
-  - [Different form of knowledge](#different-form-of-knowledge)
+  - [Different forms of knowledge](#different-form-of-knowledge)
     - [Knowledge from logits](#knowledge-from-logits)
     - [Knowledge from intermediate layers](#knowledge-from-intermediate-layers)
     - [Graph-based](#graph-based)
@@ -21,7 +21,7 @@
   - [Model Pruning](#model-pruning)
   - [Beyond](#beyond)
 
-## Different form of knowledge
+## Different forms of knowledge
 
 ### Knowledge from logits
 
