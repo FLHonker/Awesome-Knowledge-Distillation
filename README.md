@@ -190,7 +190,7 @@
 
 ## Cross-modal KD
 
-1. SoundNet: Learning Sound Representations from Unlabeled Video SoundNet Architecture. Aytar, Yusuf et al. NIPS 2016
+1. SoundNet: Learning Sound Representations from Unlabeled Video SoundNet Architecture. Aytar, Yusuf et al. ECCV 2016
 2. Cross Modal Distillation for Supervision Transfer. Gupta, Saurabh et al. CVPR 2016
 3. Emotion recognition in speech using cross-modal transfer in the wild. Albanie, Samuel et al. ACM MM 2018
 4. Through-Wall Human Pose Estimation Using Radio Signals. Zhao, Mingmin et al. CVPR 2018
