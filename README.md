@@ -137,9 +137,10 @@
 2. Learning What and Where to Transfer. Jang, Yunhun et al, ICML 2019
 3. Transferring Knowledge across Learning Processes. Moreno, Pablo G et al. ICLR 2019
 4. Semantic-Aware Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval. Liu, Qing et al. ICCV 2019
-5. Knowledge Representing: Efficient, Sparse Representation of Prior Knowledge for Knowledge Distillation. arXiv:1911.05329v1
-6. Progressive Knowledge Distillation For Generative Modeling. ICLR 2020
-7. Few Shot Network Compression via Cross Distillation. AAAI 2020
+5. Diversity with Cooperation: Ensemble Methods for Few-Shot Classification. Dvornik, Nikita et al. ICCV 2019
+6. Knowledge Representing: Efficient, Sparse Representation of Prior Knowledge for Knowledge Distillation. arXiv:1911.05329v1
+7. Progressive Knowledge Distillation For Generative Modeling. ICLR 2020
+8. Few Shot Network Compression via Cross Distillation. AAAI 2020
 
 ## Data-free KD
 1. Data-Free Knowledge Distillation for Deep Neural Networks. NIPS 2017
@@ -265,7 +266,7 @@
 
 
 ---
-Number: 176
+Number: 177
 
 Note: All papers pdf can be found and downloaded on [Bing](https://www.bing.com) or [Google](https://www.google.com).
 
