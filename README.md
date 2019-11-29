@@ -1,4 +1,5 @@
 # Awesome Knowledge-Distillation
+![](https://img.shields.io/badge/Number-178-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-form-of-knowledge)
@@ -267,8 +268,6 @@
 
 
 ---
-Number: 178
-
 Note: All papers pdf can be found and downloaded on [Bing](https://www.bing.com) or [Google](https://www.google.com).
 
 Source: <https://github.com/FLHonker/Awesome-Knowledge-Distillation>
