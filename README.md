@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-179-orange)
+![](https://img.shields.io/badge/Number-180-orange)
 
 - [Different forms of knowledge](#different-form-of-knowledge)
   - [Knowledge from logits](#knowledge-from-logits)
@@ -28,24 +28,25 @@
 
 1. Distilling the knowledge in a neural network. Hinton et al. arXiv:1503.02531
 2. Learning from Noisy Labels with Distillation. Li, Yuncheng et al. ICCV 2017
-3. Knowledge distillation by on-the-fly native ensemble. Lan, Xu et al. NIPS 2018
-4. Learning Metrics from Teachers: Compact Networks for Image Embedding. Yu, Lu et al. CVPR 2019
-5. Relational Knowledge Distillation.  Park, Wonpyo et al, CVPR 2019
-6. Like What You Like: Knowledge Distill via Neuron Selectivity Transfer. Huang, Zehao and Wang, Naiyan. 2017
-7. On Knowledge Distillation from Complex Networks for Response Prediction. Arora, Siddhartha et al. NAACL 2019
-8. On the Efficacy of Knowledge Distillation. Cho, Jang Hyun and Hariharan, Bharath. arXiv:1910.01348
-9. [noval]Revisit Knowledge Distillation: a Teacher-free Framework. Yuan, Li et al. arXiv:1909.11723
-10. Improved Knowledge Distillation via Teacher Assistant: Bridging the Gap Between Student and Teacher. Mirzadeh et al. arXiv:1902.03393
-11. Ensemble Distribution Distillation. ICLR 2020
-12. Noisy Collaboration in Knowledge Distillation. ICLR 2020
-13. On Compressing U-net Using Knowledge Distillation. arXiv:1812.00249
-14. Distillation-Based Training for Multi-Exit Architectures. Phuong, Mary and Lampert, Christoph H. ICCV 2019
-15. Self-training with Noisy Student improves ImageNet classification. Xie, Qizhe et al.(Google) arXiv:1911.04252
-16. Variational Student: Learning Compact and Sparser Networks in Knowledge Distillation Framework. arXiv:1910.12061
-17. Preparing Lessons: Improve Knowledge Distillation with Better Supervision. arXiv:1911.07471
-18. Adaptive Regularization of Labels. arXiv:1908.05474
-19. Positive-Unlabeled Compression on the Cloud. Xu, Yixing(HUAWEI) et al. NIPS 2019
-20. Snapshot Distillation: Teacher-Student Optimization in One Generation. Yang, Chenglin et al. CVPR 2019
+3. Training Deep Neural Networks in Generations:A More Tolerant Teacher Educates Better Students. arXiv:1805.05551
+4. Knowledge distillation by on-the-fly native ensemble. Lan, Xu et al. NIPS 2018
+5. Learning Metrics from Teachers: Compact Networks for Image Embedding. Yu, Lu et al. CVPR 2019
+6. Relational Knowledge Distillation.  Park, Wonpyo et al, CVPR 2019
+7. Like What You Like: Knowledge Distill via Neuron Selectivity Transfer. Huang, Zehao and Wang, Naiyan. 2017
+8. On Knowledge Distillation from Complex Networks for Response Prediction. Arora, Siddhartha et al. NAACL 2019
+9. On the Efficacy of Knowledge Distillation. Cho, Jang Hyun and Hariharan, Bharath. arXiv:1910.01348
+10. [noval]Revisit Knowledge Distillation: a Teacher-free Framework. Yuan, Li et al. arXiv:1909.11723
+11. Improved Knowledge Distillation via Teacher Assistant: Bridging the Gap Between Student and Teacher. Mirzadeh et al. arXiv:1902.03393
+12. Ensemble Distribution Distillation. ICLR 2020
+13. Noisy Collaboration in Knowledge Distillation. ICLR 2020
+14. On Compressing U-net Using Knowledge Distillation. arXiv:1812.00249
+15. Distillation-Based Training for Multi-Exit Architectures. Phuong, Mary and Lampert, Christoph H. ICCV 2019
+16. Self-training with Noisy Student improves ImageNet classification. Xie, Qizhe et al.(Google) arXiv:1911.04252
+17. Variational Student: Learning Compact and Sparser Networks in Knowledge Distillation Framework. arXiv:1910.12061
+18. Preparing Lessons: Improve Knowledge Distillation with Better Supervision. arXiv:1911.07471
+19. Adaptive Regularization of Labels. arXiv:1908.05474
+20. Positive-Unlabeled Compression on the Cloud. Xu, Yixing(HUAWEI) et al. NIPS 2019
+21. Snapshot Distillation: Teacher-Student Optimization in One Generation. Yang, Chenglin et al. CVPR 2019
 
 ### Knowledge from intermediate layers
 
