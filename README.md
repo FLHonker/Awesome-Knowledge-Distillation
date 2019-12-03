@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-178-green)
+![](https://img.shields.io/badge/Number-179-orange)
 
 - [Different forms of knowledge](#different-form-of-knowledge)
   - [Knowledge from logits](#knowledge-from-logits)
@@ -45,6 +45,7 @@
 17. Preparing Lessons: Improve Knowledge Distillation with Better Supervision. arXiv:1911.07471
 18. Adaptive Regularization of Labels. arXiv:1908.05474
 19. Positive-Unlabeled Compression on the Cloud. Xu, Yixing(HUAWEI) et al. NIPS 2019
+20. Snapshot Distillation: Teacher-Student Optimization in One Generation. Yang, Chenglin et al. CVPR 2019
 
 ### Knowledge from intermediate layers
 
