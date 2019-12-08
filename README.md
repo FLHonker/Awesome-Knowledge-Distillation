@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-183-yellow)
+![](https://img.shields.io/badge/Number-184-yellow)
 
 - [Different forms of knowledge](#different-form-of-knowledge)
   - [Knowledge from logits](#knowledge-from-logits)
@@ -19,7 +19,7 @@
 - [Cross-modal KD](#cross-modal-kd)
 - [Application of KD](#application-of-kd)
   - [for NLP](#for-nlp)
-- [Model Pruning](#model-pruning)
+- [Model Pruning  or Quantization](#model-pruning-or-quantization)
 - [Beyond](#beyond)
 
 ## Different forms of knowledge
@@ -249,7 +249,7 @@
 11. Understanding Knowledge Distillation in Non-autoregressive Machine Translation. arXiv:1911.02727
 12. MobileBERT: Task-Agnostic Compression of BERT by Progressive Knowledge Transfer. ICLR 2020
 
-## Model Pruning
+## Model Pruning or Quantization
 1. N2N Learning: Network to Network Compression via Policy Gradient Reinforcement Learning. Ashok, Anubhav et al. ICLR 2018
 2. Slimmable Neural Networks. Yu, Jiahui et al. ICLR 2018
 3. Co-Evolutionary Compression for Unpaired Image Translation. Shu, Han et al. ICCV 2019
@@ -258,6 +258,7 @@
 6. Pruning with hints: an efficient framework for model acceleration. ICLR 2020
 7. Training convolutional neural networks with cheap convolutions and online distillation. arXiv:1909.13063
 8. Cooperative Pruning in Cross-Domain Deep Neural Network Compression. [Chen, Shangyu][2] et al. IJCAI 2019
+9. QKD: Quantization-aware Knowledge Distillation. Kim, Jangho et al. arXiv:1911.12491v1
 
 ## Beyond
 
