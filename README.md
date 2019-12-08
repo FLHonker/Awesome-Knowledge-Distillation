@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-181-yellow)
+![](https://img.shields.io/badge/Number-183-yellow)
 
 - [Different forms of knowledge](#different-form-of-knowledge)
   - [Knowledge from logits](#knowledge-from-logits)
@@ -159,6 +159,8 @@
 ## KD + AutoML
 
 1. Improving Neural Architecture Search Image Classifiers via Ensemble Learning. Macko, Vladimir et al. 2019
+2. Blockwisely Supervised Neural Architecture Search with Knowledge Distillation. Li, Changlin et al. arXiv:1911.13053v1
+3. Towards Oracle Knowledge Distillation with Neural Architecture Search. Kang, Minsoo et al. AAAI 2020
 
 ## KD + RL
 
