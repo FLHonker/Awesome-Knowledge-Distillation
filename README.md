@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-186-yellow)
+![](https://img.shields.io/badge/Number-188-yellow)
 
 - [Different forms of knowledge](#different-form-of-knowledge)
   - [Knowledge from logits](#knowledge-from-logits)
@@ -47,6 +47,7 @@
 19. Adaptive Regularization of Labels. arXiv:1908.05474
 20. Positive-Unlabeled Compression on the Cloud. Xu, Yixing(HUAWEI) et al. NIPS 2019
 21. Snapshot Distillation: Teacher-Student Optimization in One Generation. Yang, Chenglin et al. CVPR 2019
+22. QUEST: Quantized embedding space for transferring knowledge. Jain, Himalaya et al. CVPR 2020(pre)
 
 ### Knowledge from intermediate layers
 
@@ -261,6 +262,7 @@
 7. Training convolutional neural networks with cheap convolutions and online distillation. arXiv:1909.13063
 8. Cooperative Pruning in Cross-Domain Deep Neural Network Compression. [Chen, Shangyu][2] et al. IJCAI 2019
 9. QKD: Quantization-aware Knowledge Distillation. Kim, Jangho et al. arXiv:1911.12491v1
+10. LaTeS: Latent Space Distillation for Teacher-Student _Driving_ Policy Learning. Zhao, Albert et al. CVPR 2020(pre)
 
 ## Beyond
 
