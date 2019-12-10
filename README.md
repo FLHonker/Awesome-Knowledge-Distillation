@@ -283,7 +283,7 @@ Note: All papers pdf can be found and downloaded on [Bing](https://www.bing.com)
 
 Source: <https://github.com/FLHonker/Awesome-Knowledge-Distillation>
 
-Contact: Yuang Liu(<frankliu624@gmail.com>), AIDA, [ECNU](https://www.ecnu.edu.cn/).
+Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu.cn/).
 
 [1]: https://github.com/NervanaSystems/distiller
 [2]: https://csyhhu.github.io/
