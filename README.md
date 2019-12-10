@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-184-yellow)
+![](https://img.shields.io/badge/Number-185-yellow)
 
 - [Different forms of knowledge](#different-form-of-knowledge)
   - [Knowledge from logits](#knowledge-from-logits)
@@ -182,17 +182,18 @@
 7. Deep Mutual Learning. Zhang, Ying et al. CVPR 2018
    <!-- * 多个学生模型之间同时互相学习 -->
 8. Knowledge distillation by on-the-fly native ensemble. Lan, Xu et al. NIPS 2018
-9. Data Distillation: Towards Omni-Supervised Learning. Radosavovic, Ilija et al. CVPR 2018
-10. Multilingual Neural Machine Translation with Knowledge Distillation. ICLR 2019
+9. Collaborative learning for deep neural networks. Song, Guocong and Chai, Wei. NIPS 2018
+10. Data Distillation: Towards Omni-Supervised Learning. Radosavovic, Ilija et al. CVPR 2018
+11. Multilingual Neural Machine Translation with Knowledge Distillation. ICLR 2019
     <!-- * 多个teacher（一个teacher一个语言对），简单融合。 -->
-11. Unifying Heterogeneous Classifiers with Distillation. Vongkulbhisal et al. CVPR 2019
+12. Unifying Heterogeneous Classifiers with Distillation. Vongkulbhisal et al. CVPR 2019
     <!-- * 有多个不完全一样场景下的分类器（分类目标不尽相同），如何将它们统一起来，构造一个总的分类器：认为每一个classifier同等重要，都要去拟合它们。 -->
-12. Distilled Person Re-Identification: Towards a More Scalable System. Wu, Ancong et al. CVPR 2019
+13. Distilled Person Re-Identification: Towards a More Scalable System. Wu, Ancong et al. CVPR 2019
     <!-- * 知识不再是soft-label，而是similarity matrix。权重引入是teacher-level的，而不是instance-level的。 -->
-13. Diversity with Cooperation: Ensemble Methods for Few-Shot Classification. Dvornik, Nikita et al. ICCV 2019
-14. Model Compression with Two-stage Multi-teacher Knowledge Distillation for Web Question Answering System. Yang, Ze et al. WSDM 2020 
-15. FEED: Feature-level Ensemble for Knowledge Distillation. Park, SeongUk and Kwak, Nojun. arXiv:1909.10754(AAAI20 pre)
-16. Stochasticity and Skip Connection Improve Knowledge Transfer. Lee, Kwangjin et al. ICLR 2020
+14. Diversity with Cooperation: Ensemble Methods for Few-Shot Classification. Dvornik, Nikita et al. ICCV 2019
+15. Model Compression with Two-stage Multi-teacher Knowledge Distillation for Web Question Answering System. Yang, Ze et al. WSDM 2020 
+16. FEED: Feature-level Ensemble for Knowledge Distillation. Park, SeongUk and Kwak, Nojun. arXiv:1909.10754(AAAI20 pre)
+17. Stochasticity and Skip Connection Improve Knowledge Transfer. Lee, Kwangjin et al. ICLR 2020
 
 ## Cross-modal KD
 
