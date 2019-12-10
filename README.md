@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-188-yellow)
+![](https://img.shields.io/badge/Number-189-yellow)
 
 - [Different forms of knowledge](#different-form-of-knowledge)
   - [Knowledge from logits](#knowledge-from-logits)
@@ -237,6 +237,7 @@
 20. Knowledge Distillation for Incremental Learning in _Semantic Segmentation_. arXiv:1911.03462
 21. MOD: A Deep Mixture Model with Online Knowledge Distillation for Large Scale Video Temporal Concept Localization. arXiv:1910.12295
 22. Teacher-Students Knowledge Distillation for _Siamese Trackers_. arXiv:1907.10586
+23. LaTeS: Latent Space Distillation for Teacher-Student _Driving_ Policy Learning. Zhao, Albert et al. CVPR 2020(pre)
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
@@ -251,6 +252,7 @@
 10. Distilling the Knowledge of BERT for Text Generation. arXiv:1911.03829v1
 11. Understanding Knowledge Distillation in Non-autoregressive Machine Translation. arXiv:1911.02727
 12. MobileBERT: Task-Agnostic Compression of BERT by Progressive Knowledge Transfer. ICLR 2020
+13. Acquiring Knowledge from Pre-trained Model to Neural Machine Translation. Weng, Rongxiang et al. AAAI 2020
 
 ## Model Pruning or Quantization
 1. N2N Learning: Network to Network Compression via Policy Gradient Reinforcement Learning. Ashok, Anubhav et al. ICLR 2018
@@ -262,7 +264,6 @@
 7. Training convolutional neural networks with cheap convolutions and online distillation. arXiv:1909.13063
 8. Cooperative Pruning in Cross-Domain Deep Neural Network Compression. [Chen, Shangyu][2] et al. IJCAI 2019
 9. QKD: Quantization-aware Knowledge Distillation. Kim, Jangho et al. arXiv:1911.12491v1
-10. LaTeS: Latent Space Distillation for Teacher-Student _Driving_ Policy Learning. Zhao, Albert et al. CVPR 2020(pre)
 
 ## Beyond
 
