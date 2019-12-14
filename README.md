@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-190-green)
+![](https://img.shields.io/badge/Number-191-green)
 
 - [Different forms of knowledge](#different-form-of-knowledge)
   - [Knowledge from logits](#knowledge-from-logits)
@@ -169,6 +169,7 @@
 1. N2N Learning: Network to Network Compression via Policy Gradient Reinforcement Learning. Ashok, Anubhav et al. ICLR 2018
 2. Knowledge Flow:Improve Upon Your Teachers. Liu, Iou-jen et al. ICLR 2019
 3. Transferring Knowledge across Learning Processes. Moreno, Pablo G et al. ICLR 2019
+4. Exploration by random network distillation. Burda, Yuri et al. ICLR 2019
 
 ## Multi-teacher KD 
 
