@@ -153,7 +153,7 @@
 3. DAFL:Data-Free Learning of Student Networks. ICCV 2019
 4. Zero-shot Knowledge Transfer via Adversarial Belief Matching. Micaelli, Paul and Storkey, Amos. NIPS 2019
 5. Dreaming to Distill : Data-free Knowledge Transfer via DeepInversion. Yin, Hongxu et al. CVPR 2020
-6. Dream Distillation: A Data-Independent Model Compression Framework. Kartikeya et al. NIPS 2019
+6. Dream Distillation: A Data-Independent Model Compression Framework. Kartikeya et al. ICML 2019
 
 - other data-free model compression:
 
