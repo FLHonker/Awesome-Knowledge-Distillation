@@ -34,7 +34,7 @@
 6. Relational Knowledge Distillation.  Park, Wonpyo et al, CVPR 2019
 7. Like What You Like: Knowledge Distill via Neuron Selectivity Transfer. Huang, Zehao and Wang, Naiyan. 2017
 8. On Knowledge Distillation from Complex Networks for Response Prediction. Arora, Siddhartha et al. NAACL 2019
-9. On the Efficacy of Knowledge Distillation. Cho, Jang Hyun and Hariharan, Bharath. arXiv:1910.01348
+9. On the Efficacy of Knowledge Distillation. Cho, Jang Hyun and Hariharan, Bharath. arXiv:1910.01348. ICCV 2019
 10. [noval]Revisit Knowledge Distillation: a Teacher-free Framework. Yuan, Li et al. arXiv:1909.11723
 11. Improved Knowledge Distillation via Teacher Assistant: Bridging the Gap Between Student and Teacher. Mirzadeh et al. arXiv:1902.03393
 12. Ensemble Distribution Distillation. ICLR 2020
@@ -71,6 +71,7 @@
 18. Stagewise Knowledge Distillation. Kulkarni, Akshay et al. arXiv: 1911.06786
 19. Knowledge Distillation from Internal Representations. arXiv:1910.03723
 20. Knowledge Flow:Improve Upon Your Teachers. ICLR 2019
+21. LIT: Learned Intermediate Representation Training for Model Compression. ICML 2019
 
 ### Graph-based
 1. Graph-based Knowledge Distillation by Multi-head Attention Network. Lee, Seunghyun and Song, Byung. Cheol arXiv:1907.02226
@@ -201,6 +202,7 @@
 16. FEED: Feature-level Ensemble for Knowledge Distillation. Park, SeongUk and Kwak, Nojun. arXiv:1909.10754(AAAI20 pre)
 17. Stochasticity and Skip Connection Improve Knowledge Transfer. Lee, Kwangjin et al. ICLR 2020
 18. Online Knowledge Distillation with Diverse Peers. Chen, Defang et al. AAAI 2020
+19. Customizing Student Networks From Heterogeneous Teachers via Adaptive Knowledge Amalgamation. ICCV 2019
 
 ## Cross-modal KD
 
