@@ -290,10 +290,11 @@
 Note: All papers pdf can be found and downloaded on [Bing](https://www.bing.com) or [Google](https://www.google.com).
 
 Source: <https://github.com/FLHonker/Awesome-Knowledge-Distillation>
-
+<!--
 Thanks for all contributors:
 
 [![shivmgg](https://avatars0.githubusercontent.com/u/21128481?s=28&v=4)](https://github.com/shivmgg)
+-->
 
 Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu.cn/).
 
