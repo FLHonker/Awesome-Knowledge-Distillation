@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-197-green)
+![](https://img.shields.io/badge/Number-198-green)
 
 - [Different forms of knowledge](#different-form-of-knowledge)
   - [Knowledge from logits](#knowledge-from-logits)
@@ -284,6 +284,7 @@
 6. Knowledge Isomorphism between Neural Networks. Liang, Ruofan et al. arXiv:1908.01581
 7. Role-Wise Data Augmentation for Knowledge Distillation. ICLR 2020
 8. [Neural Network Distiller][1]: A Python Package For DNN Compression Research. arXiv:1910.12232
+9. (survey)Modeling Teacher-Student Techniques in Deep Neural Networks for Knowledge Distillation. arXiv:1912.13179
 
 
 ---
