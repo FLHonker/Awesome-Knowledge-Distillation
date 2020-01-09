@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-198-green)
+![](https://img.shields.io/badge/Number-199-green)
 
 - [Different forms of knowledge](#different-form-of-knowledge)
   - [Knowledge from logits](#knowledge-from-logits)
@@ -245,6 +245,7 @@
 21. MOD: A Deep Mixture Model with Online Knowledge Distillation for Large Scale Video Temporal Concept Localization. arXiv:1910.12295
 22. Teacher-Students Knowledge Distillation for _Siamese Trackers_. arXiv:1907.10586
 23. LaTeS: Latent Space Distillation for Teacher-Student _Driving_ Policy Learning. Zhao, Albert et al. CVPR 2020(pre)
+24. Domain Adaptation via Teacher-Student Learning for End-to-End _Speech Recognition_. Meng, Zhong et al. arXiv:2001.01798
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
