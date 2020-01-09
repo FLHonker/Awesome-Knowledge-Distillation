@@ -69,7 +69,7 @@
 16. Distilling Object Detectors with Fine-grained Feature Imitation. ICLR 2020
 17. Knowledge Squeezed Adversarial Network Compression. Changyong, Shu et al. AAAI 2020
 18. Stagewise Knowledge Distillation. Kulkarni, Akshay et al. arXiv: 1911.06786
-19. Knowledge Distillation from Internal Representations. arXiv:1910.03723
+19. Knowledge Distillation from Internal Representations. AAAI 2020
 20. Knowledge Flow:Improve Upon Your Teachers. ICLR 2019
 21. LIT: Learned Intermediate Representation Training for Model Compression. ICML 2019
 
@@ -130,7 +130,7 @@
 10. MEAL: Multi-Model Ensemble via Adversarial Learning. Shen,Zhiqiang, He,Zhankui, and Xue Xiangyang. AAAI 2019
 11. Knowledge Distillation with Adversarial Samples Supporting Decision Boundary. Heo, Byeongho et al. AAAI 2019
 12. Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection. Liu, Jian et al. AAAI 2019
-13. Adversarially Robust Distillation. Goldblum, Micah et al. arXiv:1905.09747
+13. Adversarially Robust Distillation. Goldblum, Micah et al. AAAI 2020
 14. GAN-Knowledge Distillation for one-stage Object Detection. Hong, Wei et al. arXiv:1906.08467
 15. Lifelong GAN: Continual Learning for Conditional Image Generation. Kundu et al. arXiv:1908.03884
 16. Compressing GANs using Knowledge Distillation. Aguinaldo, Angeline et al. arXiv:1902.00159
