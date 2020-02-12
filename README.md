@@ -247,6 +247,7 @@
 23. LaTeS: Latent Space Distillation for Teacher-Student _Driving_ Policy Learning. Zhao, Albert et al. CVPR 2020(pre)
 24. Knowledge distillation for semi-supervised _domain adaptation_. arXiv:1908.07355
 25. _Domain Adaptation_ via Teacher-Student Learning for End-to-End _Speech Recognition_. Meng, Zhong et al. arXiv:2001.01798
+26. Cluster Alignment with a Teacher for Unsupervised _Domain Adaptation_. ICCV 2019
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
