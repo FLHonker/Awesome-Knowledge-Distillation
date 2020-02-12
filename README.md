@@ -84,7 +84,7 @@
 1. Correlation Congruence for Knowledge Distillation. Peng, Baoyun et al. ICCV 2019
 2. Similarity-Preserving Knowledge Distillation. Tung, Frederick, and Mori Greg. ICCV 2019
 3. Variational Information Distillation for Knowledge Transfer. Ahn, Sungsoo et al. CVPR 2019
-4. Contrastive Representation Distillation. Tian, Yonglong et al. arXiv: 1910.10699
+4. Contrastive Representation Distillation. Tian, Yonglong et al. ICLR 2020
 
 ### Self-KD
 
