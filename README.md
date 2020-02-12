@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-201-green)
+![](https://img.shields.io/badge/Number-202-green)
 
 - [Different forms of knowledge](#different-form-of-knowledge)
   - [Knowledge from logits](#knowledge-from-logits)
@@ -72,6 +72,7 @@
 19. Knowledge Distillation from Internal Representations. AAAI 2020
 20. Knowledge Flow:Improve Upon Your Teachers. ICLR 2019
 21. LIT: Learned Intermediate Representation Training for Model Compression. ICML 2019
+22. Learning Deep Representations with Probabilistic Knowledge Transfer. Passalis et al. ECCV 2018
 
 ### Graph-based
 1. Graph-based Knowledge Distillation by Multi-head Attention Network. Lee, Seunghyun and Song, Byung. Cheol arXiv:1907.02226
