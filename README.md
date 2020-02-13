@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-202-green)
+![](https://img.shields.io/badge/Number-203-green)
 
 - [Different forms of knowledge](#different-form-of-knowledge)
   - [Knowledge from logits](#knowledge-from-logits)
@@ -48,6 +48,7 @@
 20. Positive-Unlabeled Compression on the Cloud. Xu, Yixing(HUAWEI) et al. NIPS 2019
 21. Snapshot Distillation: Teacher-Student Optimization in One Generation. Yang, Chenglin et al. CVPR 2019
 22. QUEST: Quantized embedding space for transferring knowledge. Jain, Himalaya et al. CVPR 2020(pre)
+23. Conditional teacher-student learning. Z. Meng et al. ICASSP 2019
 
 ### Knowledge from intermediate layers
 
