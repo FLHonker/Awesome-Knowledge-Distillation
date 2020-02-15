@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-204-green)
+![](https://img.shields.io/badge/Number-205-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -159,11 +159,12 @@
 5. Dream Distillation: A Data-Independent Model Compression Framework. Kartikeya et al. ICML 2019
 6. Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion. Yin, Hongxu et al. CVPR 2020
 7. Data-Free Adversarial Distillation. Fang, Gongfan et al. CVPR 2020
+8. The Knowledge Within: Methods for Data-Free Model Compression. Haroush, Matan et al. arXiv:1912.01274
 
 - other data-free model compression:
 
-8. Data-free Parameter Pruning for Deep Neural Networks. Srinivas, Suraj et al. arXiv:1507.06149
-9. Data-Free Quantization Through Weight Equalization and Bias Correction. Nagel, Markus et al. ICCV 2019
+9. Data-free Parameter Pruning for Deep Neural Networks. Srinivas, Suraj et al. arXiv:1507.06149
+10. Data-Free Quantization Through Weight Equalization and Bias Correction. Nagel, Markus et al. ICCV 2019
 
 ## KD + AutoML
 
