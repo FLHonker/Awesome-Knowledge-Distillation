@@ -2,25 +2,26 @@
 
 ![](https://img.shields.io/badge/Number-203-green)
 
-- [Different forms of knowledge](#different-form-of-knowledge)
-  - [Knowledge from logits](#knowledge-from-logits)
-  - [Knowledge from intermediate layers](#knowledge-from-intermediate-layers)
-  - [Graph-based](#graph-based)
-  - [Mutual Information](#mutual-information)
-  - [Self-KD](#self-kd)
-  - [Structured Knowledge](#structured-knowledge)
-  - [Privileged Information](#privileged-information)
-- [KD + GAN](#kd--gan)
-- [KD + Meta-learning](#kd--meta-learning)
-- [Data-free KD](#data-free-kd)
-- [KD + AutoML](#kd--automl)
-- [KD + RL](#kd--rl)
-- [Multi-teacher KD](#multi-teacher-kd)
-- [Cross-modal KD](#cross-modal-kd)
-- [Application of KD](#application-of-kd)
-  - [for NLP](#for-nlp)
-- [Model Pruning  or Quantization](#model-pruning-or-quantization)
-- [Beyond](#beyond)
+- [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
+  - [Different forms of knowledge](#different-forms-of-knowledge)
+    - [Knowledge from logits](#knowledge-from-logits)
+    - [Knowledge from intermediate layers](#knowledge-from-intermediate-layers)
+    - [Graph-based](#graph-based)
+    - [Mutual Information](#mutual-information)
+    - [Self-KD](#self-kd)
+    - [Structured Knowledge](#structured-knowledge)
+    - [Privileged Information](#privileged-information)
+  - [KD + GAN](#kd--gan)
+  - [KD + Meta-learning](#kd--meta-learning)
+  - [Data-free KD](#data-free-kd)
+  - [KD + AutoML](#kd--automl)
+  - [KD + RL](#kd--rl)
+  - [Multi-teacher KD](#multi-teacher-kd)
+  - [Cross-modal KD & DA](#cross-modal-kd--da)
+  - [Application of KD](#application-of-kd)
+    - [for NLP](#for-nlp)
+  - [Model Pruning or Quantization](#model-pruning-or-quantization)
+  - [Beyond](#beyond)
 
 ## Different forms of knowledge
 
@@ -206,7 +207,7 @@
 18. Online Knowledge Distillation with Diverse Peers. Chen, Defang et al. AAAI 2020
 19. Customizing Student Networks From Heterogeneous Teachers via Adaptive Knowledge Amalgamation. ICCV 2019
 
-## Cross-modal KD
+## Cross-modal KD & DA
 
 1. SoundNet: Learning Sound Representations from Unlabeled Video SoundNet Architecture. Aytar, Yusuf et al. ECCV 2016
 2. Cross Modal Distillation for Supervision Transfer. Gupta, Saurabh et al. CVPR 2016
@@ -221,6 +222,9 @@
 11. XD:Cross lingual Knowledge Distillation for Polyglot Sentence Embeddings. ICLR 2020
 12. Effective Domain Knowledge Transfer with Soft Fine-tuning. Zhao, Zhichen et al. arXiv:1909.02236
 13. ASR is all you need: cross-modal distillation for lip reading. Afouras et al. arXiv:1911.12747v1
+14. Knowledge distillation for semi-supervised _domain adaptation_. arXiv:1908.07355
+15. _Domain Adaptation_ via Teacher-Student Learning for End-to-End _Speech Recognition_. Meng, Zhong et al. arXiv:2001.01798
+16. Cluster Alignment with a Teacher for Unsupervised _Domain Adaptation_. ICCV 2019
 
 ## Application of KD
 
@@ -247,9 +251,7 @@
 21. MOD: A Deep Mixture Model with Online Knowledge Distillation for Large Scale Video Temporal Concept Localization. arXiv:1910.12295
 22. Teacher-Students Knowledge Distillation for _Siamese Trackers_. arXiv:1907.10586
 23. LaTeS: Latent Space Distillation for Teacher-Student _Driving_ Policy Learning. Zhao, Albert et al. CVPR 2020(pre)
-24. Knowledge distillation for semi-supervised _domain adaptation_. arXiv:1908.07355
-25. _Domain Adaptation_ via Teacher-Student Learning for End-to-End _Speech Recognition_. Meng, Zhong et al. arXiv:2001.01798
-26. Cluster Alignment with a Teacher for Unsupervised _Domain Adaptation_. ICCV 2019
+
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
