@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-203-green)
+![](https://img.shields.io/badge/Number-204-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -225,6 +225,7 @@
 14. Knowledge distillation for semi-supervised _domain adaptation_. arXiv:1908.07355
 15. _Domain Adaptation_ via Teacher-Student Learning for End-to-End _Speech Recognition_. Meng, Zhong et al. arXiv:2001.01798
 16. Cluster Alignment with a Teacher for Unsupervised _Domain Adaptation_. ICCV 2019
+17. Attention Bridging Network for Knowledge Transfer. Li, Kunpeng et al. ICCV 2019
 
 ## Application of KD
 
