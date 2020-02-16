@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-208-green)
+![](https://img.shields.io/badge/Number-209-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -229,6 +229,7 @@
 16. Cluster Alignment with a Teacher for Unsupervised _Domain Adaptation_. ICCV 2019
 17. Attention Bridging Network for Knowledge Transfer. Li, Kunpeng et al. ICCV 2019
 18. Unpaired Multi-modal Segmentation via Knowledge Distillation. Dou, Qi et al. arXiv:2001.03111
+19. Multi-source Distilling Domain Adaptation. Zhao, Sicheng et al. arXiv:1911.11554
 
 ## Application of KD
 
