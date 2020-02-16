@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-207-green)
+![](https://img.shields.io/badge/Number-208-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -296,6 +296,7 @@
 7. Role-Wise Data Augmentation for Knowledge Distillation. ICLR 2020
 8. [Neural Network Distiller][1]: A Python Package For DNN Compression Research. arXiv:1910.12232
 9. (survey)Modeling Teacher-Student Techniques in Deep Neural Networks for Knowledge Distillation. arXiv:1912.13179
+10. Understanding and Improving Knowledge Distillation. Tang, Jiaxi et al. arXiv:2002.03532
 
 
 ---
