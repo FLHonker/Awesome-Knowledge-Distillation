@@ -98,6 +98,7 @@
 6. Rethinking Data Augmentation: Self-Supervision and Self-Distillation. Lee, Hankook et al. ICLR 2020
 7. Regularizing Predictions via Class wise Self knowledge Distillation. ICLR 2020
 8. MSD: Multi-Self-Distillation Learning via Multi-classifiers within Deep Neural Networks. arXiv:1911.09418
+9. Self-Distillation Amplifies Regularization in Hilbert Space. Mobahi, Hossein et al. arXiv:2002.05715
 
 ### Structured Knowledge
 
