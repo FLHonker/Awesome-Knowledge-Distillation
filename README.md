@@ -282,7 +282,7 @@
 6. LightPAFF: A Two-Stage Distillation Framework for Pre-training and Fine-tuning. ICLR 2020
 7. Pruning with hints: an efficient framework for model acceleration. ICLR 2020
 8. Training convolutional neural networks with cheap convolutions and online distillation. arXiv:1909.13063
-9. Cooperative Pruning in Cross-Domain Deep Neural Network Compression. [Chen, Shangyu][2] et al. IJCAI 2019
+9. Cooperative Pruning in Cross-Domain Deep Neural Network Compression. [Chen, Shangyu][17.9] et al. IJCAI 2019
 10. QKD: Quantization-aware Knowledge Distillation. Kim, Jangho et al. arXiv:1911.12491v1
 
 ## Beyond
@@ -295,10 +295,10 @@
 5. Adaptive Regularization of Labels. Ding, Qianggang et al. arXiv:1908.05474
 6. Knowledge Isomorphism between Neural Networks. Liang, Ruofan et al. arXiv:1908.01581
 7. Role-Wise Data Augmentation for Knowledge Distillation. ICLR 2020
-8. [Neural Network Distiller][1]: A Python Package For DNN Compression Research. arXiv:1910.12232
+8. [Neural Network Distiller][18.8]: A Python Package For DNN Compression Research. arXiv:1910.12232
 9. (survey)Modeling Teacher-Student Techniques in Deep Neural Networks for Knowledge Distillation. arXiv:1912.13179
 10. Understanding and Improving Knowledge Distillation. Tang, Jiaxi et al. arXiv:2002.03532
-11. The State of Knowledge Distillation for Classification. Ruffy, Fabian and Chahal, Karanbir. arXiv:1912.10850 [code][18.11]
+11. The State of Knowledge Distillation for Classification. Ruffy, Fabian and Chahal, Karanbir. arXiv:1912.10850 [[code]][18.11]
 
 
 ---
@@ -313,7 +313,7 @@ Thanks for all contributors:
 
 Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu.cn/).
 
-[1]: https://github.com/NervanaSystems/distiller
-[2]: https://csyhhu.github.io/
 
+[17.9]: https://csyhhu.github.io/
+[18.8]: https://github.com/NervanaSystems/distiller
 [18.11]: https://github.com/karanchahal/distiller
