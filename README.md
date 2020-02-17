@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-210-green)
+![](https://img.shields.io/badge/Number-211-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -298,6 +298,7 @@
 8. [Neural Network Distiller][1]: A Python Package For DNN Compression Research. arXiv:1910.12232
 9. (survey)Modeling Teacher-Student Techniques in Deep Neural Networks for Knowledge Distillation. arXiv:1912.13179
 10. Understanding and Improving Knowledge Distillation. Tang, Jiaxi et al. arXiv:2002.03532
+11. The State of Knowledge Distillation for Classification. Ruffy, Fabian and Chahal, Karanbir. arXiv:1912.10850 [code][18.11]
 
 
 ---
@@ -314,3 +315,5 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 
 [1]: https://github.com/NervanaSystems/distiller
 [2]: https://csyhhu.github.io/
+
+[18.11]: https://github.com/karanchahal/distiller
