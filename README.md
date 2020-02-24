@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-213-green)
+![](https://img.shields.io/badge/Number-214-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -259,6 +259,7 @@
 23. LaTeS: Latent Space Distillation for Teacher-Student _Driving_ Policy Learning. Zhao, Albert et al. CVPR 2020(pre)
 24. Knowledge Distillation for _Brain Tumor Segmentation_. arXiv:2002.03688
 25. ROAD: Reality Oriented Adaptation for _Semantic Segmentation_ of Urban Scenes. Chen, Yuhua et al. CVPR 2018
+26. Next Point-of-Interest _Recommendation_ on Resource-Constrained Mobile Devices. WWW 2020
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
