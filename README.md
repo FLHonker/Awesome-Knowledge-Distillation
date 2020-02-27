@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-214-green)
+![](https://img.shields.io/badge/Number-237-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -50,6 +50,7 @@
 21. Snapshot Distillation: Teacher-Student Optimization in One Generation. Yang, Chenglin et al. CVPR 2019
 22. QUEST: Quantized embedding space for transferring knowledge. Jain, Himalaya et al. CVPR 2020(pre)
 23. Conditional teacher-student learning. Z. Meng et al. ICASSP 2019
+24. Subclass Distillation. Müller, Rafael et al. arXiv:2002.03936
 
 ### Knowledge from intermediate layers
 
@@ -75,6 +76,9 @@
 20. Knowledge Flow:Improve Upon Your Teachers. ICLR 2019
 21. LIT: Learned Intermediate Representation Training for Model Compression. ICML 2019
 22. Learning Deep Representations with Probabilistic Knowledge Transfer. Passalis et al. ECCV 2018
+23. Improving the Adversarial Robustness of Transfer Learning via Noisy Feature Distillation. Chin, Ting-wu et al. arXiv:2002.02998
+24. Knapsack Pruning with Inner Distillation. Aflalo, Yonathan et al. arXiv:2002.08258
+25. Residual Knowledge Distillation. Gao, Mengya et al. arXiv:2002.09168
 
 ### Graph-based
 1. Graph-based Knowledge Distillation by Multi-head Attention Network. Lee, Seunghyun and Song, Byung. Cheol arXiv:1907.02226
@@ -99,6 +103,7 @@
 7. Regularizing Predictions via Class wise Self knowledge Distillation. ICLR 2020
 8. MSD: Multi-Self-Distillation Learning via Multi-classifiers within Deep Neural Networks. arXiv:1911.09418
 9. Self-Distillation Amplifies Regularization in Hilbert Space. Mobahi, Hossein et al. arXiv:2002.05715
+10. MINILM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers. Wang, Wenhui et al. arXiv:2002.10957
 
 ### Structured Knowledge
 
@@ -173,6 +178,7 @@
 1. Improving Neural Architecture Search Image Classifiers via Ensemble Learning. Macko, Vladimir et al. 2019
 2. Blockwisely Supervised Neural Architecture Search with Knowledge Distillation. Li, Changlin et al. arXiv:1911.13053v1
 3. Towards Oracle Knowledge Distillation with Neural Architecture Search. Kang, Minsoo et al. AAAI 2020
+4. Search for Better Students to Learn Distilled Knowledge. Gu, Jindong & Tresp, Volker arXiv:2001.11612
 
 ## KD + RL
 
@@ -180,6 +186,8 @@
 2. Knowledge Flow:Improve Upon Your Teachers. Liu, Iou-jen et al. ICLR 2019
 3. Transferring Knowledge across Learning Processes. Moreno, Pablo G et al. ICLR 2019
 4. Exploration by random network distillation. Burda, Yuri et al. ICLR 2019
+5. Periodic Intra-Ensemble Knowledge Distillation for Reinforcement Learning. Hong, Zhang-Wei et al. arXiv:2002.00149
+6. Transfer Heterogeneous Knowledge Among Peer-to-Peer Teammates: A Model Distillation Approach. Xue, Zeyue et al. arXiv:2002.02202
 
 ## Multi-teacher KD 
 
@@ -209,6 +217,7 @@
 17. Stochasticity and Skip Connection Improve Knowledge Transfer. Lee, Kwangjin et al. ICLR 2020
 18. Online Knowledge Distillation with Diverse Peers. Chen, Defang et al. AAAI 2020
 19. Customizing Student Networks From Heterogeneous Teachers via Adaptive Knowledge Amalgamation. ICCV 2019
+20. Hydra: Preserving Ensemble Diversity for Model Distillation. Tran, Linh et al. arXiv:2001.04694
 
 ## Cross-modal KD & DA
 
@@ -260,6 +269,7 @@
 24. Knowledge Distillation for _Brain Tumor Segmentation_. arXiv:2002.03688
 25. ROAD: Reality Oriented Adaptation for _Semantic Segmentation_ of Urban Scenes. Chen, Yuhua et al. CVPR 2018
 26. Next Point-of-Interest _Recommendation_ on Resource-Constrained Mobile Devices. WWW 2020
+27. Multi-Representation Knowledge Distillation For Audio Classification. Gao, Liang et al. arXiv:2002.09607
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
@@ -275,6 +285,8 @@
 11. Understanding Knowledge Distillation in Non-autoregressive Machine Translation. arXiv:1911.02727
 12. MobileBERT: Task-Agnostic Compression of BERT by Progressive Knowledge Transfer. ICLR 2020
 13. Acquiring Knowledge from Pre-trained Model to Neural Machine Translation. Weng, Rongxiang et al. AAAI 2020
+14. TwinBERT: Distilling Knowledge to Twin-Structured BERT Models for Efficient Retrieval. Lu, Wenhao et al. KDD 2020
+15. Improving BERT Fine-Tuning via Self-Ensemble and Self-Distillation. Xu, Yige et al. arXiv:2002.10345
 
 ## Model Pruning or Quantization
 1. Accelerating Convolutional Neural Networks with Dominant Convolutional Kernel and Knowledge Pre-regression. ECCV 2016
