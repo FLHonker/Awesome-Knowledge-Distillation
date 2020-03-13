@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-238-green)
+![](https://img.shields.io/badge/Number-242-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -51,6 +51,7 @@
 22. QUEST: Quantized embedding space for transferring knowledge. Jain, Himalaya et al. CVPR 2020(pre)
 23. Conditional teacher-student learning. Z. Meng et al. ICASSP 2019
 24. Subclass Distillation. Müller, Rafael et al. arXiv:2002.03936
+25. MarginDistillation: distillation for margin-based softmax. Svitov, David & Alyamkin, Sergey. arXiv:2003.02586
 
 ### Knowledge from intermediate layers
 
@@ -79,6 +80,7 @@
 23. Improving the Adversarial Robustness of Transfer Learning via Noisy Feature Distillation. Chin, Ting-wu et al. arXiv:2002.02998
 24. Knapsack Pruning with Inner Distillation. Aflalo, Yonathan et al. arXiv:2002.08258
 25. Residual Knowledge Distillation. Gao, Mengya et al. arXiv:2002.09168
+26. Knowledge distillation via adaptive instance normalization. Yang, Jing et al. arXiv:2003.04289
 
 ### Graph-based
 1. Graph-based Knowledge Distillation by Multi-head Attention Network. Lee, Seunghyun and Song, Byung. Cheol arXiv:1907.02226
@@ -218,6 +220,7 @@
 18. Online Knowledge Distillation with Diverse Peers. Chen, Defang et al. AAAI 2020
 19. Customizing Student Networks From Heterogeneous Teachers via Adaptive Knowledge Amalgamation. ICCV 2019
 20. Hydra: Preserving Ensemble Diversity for Model Distillation. Tran, Linh et al. arXiv:2001.04694
+21. Distilled Hierarchical Neural Ensembles with Adaptive Inference Cost. Ruiz, Adria et al. arXv:2003.01474
 
 ## Cross-modal KD & DA
 
@@ -315,6 +318,7 @@
 10. Understanding and Improving Knowledge Distillation. Tang, Jiaxi et al. arXiv:2002.03532
 11. The State of Knowledge Distillation for Classification. Ruffy, Fabian and Chahal, Karanbir. arXiv:1912.10850 [[code]][18.11]
 12. [TextBrewer][18.12]: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing. HIT and iFLYTEK. arXiv:2002.12620
+13. Explaining Knowledge Distillation by Quantifying the Knowledge. [Zhang, Quanshi][18.13] et al. aiXiv:2003.03622
 
 
 
@@ -335,3 +339,4 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [18.8]: https://github.com/NervanaSystems/distiller
 [18.11]: https://github.com/karanchahal/distiller
 [18.12]: https://github.com/airaria/TextBrewer
+[18.13]: http://qszhang.com/
