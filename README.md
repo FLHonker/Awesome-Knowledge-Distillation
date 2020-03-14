@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-242-green)
+![](https://img.shields.io/badge/Number-243-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -81,6 +81,7 @@
 24. Knapsack Pruning with Inner Distillation. Aflalo, Yonathan et al. arXiv:2002.08258
 25. Residual Knowledge Distillation. Gao, Mengya et al. arXiv:2002.09168
 26. Knowledge distillation via adaptive instance normalization. Yang, Jing et al. arXiv:2003.04289
+27. Bert-of-Theseus: Compressing bert by progressive module replacing. Xu, Canwen et al. arXiv:2002.02925 [[code][2.27]]
 
 ### Graph-based
 1. Graph-based Knowledge Distillation by Multi-head Attention Network. Lee, Seunghyun and Song, Byung. Cheol arXiv:1907.02226
@@ -335,6 +336,7 @@ Thanks for all contributors:
 Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu.cn/).
 
 
+[2.27]: https://github.com/JetRunner/BERT-of-Theseus
 [17.9]: https://csyhhu.github.io/
 [18.8]: https://github.com/NervanaSystems/distiller
 [18.11]: https://github.com/karanchahal/distiller
