@@ -170,7 +170,7 @@
 6. Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion. Yin, Hongxu et al. CVPR 2020
 7. Data-Free Adversarial Distillation. Fang, Gongfan et al. CVPR 2020
 8. The Knowledge Within: Methods for Data-Free Model Compression. Haroush, Matan et al. arXiv:1912.01274
-9. Knowledge Extraction with No Observable Data. Yoo, Jaemin et al. NIPS 2019
+9. Knowledge Extraction with No Observable Data. Yoo, Jaemin et al. NIPS 2019 [[code][10.9]]
 
 - other data-free model compression:
 
@@ -339,6 +339,7 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 
 
 [2.27]: https://github.com/JetRunner/BERT-of-Theseus
+[10.9]: https://github.com/snudatalab/KegNet
 [17.9]: https://csyhhu.github.io/
 [18.8]: https://github.com/NervanaSystems/distiller
 [18.11]: https://github.com/karanchahal/distiller
