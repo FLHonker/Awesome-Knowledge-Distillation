@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-243-green)
+![](https://img.shields.io/badge/Number-245-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -170,11 +170,13 @@
 6. Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion. Yin, Hongxu et al. CVPR 2020
 7. Data-Free Adversarial Distillation. Fang, Gongfan et al. CVPR 2020
 8. The Knowledge Within: Methods for Data-Free Model Compression. Haroush, Matan et al. arXiv:1912.01274
+9. Knowledge Extraction with No Observable Data. Yoo, Jaemin et al. NIPS 2019
 
 - other data-free model compression:
 
-9. Data-free Parameter Pruning for Deep Neural Networks. Srinivas, Suraj et al. arXiv:1507.06149
-10. Data-Free Quantization Through Weight Equalization and Bias Correction. Nagel, Markus et al. ICCV 2019
+10. Data-free Parameter Pruning for Deep Neural Networks. Srinivas, Suraj et al. arXiv:1507.06149
+11. Data-Free Quantization Through Weight Equalization and Bias Correction. Nagel, Markus et al. ICCV 2019
+12. ZeroQ: A Novel Zero Shot Quantization Framework. Cai, Yaohui et al. arxiv:2001.00281
 
 ## KD + AutoML
 
