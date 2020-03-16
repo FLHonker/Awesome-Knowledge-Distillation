@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-247-green)
+![](https://img.shields.io/badge/Number-248-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -53,6 +53,7 @@
 24. Subclass Distillation. Müller, Rafael et al. arXiv:2002.03936
 25. MarginDistillation: distillation for margin-based softmax. Svitov, David & Alyamkin, Sergey. arXiv:2003.02586
 26. An Embarrassingly Simple Approach for Knowledge Distillation. Gao, Mengya et al. MLR 2018
+27. Sequence-Level Knowledge Distillation. Kim, Yoon & Rush, Alexander M. arXiv:1606.07947
 
 ### Knowledge from intermediate layers
 
