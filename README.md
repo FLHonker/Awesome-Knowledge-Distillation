@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-248-green)
+![](https://img.shields.io/badge/Number-250-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -54,6 +54,7 @@
 25. MarginDistillation: distillation for margin-based softmax. Svitov, David & Alyamkin, Sergey. arXiv:2003.02586
 26. An Embarrassingly Simple Approach for Knowledge Distillation. Gao, Mengya et al. MLR 2018
 27. Sequence-Level Knowledge Distillation. Kim, Yoon & Rush, Alexander M. arXiv:1606.07947
+28. Boosting **Self-Supervised** Learning via Knowledge Transfer. Noroozi, Mehdi et al. CVPR 2018
 
 ### Knowledge from intermediate layers
 
@@ -325,6 +326,7 @@
 11. The State of Knowledge Distillation for Classification. Ruffy, Fabian and Chahal, Karanbir. arXiv:1912.10850 [[code]][18.11]
 12. [TextBrewer][18.12]: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing. HIT and iFLYTEK. arXiv:2002.12620
 13. Explaining Knowledge Distillation by Quantifying the Knowledge. [Zhang, Quanshi][18.13] et al. aiXiv:2003.03622
+14. DeepVID: deep visual interpretation and diagnosis for image classifiers via knowledge distillation. IEEE Trans, 2019.
 
 
 
