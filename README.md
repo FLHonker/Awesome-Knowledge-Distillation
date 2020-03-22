@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-250-green)
+![](https://img.shields.io/badge/Number-251-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -153,6 +153,7 @@
 17. Feature-map-level Online Adversarial Knowledge Distillation. ICLR 2020
 18. MineGAN: effective knowledge transfer from GANs to target domains with few images. Wang, Yaxing et al. arXiv:1912.05270
 19. Distilling portable Generative Adversarial Networks for Image Translation. Chen, Hanting et al. AAAI 2020
+20. GAN Compression: Efficient Architectures for Interactive Conditional GANs. Junyan Zhu et al. CVPR 2020 [[code][8.20]]
 
 ## KD + Meta-learning
 
@@ -344,6 +345,7 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 
 
 [2.27]: https://github.com/JetRunner/BERT-of-Theseus
+[8.20]: https://github.com/mit-han-lab/gan-compression
 [10.9]: https://github.com/snudatalab/KegNet
 [17.9]: https://csyhhu.github.io/
 [18.8]: https://github.com/NervanaSystems/distiller
