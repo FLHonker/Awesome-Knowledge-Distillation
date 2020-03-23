@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-252-green)
+![](https://img.shields.io/badge/Number-256-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -17,6 +17,7 @@
   - [KD + AutoML](#kd--automl)
   - [KD + RL](#kd--rl)
   - [Multi-teacher KD](#multi-teacher-kd)
+    - [Knowledge Amalgamation（KA) - zju-VIPA](#knowledge-amalgamationka---zju-vipa)
   - [Cross-modal KD & DA](#cross-modal-kd--da)
   - [Application of KD](#application-of-kd)
     - [for NLP](#for-nlp)
@@ -231,6 +232,16 @@
 20. Hydra: Preserving Ensemble Diversity for Model Distillation. Tran, Linh et al. arXiv:2001.04694
 21. Distilled Hierarchical Neural Ensembles with Adaptive Inference Cost. Ruiz, Adria et al. arXv:2003.01474
 
+### Knowledge Amalgamation（KA) - zju-VIPA
+
+[VIPA - KA][13.1]
+
+1. Amalgamating Knowledge towards Comprehensive Classification. Shen, Chengchao et al. AAAI 2019
+2. Amalgamating Filtered Knowledge : Learning Task-customized Student from Multi-task Teachers. Ye, Jingwen et al. IJCAI 2019
+3. Knowledge Amalgamation from Heterogeneous Networks by Common Feature Learning. Luo, Sihui et al. IJCAI 2019
+4. Student Becoming the Master: Knowledge Amalgamation for Joint Scene Parsing, Depth Estimation, and More. Ye, Jingwen et al. CVPR 2019
+5. Data-Free Knowledge Amalgamation via Group-Stack Dual-GAN. CVPR 2020
+
 ## Cross-modal KD & DA
 
 1. SoundNet: Learning Sound Representations from Unlabeled Video SoundNet Architecture. Aytar, Yusuf et al. ECCV 2016
@@ -348,6 +359,7 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [2.27]: https://github.com/JetRunner/BERT-of-Theseus
 [8.20]: https://github.com/mit-han-lab/gan-compression
 [10.9]: https://github.com/snudatalab/KegNet
+[13.1]: https://github.com/zju-vipa/KamalEngine
 [17.9]: https://csyhhu.github.io/
 [18.8]: https://github.com/NervanaSystems/distiller
 [18.11]: https://github.com/karanchahal/distiller
