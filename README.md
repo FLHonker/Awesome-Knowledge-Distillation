@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-257-green)
+![](https://img.shields.io/badge/Number-258-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -92,6 +92,7 @@
 2. Graph Representation Learning via Multi-task Knowledge Distillation. arXiv:1911.05700
 3. Deep geometric knowledge distillation with graphs. arXiv:1911.03080
 4. Better and faster: Knowledge transfer from multiple self-supervised learning tasks via graph distillation for video classification. IJCAI 2018
+5. Distillating Knowledge from Graph Convolutional Networks. Yang, Yiding et al. arXiv:2003.10477
 
 ### Mutual Information
 
