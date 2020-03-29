@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-258-green)
+![](https://img.shields.io/badge/Number-259-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -56,6 +56,7 @@
 26. An Embarrassingly Simple Approach for Knowledge Distillation. Gao, Mengya et al. MLR 2018
 27. Sequence-Level Knowledge Distillation. Kim, Yoon & Rush, Alexander M. arXiv:1606.07947
 28. Boosting **Self-Supervised** Learning via Knowledge Transfer. Noroozi, Mehdi et al. CVPR 2018
+29. Meta Pseudo Labels. Pham, Hieu et al. ICML 2020
 
 ### Knowledge from intermediate layers
 
