@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-259-green)
+![](https://img.shields.io/badge/Number-261-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -193,6 +193,7 @@
 2. Blockwisely Supervised Neural Architecture Search with Knowledge Distillation. Li, Changlin et al. arXiv:1911.13053v1
 3. Towards Oracle Knowledge Distillation with Neural Architecture Search. Kang, Minsoo et al. AAAI 2020
 4. Search for Better Students to Learn Distilled Knowledge. Gu, Jindong & Tresp, Volker arXiv:2001.11612
+5. Circumventing Outliers of AutoAugment with Knowledge Distillation. Wei, Longhui et al. arXiv:2003.11342
 
 ## KD + RL
 
@@ -296,6 +297,7 @@
 26. Next Point-of-Interest _Recommendation_ on Resource-Constrained Mobile Devices. WWW 2020
 27. Multi-Representation Knowledge Distillation For Audio Classification. Gao, Liang et al. arXiv:2002.09607
 28. Collaborative Distillation for Ultra-Resolution Universal Style Transfer. Wang, Huan et al. CVPR 2020
+29. ShadowTutor: Distributed Partial Distillation for Mobile Video DNN Inference. Chung, Jae-Won et al. arXiv:2003.10735
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
