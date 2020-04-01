@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-261-green)
+![](https://img.shields.io/badge/Number-262-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -298,6 +298,7 @@
 27. Multi-Representation Knowledge Distillation For Audio Classification. Gao, Liang et al. arXiv:2002.09607
 28. Collaborative Distillation for Ultra-Resolution Universal Style Transfer. Wang, Huan et al. CVPR 2020
 29. ShadowTutor: Distributed Partial Distillation for Mobile Video DNN Inference. Chung, Jae-Won et al. arXiv:2003.10735
+30. Object Relational Graph with Teacher-Recommended Learning for Video Captioning. Zhang, Ziqi et al. CVPR 2020
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
