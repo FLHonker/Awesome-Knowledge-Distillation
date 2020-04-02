@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-262-green)
+![](https://img.shields.io/badge/Number-263-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -299,6 +299,7 @@
 28. Collaborative Distillation for Ultra-Resolution Universal Style Transfer. Wang, Huan et al. CVPR 2020
 29. ShadowTutor: Distributed Partial Distillation for Mobile Video DNN Inference. Chung, Jae-Won et al. arXiv:2003.10735
 30. Object Relational Graph with Teacher-Recommended Learning for Video Captioning. Zhang, Ziqi et al. CVPR 2020
+31. Spatio-Temporal Graph for Video Captioning with Knowledge distillation. CVPR 2020 [[code][15.31]]
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
@@ -366,6 +367,7 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [8.20]: https://github.com/mit-han-lab/gan-compression
 [10.9]: https://github.com/snudatalab/KegNet
 [13.1]: https://github.com/zju-vipa/KamalEngine
+[15.31]: https://github.com/StanfordVL/STGraph
 [17.9]: https://csyhhu.github.io/
 [18.8]: https://github.com/NervanaSystems/distiller
 [18.11]: https://github.com/karanchahal/distiller
