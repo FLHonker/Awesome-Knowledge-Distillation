@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-263-green)
+![](https://img.shields.io/badge/Number-269-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -57,6 +57,7 @@
 27. Sequence-Level Knowledge Distillation. Kim, Yoon & Rush, Alexander M. arXiv:1606.07947
 28. Boosting **Self-Supervised** Learning via Knowledge Transfer. Noroozi, Mehdi et al. CVPR 2018
 29. Meta Pseudo Labels. Pham, Hieu et al. ICML 2020
+30. Neural Networks Are More Productive Teachers Than Human Raters: Active Mixup for Data-Efficient Knowledge Distillation from a Blackbox Model. arXiv:2003.13960 [[code][1.30]]
 
 ### Knowledge from intermediate layers
 
@@ -114,6 +115,7 @@
 8. MSD: Multi-Self-Distillation Learning via Multi-classifiers within Deep Neural Networks. arXiv:1911.09418
 9. Self-Distillation Amplifies Regularization in Hilbert Space. Mobahi, Hossein et al. arXiv:2002.05715
 10. MINILM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers. Wang, Wenhui et al. arXiv:2002.10957
+11. Regularizing Class-wise Predictions via Self-knowledge Distillation. arXiv:2003.13964
 
 ### Structured Knowledge
 
@@ -266,6 +268,7 @@
 17. Attention Bridging Network for Knowledge Transfer. Li, Kunpeng et al. ICCV 2019
 18. Unpaired Multi-modal Segmentation via Knowledge Distillation. Dou, Qi et al. arXiv:2001.03111
 19. Multi-source Distilling Domain Adaptation. Zhao, Sicheng et al. arXiv:1911.11554
+20. Creating Something from Nothing: Unsupervised Knowledge Distillation for Cross-Modal Hashing. Hu, Hengtong et al. arXiv:2004.00280
 
 ## Application of KD
 
@@ -300,6 +303,8 @@
 29. ShadowTutor: Distributed Partial Distillation for Mobile Video DNN Inference. Chung, Jae-Won et al. arXiv:2003.10735
 30. Object Relational Graph with Teacher-Recommended Learning for Video Captioning. Zhang, Ziqi et al. CVPR 2020
 31. Spatio-Temporal Graph for Video Captioning with Knowledge distillation. CVPR 2020 [[code][15.31]]
+32. Squeezed Deep 6DoF Object Detection Using Knowledge Distillation. Felix, Heitor et al. arXiv:2003.13586
+33. Distilled Semantics for Comprehensive Scene Understanding from Videos. Tosi, Fabio et al. arXiv:2003.14030
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
@@ -347,7 +352,7 @@
 12. [TextBrewer][18.12]: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing. HIT and iFLYTEK. arXiv:2002.12620
 13. Explaining Knowledge Distillation by Quantifying the Knowledge. [Zhang, Quanshi][18.13] et al. aiXiv:2003.03622
 14. DeepVID: deep visual interpretation and diagnosis for image classifiers via knowledge distillation. IEEE Trans, 2019.
-
+15. On the Unreasonable Effectiveness of Knowledge Distillation: Analysis in the Kernel Regime. Rahbar, Arman et al. arXiv:2003.13438
 
 
 ---
@@ -363,6 +368,7 @@ Thanks for all contributors:
 Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu.cn/).
 
 
+[1.30]: https://github.com/dwang181/active-mixup
 [2.27]: https://github.com/JetRunner/BERT-of-Theseus
 [8.20]: https://github.com/mit-han-lab/gan-compression
 [10.9]: https://github.com/snudatalab/KegNet
