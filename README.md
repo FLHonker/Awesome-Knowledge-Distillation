@@ -124,7 +124,7 @@
    <!-- * 通过对输出embedding表示构建了instance之间的二阶距离关系和三届角度关系，作为一种知识引导student学习 -->
 3. Knowledge Distillation via Instance Relationship Graph. Liu, Yufan et al. CVPR 2019
    <!-- * 通过instance中间层表示构建了instance之间的图，并将图作为一种知识进行传递。 -->
-4. Contrastive Representation Distillation. Tian, Yonglong et al. arXiv: 1910.10699
+4. Contrastive Representation Distillation. Tian, Yonglong et al. ICLR 2020
 5. Teaching To Teach By Structured Dark Knowledge. ICLR 2020
 
 ### Privileged Information
