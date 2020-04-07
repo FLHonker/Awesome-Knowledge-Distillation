@@ -187,9 +187,9 @@
 
 - other data-free model compression:
 
-11. Data-free Parameter Pruning for Deep Neural Networks. Srinivas, Suraj et al. arXiv:1507.06149
-12. Data-Free Quantization Through Weight Equalization and Bias Correction. Nagel, Markus et al. ICCV 2019
-13. ZeroQ: A Novel Zero Shot Quantization Framework. Cai, Yaohui et al. arxiv:2001.00281
+12. Data-free Parameter Pruning for Deep Neural Networks. Srinivas, Suraj et al. arXiv:1507.06149
+13. Data-Free Quantization Through Weight Equalization and Bias Correction. Nagel, Markus et al. ICCV 2019
+14. ZeroQ: A Novel Zero Shot Quantization Framework. Cai, Yaohui et al. arxiv:2001.00281
 
 ## KD + AutoML
 
