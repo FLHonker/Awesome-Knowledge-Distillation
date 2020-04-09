@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-272-green)
+![](https://img.shields.io/badge/Number-274-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -326,6 +326,8 @@
 15. Improving BERT Fine-Tuning via Self-Ensemble and Self-Distillation. Xu, Yige et al. arXiv:2002.10345
 16. FastBERT: a Self-distilling BERT with Adaptive Inference Time. Liu, Weijie et al.arXiv:2004.02178
 17. LightRec: a Memory and Search-Efficient Recommender System. Lian Defu et al. WWW 2020
+18. LadaBERT: Lightweight Adaptation of BERT through Hybrid Model Compression. Mao, Yihuan et al. arXiv:2004.04124
+19. DynaBERT: Dynamic BERT with Adaptive Width and Depth. Hou, Lu et al. arXiv:2004.04037
 
 ## Model Pruning or Quantization
 1. Accelerating Convolutional Neural Networks with Dominant Convolutional Kernel and Knowledge Pre-regression. ECCV 2016
