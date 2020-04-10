@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-274-green)
+![](https://img.shields.io/badge/Number-275-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -320,14 +320,15 @@
 9. On Knowledge distillation from complex networks for response prediction. Arora, Siddhartha et al. NAACL 2019
 10. Distilling the Knowledge of BERT for Text Generation. arXiv:1911.03829v1
 11. Understanding Knowledge Distillation in Non-autoregressive Machine Translation. arXiv:1911.02727
-12. MobileBERT: Task-Agnostic Compression of BERT by Progressive Knowledge Transfer. ICLR 2020
+12. MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices. Sun, Zhiqing et al. ACL 2020
 13. Acquiring Knowledge from Pre-trained Model to Neural Machine Translation. Weng, Rongxiang et al. AAAI 2020
 14. TwinBERT: Distilling Knowledge to Twin-Structured BERT Models for Efficient Retrieval. Lu, Wenhao et al. KDD 2020
 15. Improving BERT Fine-Tuning via Self-Ensemble and Self-Distillation. Xu, Yige et al. arXiv:2002.10345
-16. FastBERT: a Self-distilling BERT with Adaptive Inference Time. Liu, Weijie et al.arXiv:2004.02178
+16. FastBERT: a Self-distilling BERT with Adaptive Inference Time. Liu, Weijie et al. ACL 2020
 17. LightRec: a Memory and Search-Efficient Recommender System. Lian Defu et al. WWW 2020
 18. LadaBERT: Lightweight Adaptation of BERT through Hybrid Model Compression. Mao, Yihuan et al. arXiv:2004.04124
 19. DynaBERT: Dynamic BERT with Adaptive Width and Depth. Hou, Lu et al. arXiv:2004.04037
+20. Structure-Level Knowledge Distillation For Multilingual Sequence Labeling. Wang, Xinyu et al. ACL 2020
 
 ## Model Pruning or Quantization
 1. Accelerating Convolutional Neural Networks with Dominant Convolutional Kernel and Knowledge Pre-regression. ECCV 2016
