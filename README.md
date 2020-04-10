@@ -332,8 +332,6 @@
 20. Structure-Level Knowledge Distillation For Multilingual Sequence Labeling. Wang, Xinyu et al. ACL 2020
 21. Distilled embedding: non-linear embedding factorization using knowledge distillation. Lioutas, Vasileios et al. arXiv:1910.06720
 
-Search
-
 ## Model Pruning or Quantization
 1. Accelerating Convolutional Neural Networks with Dominant Convolutional Kernel and Knowledge Pre-regression. ECCV 2016
 2. N2N Learning: Network to Network Compression via Policy Gradient Reinforcement Learning. Ashok, Anubhav et al. ICLR 2018
