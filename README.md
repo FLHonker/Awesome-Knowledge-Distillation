@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-276-green)
+![](https://img.shields.io/badge/Number-277-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -184,13 +184,13 @@
 9. Knowledge Extraction with No Observable Data. Yoo, Jaemin et al. NIPS 2019 [[code][10.9]]
 10. Data-Free Knowledge Amalgamation via Group-Stack Dual-GAN. CVPR 2020
 11. DeGAN : Data-Enriching GAN for Retrieving Representative Samples from a Trained Classifier. Addepalli, Sravanti et al. arXiv:1912.11960
-
+12. Generative Low-bitwidth Data Free Quantization. Xu, Shoukai et al. arXiv:2003.03603
 
 - other data-free model compression:
 
-12. Data-free Parameter Pruning for Deep Neural Networks. Srinivas, Suraj et al. arXiv:1507.06149
-13. Data-Free Quantization Through Weight Equalization and Bias Correction. Nagel, Markus et al. ICCV 2019
-14. ZeroQ: A Novel Zero Shot Quantization Framework. Cai, Yaohui et al. arxiv:2001.00281
+13. Data-free Parameter Pruning for Deep Neural Networks. Srinivas, Suraj et al. arXiv:1507.06149
+14. Data-Free Quantization Through Weight Equalization and Bias Correction. Nagel, Markus et al. ICCV 2019
+15. ZeroQ: A Novel Zero Shot Quantization Framework. Cai, Yaohui et al. arxiv:2001.00281
 
 ## KD + AutoML
 
