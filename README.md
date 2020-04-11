@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-277-green)
+![](https://img.shields.io/badge/Number-278-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -59,6 +59,7 @@
 29. Meta Pseudo Labels. Pham, Hieu et al. ICML 2020
 30. Neural Networks Are More Productive Teachers Than Human Raters: Active Mixup for Data-Efficient Knowledge Distillation from a Blackbox Model. arXiv:2003.13960 [[code][1.30]]
 31. Distilled Binary Neural Network for Monaural Speech Separation. Chen Xiuyi et al. IJCNN 2018
+32. Teacher-Class Network: A Neural Network Compression Mechanism. Malik et al. arXiv:2004.03281
 
 ### Knowledge from intermediate layers
 
@@ -333,58 +334,4 @@
 21. Distilled embedding: non-linear embedding factorization using knowledge distillation. Lioutas, Vasileios et al. arXiv:1910.06720
 
 ## Model Pruning or Quantization
-1. Accelerating Convolutional Neural Networks with Dominant Convolutional Kernel and Knowledge Pre-regression. ECCV 2016
-2. N2N Learning: Network to Network Compression via Policy Gradient Reinforcement Learning. Ashok, Anubhav et al. ICLR 2018
-3. Slimmable Neural Networks. Yu, Jiahui et al. ICLR 2018
-4. Co-Evolutionary Compression for Unpaired Image Translation. Shu, Han et al. ICCV 2019
-5. MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning. Liu, Zechun et al. ICCV 2019
-6. LightPAFF: A Two-Stage Distillation Framework for Pre-training and Fine-tuning. ICLR 2020
-7. Pruning with hints: an efficient framework for model acceleration. ICLR 2020
-8. Training convolutional neural networks with cheap convolutions and online distillation. arXiv:1909.13063
-9. Cooperative Pruning in Cross-Domain Deep Neural Network Compression. [Chen, Shangyu][17.9] et al. IJCAI 2019
-10. QKD: Quantization-aware Knowledge Distillation. Kim, Jangho et al. arXiv:1911.12491v1
-
-## Beyond
-
-1. Do deep nets really need to be deep?. Ba,Jimmy, and Rich Caruana. NIPS 2014
-2. When Does Label Smoothing Help? Müller, Rafael, Kornblith, and Hinton. NIPS 2019
-3. Towards Understanding Knowledge Distillation. Phuong, Mary and Lampert, Christoph. AAAI 2019
-4. Harnessing deep neural networks with logucal rules. ACL 2016
-   <!-- * 融合先验知识 -->
-5. Adaptive Regularization of Labels. Ding, Qianggang et al. arXiv:1908.05474
-6. Knowledge Isomorphism between Neural Networks. Liang, Ruofan et al. arXiv:1908.01581
-7. Role-Wise Data Augmentation for Knowledge Distillation. ICLR 2020
-8. [Neural Network Distiller][18.8]: A Python Package For DNN Compression Research. arXiv:1910.12232
-9. (survey)Modeling Teacher-Student Techniques in Deep Neural Networks for Knowledge Distillation. arXiv:1912.13179
-10. Understanding and Improving Knowledge Distillation. Tang, Jiaxi et al. arXiv:2002.03532
-11. The State of Knowledge Distillation for Classification. Ruffy, Fabian and Chahal, Karanbir. arXiv:1912.10850 [[code]][18.11]
-12. [TextBrewer][18.12]: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing. HIT and iFLYTEK. arXiv:2002.12620
-13. Explaining Knowledge Distillation by Quantifying the Knowledge. [Zhang, Quanshi][18.13] et al. arXiv:2003.03622
-14. DeepVID: deep visual interpretation and diagnosis for image classifiers via knowledge distillation. IEEE Trans, 2019.
-15. On the Unreasonable Effectiveness of Knowledge Distillation: Analysis in the Kernel Regime. Rahbar, Arman et al. arXiv:2003.13438
-
-
----
-Note: All papers pdf can be found and downloaded on [Bing](https://www.bing.com) or [Google](https://www.google.com).
-
-Source: <https://github.com/FLHonker/Awesome-Knowledge-Distillation>
-<!--
-Thanks for all contributors:
-
-[![shivmgg](https://avatars0.githubusercontent.com/u/21128481?s=28&v=4)](https://github.com/shivmgg)
--->
-
-Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu.cn/).
-
-
-[1.30]: https://github.com/dwang181/active-mixup
-[2.27]: https://github.com/JetRunner/BERT-of-Theseus
-[8.20]: https://github.com/mit-han-lab/gan-compression
-[10.9]: https://github.com/snudatalab/KegNet
-[13.1]: https://github.com/zju-vipa/KamalEngine
-[15.31]: https://github.com/StanfordVL/STGraph
-[17.9]: https://csyhhu.github.io/
-[18.8]: https://github.com/NervanaSystems/distiller
-[18.11]: https://github.com/karanchahal/distiller
-[18.12]: https://github.com/airaria/TextBrewer
-[18.13]: http://qszhang.com/
+1. Accelerating Convolutional Neural Networks with D
