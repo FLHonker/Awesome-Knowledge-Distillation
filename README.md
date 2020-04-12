@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-278-green)
+![](https://img.shields.io/badge/Number-279-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -309,6 +309,7 @@
 31. Spatio-Temporal Graph for Video Captioning with Knowledge distillation. CVPR 2020 [[code][15.31]]
 32. Squeezed Deep 6DoF Object Detection Using Knowledge Distillation. Felix, Heitor et al. arXiv:2003.13586
 33. Distilled Semantics for Comprehensive Scene Understanding from Videos. Tosi, Fabio et al. arXiv:2003.14030
+34. Parallel WaveNet: Fast high-fidelity speech synthesis. Van et al. ICML 2018
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
