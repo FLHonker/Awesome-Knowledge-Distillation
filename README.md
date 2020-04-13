@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-280-green)
+![](https://img.shields.io/badge/Number-282-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -60,6 +60,7 @@
 30. Neural Networks Are More Productive Teachers Than Human Raters: Active Mixup for Data-Efficient Knowledge Distillation from a Blackbox Model. arXiv:2003.13960 [[code][1.30]]
 31. Distilled Binary Neural Network for Monaural Speech Separation. Chen Xiuyi et al. IJCNN 2018
 32. Teacher-Class Network: A Neural Network Compression Mechanism. Malik et al. arXiv:2004.03281
+33. Deeply-supervised knowledge synergy. Sun, Dawei et al. CVPR 2019
 
 ### Knowledge from intermediate layers
 
@@ -311,6 +312,7 @@
 32. Squeezed Deep 6DoF Object Detection Using Knowledge Distillation. Felix, Heitor et al. arXiv:2003.13586
 33. Distilled Semantics for Comprehensive Scene Understanding from Videos. Tosi, Fabio et al. arXiv:2003.14030
 34. Parallel WaveNet: Fast high-fidelity speech synthesis. Van et al. ICML 2018
+35. Distill Knowledge From NRSfM for Weakly Supervised 3D Pose Learning. Wang Chaoyang et al. ICCV 2019
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
