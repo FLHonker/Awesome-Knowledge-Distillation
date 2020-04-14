@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-282-green)
+![](https://img.shields.io/badge/Number-283-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -202,6 +202,7 @@
 3. Towards Oracle Knowledge Distillation with Neural Architecture Search. Kang, Minsoo et al. AAAI 2020
 4. Search for Better Students to Learn Distilled Knowledge. Gu, Jindong & Tresp, Volker arXiv:2001.11612
 5. Circumventing Outliers of AutoAugment with Knowledge Distillation. Wei, Longhui et al. arXiv:2003.11342
+6. Network Pruning via Transformable Architecture Search. Dong, Xuanyi & Yang, Yi. NIPS 2019
 
 ## KD + RL
 
