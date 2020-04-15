@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-284-green)
+![](https://img.shields.io/badge/Number-287-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -140,6 +140,7 @@
 5. [noval]Efficient Video Classification Using Fewer Frames. Bhardwaj, Shweta et al. CVPR 2019
 6. Retaining privileged information for multi-task learning. Tang, Fengyi et al. KDD 2019
 7. A Generalized Meta-loss function for regression and classification using privileged information. Asif, Amina et al. arXiv:1811.06885
+8. Private Knowledge Transfer via Model Distillation with Generative Adversarial Networks. Gao, Di & Zhuo, Cheng. arXiv:2004.04631
 
 ## KD + GAN
 
@@ -315,6 +316,7 @@
 33. Distilled Semantics for Comprehensive Scene Understanding from Videos. Tosi, Fabio et al. arXiv:2003.14030
 34. Parallel WaveNet: Fast high-fidelity speech synthesis. Van et al. ICML 2018
 35. Distill Knowledge From NRSfM for Weakly Supervised 3D Pose Learning. Wang Chaoyang et al. ICCV 2019
+36. KD-MRI: A knowledge distillation framework for image reconstruction and image restoration in MRI workflow. Murugesan et al. MLR 2020
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
@@ -369,7 +371,7 @@
 13. Explaining Knowledge Distillation by Quantifying the Knowledge. [Zhang, Quanshi][18.13] et al. arXiv:2003.03622
 14. DeepVID: deep visual interpretation and diagnosis for image classifiers via knowledge distillation. IEEE Trans, 2019.
 15. On the Unreasonable Effectiveness of Knowledge Distillation: Analysis in the Kernel Regime. Rahbar, Arman et al. arXiv:2003.13438
-
+16. Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks. Wang, Lin & Yoon, Kuk-Jin. arXiv:2004.05937
 
 ---
 Note: All papers pdf can be found and downloaded on [Bing](https://www.bing.com) or [Google](https://www.google.com).
