@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-283-green)
+![](https://img.shields.io/badge/Number-284-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -61,6 +61,7 @@
 31. Distilled Binary Neural Network for Monaural Speech Separation. Chen Xiuyi et al. IJCNN 2018
 32. Teacher-Class Network: A Neural Network Compression Mechanism. Malik et al. arXiv:2004.03281
 33. Deeply-supervised knowledge synergy. Sun, Dawei et al. CVPR 2019
+34. What it Thinks is Important is Important: Robustness Transfers through Input Gradients. Chan, Alvin et al. CVPR 2020
 
 ### Knowledge from intermediate layers
 
