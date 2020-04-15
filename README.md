@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-288-green)
+![](https://img.shields.io/badge/Number-289-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -317,6 +317,7 @@
 34. Parallel WaveNet: Fast high-fidelity speech synthesis. Van et al. ICML 2018
 35. Distill Knowledge From NRSfM for Weakly Supervised 3D Pose Learning. Wang Chaoyang et al. ICCV 2019
 36. KD-MRI: A knowledge distillation framework for image reconstruction and image restoration in MRI workflow. Murugesan et al. MLR 2020
+37. Geometry-Aware Distillation for Indoor Semantic Segmentation. Jiao, Jianbo et al. CVPR 2019
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
