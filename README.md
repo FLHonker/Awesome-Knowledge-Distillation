@@ -316,7 +316,7 @@
 33. Distilled Semantics for Comprehensive Scene Understanding from Videos. Tosi, Fabio et al. arXiv:2003.14030
 34. Parallel WaveNet: Fast high-fidelity speech synthesis. Van et al. ICML 2018
 35. Distill Knowledge From NRSfM for Weakly Supervised 3D Pose Learning. Wang Chaoyang et al. ICCV 2019
-36. KD-MRI: A knowledge distillation framework for image reconstruction and image restoration in MRI workflow. Murugesan et al. MLR 2020
+36. KD-MRI: A knowledge distillation framework for image reconstruction and image restoration in MRI workflow. Murugesan et al. MIDL 2020
 37. Geometry-Aware Distillation for Indoor Semantic Segmentation. Jiao, Jianbo et al. CVPR 2019
 38. Teacher Supervises Students How to Learn From Partially Labeled Images for Facial Landmark Detection. ICCV 2019
 
