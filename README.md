@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-290-green)
+![](https://img.shields.io/badge/Number-291-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -196,7 +196,7 @@
 
 15. Data-free Parameter Pruning for Deep Neural Networks. Srinivas, Suraj et al. arXiv:1507.06149
 16. Data-Free Quantization Through Weight Equalization and Bias Correction. Nagel, Markus et al. ICCV 2019
-
+17. DAC: Data-free Automatic Acceleration of Convolutional Networks. Li, Xin et al. WACV 2019
 
 ## KD + AutoML
 
