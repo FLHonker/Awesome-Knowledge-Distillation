@@ -73,7 +73,7 @@
 6. Knowledge transfer with jacobian matching. ICML 2018
 7. Self-supervised knowledge distillation using singular value decomposition. Lee, Seung Hyun et al. ECCV 2018
 8. Variational Information Distillation for Knowledge Transfer. Ahn, Sungsoo et al. CVPR 2019
-9  <!-- * 通过互信息导出关于student中间层表示和teacher中间表示的关系。 -->
+9.  <!-- * 通过互信息导出关于student中间层表示和teacher中间表示的关系。 -->
 10. Knowledge Distillation via Instance Relationship Graph. Liu, Yufan et al. CVPR 2019
 11. Knowledge Distillation via Route Constrained Optimization. Jin, Xiao et al. ICCV 2019
 12. Similarity-Preserving Knowledge Distillation. Tung, Frederick, and Mori Greg. ICCV 2019
