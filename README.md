@@ -190,12 +190,13 @@
 11. DeGAN : Data-Enriching GAN for Retrieving Representative Samples from a Trained Classifier. Addepalli, Sravanti et al. arXiv:1912.11960
 12. Generative Low-bitwidth Data Free Quantization. Xu, Shoukai et al. arXiv:2003.03603
 13. This dataset does not exist: training models from generated images. arXiv:1911.02888
+14. ZeroQ: A Novel Zero Shot Quantization Framework. Cai, Yaohui et al. CVPR2020
 
 - other data-free model compression:
 
-14. Data-free Parameter Pruning for Deep Neural Networks. Srinivas, Suraj et al. arXiv:1507.06149
-15. Data-Free Quantization Through Weight Equalization and Bias Correction. Nagel, Markus et al. ICCV 2019
-16. ZeroQ: A Novel Zero Shot Quantization Framework. Cai, Yaohui et al. arxiv:2001.00281
+15. Data-free Parameter Pruning for Deep Neural Networks. Srinivas, Suraj et al. arXiv:1507.06149
+16. Data-Free Quantization Through Weight Equalization and Bias Correction. Nagel, Markus et al. ICCV 2019
+
 
 ## KD + AutoML
 
