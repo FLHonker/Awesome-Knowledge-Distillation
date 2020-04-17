@@ -72,8 +72,8 @@
 5. Paraphrasing complex network: Network compression via factor transfer. Kim, Jangho et al. NIPS 2018
 6. Knowledge transfer with jacobian matching. ICML 2018
 7. Self-supervised knowledge distillation using singular value decomposition. Lee, Seung Hyun et al. ECCV 2018
-8. Variational Information Distillation for Knowledge Transfer. Ahn, Sungsoo et al. CVPR 2019
-9.  <!-- * 通过互信息导出关于student中间层表示和teacher中间表示的关系。 -->
+8. Learning Deep Representations with Probabilistic Knowledge Transfer. Passalis et al. ECCV 2018
+9. Variational Information Distillation for Knowledge Transfer. Ahn, Sungsoo et al. CVPR 2019
 10. Knowledge Distillation via Instance Relationship Graph. Liu, Yufan et al. CVPR 2019
 11. Knowledge Distillation via Route Constrained Optimization. Jin, Xiao et al. ICCV 2019
 12. Similarity-Preserving Knowledge Distillation. Tung, Frederick, and Mori Greg. ICCV 2019
@@ -86,12 +86,11 @@
 19. Knowledge Distillation from Internal Representations. AAAI 2020
 20. Knowledge Flow:Improve Upon Your Teachers. ICLR 2019
 21. LIT: Learned Intermediate Representation Training for Model Compression. ICML 2019
-22. Learning Deep Representations with Probabilistic Knowledge Transfer. Passalis et al. ECCV 2018
-23. Improving the Adversarial Robustness of Transfer Learning via Noisy Feature Distillation. Chin, Ting-wu et al. arXiv:2002.02998
-24. Knapsack Pruning with Inner Distillation. Aflalo, Yonathan et al. arXiv:2002.08258
-25. Residual Knowledge Distillation. Gao, Mengya et al. arXiv:2002.09168
-26. Knowledge distillation via adaptive instance normalization. Yang, Jing et al. arXiv:2003.04289
-27. Bert-of-Theseus: Compressing bert by progressive module replacing. Xu, Canwen et al. arXiv:2002.02925 [[code][2.27]]
+22. Improving the Adversarial Robustness of Transfer Learning via Noisy Feature Distillation. Chin, Ting-wu et al. arXiv:2002.02998
+23. Knapsack Pruning with Inner Distillation. Aflalo, Yonathan et al. arXiv:2002.08258
+24. Residual Knowledge Distillation. Gao, Mengya et al. arXiv:2002.09168
+25. Knowledge distillation via adaptive instance normalization. Yang, Jing et al. arXiv:2003.04289
+26. Bert-of-Theseus: Compressing bert by progressive module replacing. Xu, Canwen et al. arXiv:2002.02925 [[code][2.27]]
 
 ### Graph-based
 1. Graph-based Knowledge Distillation by Multi-head Attention Network. Lee, Seunghyun and Song, Byung. Cheol arXiv:1907.02226
