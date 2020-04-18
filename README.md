@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-291-green)
+![](https://img.shields.io/badge/Number-292-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -319,6 +319,7 @@
 36. KD-MRI: A knowledge distillation framework for image reconstruction and image restoration in MRI workflow. Murugesan et al. MIDL 2020
 37. Geometry-Aware Distillation for Indoor Semantic Segmentation. Jiao, Jianbo et al. CVPR 2019
 38. Teacher Supervises Students How to Learn From Partially Labeled Images for Facial Landmark Detection. ICCV 2019
+39. Distill Image _Dehazing_ with Heterogeneous Task Imitation. Hong, Ming et al. CVPR 2020
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
