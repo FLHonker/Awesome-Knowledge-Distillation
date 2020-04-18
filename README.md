@@ -97,7 +97,7 @@
 2. Graph Representation Learning via Multi-task Knowledge Distillation. arXiv:1911.05700
 3. Deep geometric knowledge distillation with graphs. arXiv:1911.03080
 4. Better and faster: Knowledge transfer from multiple self-supervised learning tasks via graph distillation for video classification. IJCAI 2018
-5. Distillating Knowledge from Graph Convolutional Networks. Yang, Yiding et al. arXiv:2003.10477
+5. Distillating Knowledge from Graph Convolutional Networks. Yang, Yiding et al. CVPR 2020
 
 ### Mutual Information
 
