@@ -292,13 +292,13 @@
 9. Structured Knowledge Distillation for _Semantic Segmentation_. Liu, Yifan et al. CVPR 2019
 10. Relation Distillation Networks for _Video Object Detection_. Deng, Jiajun et al. ICCV 2019
 11. Teacher Supervises Students How to Learn From Partially Labeled Images for _Facial Landmark Detection_. Dong, Xuanyi and Yang, Yi. ICCV 2019
-12. Progressive Teacher-student Learning for Early _Action Prediction_. Wang, Xionghui et al. CVPR2019
+12. Progressive Teacher-student Learning for Early _Action Prediction_. Wang, Xionghui et al. CVPR 2019
 13. Lightweight Image _Super-Resolution_ with Information Multi-distillation Network. Hui, Zheng et al. ICCVW 2019
 14. AWSD:Adaptive Weighted Spatiotemporal Distillation for _Video Representation_. Tavakolian, Mohammad et al. ICCV 2019
 15. Dynamic Kernel Distillation for Efficient _Pose Estimation_ in Videos. Nie, Xuecheng et al. ICCV 2019
 16. Teacher Guided _Architecture Search_. Bashivan, Pouya and Tensen, Mark. ICCV 2019
 17. Online Model Distillation for Efficient _Video Inference_. Mullapudi et al. ICCV 2019
-18. Distilling _Object Detectors_ with Fine-grained Feature Imitation. Wang, Tao et al. CVPR2019
+18. Distilling _Object Detectors_ with Fine-grained Feature Imitation. Wang, Tao et al. CVPR 2019
 19. Relation Distillation Networks for _Video Object Detection_. Deng, Jiajun et al. ICCV 2019
 20. Knowledge Distillation for Incremental Learning in _Semantic Segmentation_. arXiv:1911.03462
 21. MOD: A Deep Mixture Model with Online Knowledge Distillation for Large Scale Video Temporal Concept Localization. arXiv:1910.12295
@@ -308,19 +308,19 @@
 25. ROAD: Reality Oriented Adaptation for _Semantic Segmentation_ of Urban Scenes. Chen, Yuhua et al. CVPR 2018
 26. Next Point-of-Interest _Recommendation_ on Resource-Constrained Mobile Devices. WWW 2020
 27. Multi-Representation Knowledge Distillation For Audio Classification. Gao, Liang et al. arXiv:2002.09607
-28. Collaborative Distillation for Ultra-Resolution Universal Style Transfer. Wang, Huan et al. CVPR 2020
-29. ShadowTutor: Distributed Partial Distillation for Mobile Video DNN Inference. Chung, Jae-Won et al. arXiv:2003.10735
-30. Object Relational Graph with Teacher-Recommended Learning for Video Captioning. Zhang, Ziqi et al. CVPR 2020
-31. Spatio-Temporal Graph for Video Captioning with Knowledge distillation. CVPR 2020 [[code][15.31]]
-32. Squeezed Deep 6DoF Object Detection Using Knowledge Distillation. Felix, Heitor et al. arXiv:2003.13586
-33. Distilled Semantics for Comprehensive Scene Understanding from Videos. Tosi, Fabio et al. arXiv:2003.14030
-34. Parallel WaveNet: Fast high-fidelity speech synthesis. Van et al. ICML 2018
-35. Distill Knowledge From NRSfM for Weakly Supervised 3D Pose Learning. Wang Chaoyang et al. ICCV 2019
-36. KD-MRI: A knowledge distillation framework for image reconstruction and image restoration in MRI workflow. Murugesan et al. MIDL 2020
-37. Geometry-Aware Distillation for Indoor Semantic Segmentation. Jiao, Jianbo et al. CVPR 2019
-38. Teacher Supervises Students How to Learn From Partially Labeled Images for Facial Landmark Detection. ICCV 2019
+28. Collaborative Distillation for Ultra-Resolution Universal _Style Transfer_. Wang, Huan et al. CVPR 2020
+29. ShadowTutor: Distributed Partial Distillation for Mobile _Video_ DNN Inference. Chung, Jae-Won et al. arXiv:2003.10735
+30. Object Relational Graph with Teacher-Recommended Learning for _Video Captioning_. Zhang, Ziqi et al. CVPR 2020
+31. Spatio-Temporal Graph for _Video Captioning_ with Knowledge distillation. CVPR 2020 [[code][15.31]]
+32. Squeezed Deep _6DoF Object Detection_ Using Knowledge Distillation. Felix, Heitor et al. arXiv:2003.13586
+33. Distilled Semantics for Comprehensive _Scene Understanding_ from Videos. Tosi, Fabio et al. arXiv:2003.14030
+34. Parallel WaveNet: Fast high-fidelity _speech synthesis_. Van et al. ICML 2018
+35. Distill Knowledge From NRSfM for Weakly Supervised _3D Pose_ Learning. Wang Chaoyang et al. ICCV 2019
+36. KD-MRI: A knowledge distillation framework for _image reconstruction_ and image restoration in MRI workflow. Murugesan et al. MIDL 2020
+37. Geometry-Aware Distillation for Indoor _Semantic Segmentation_. Jiao, Jianbo et al. CVPR 2019
+38. Teacher Supervises Students How to Learn From Partially Labeled Images for _Facial Landmark Detection_. ICCV 2019
 39. Distill Image _Dehazing_ with Heterogeneous Task Imitation. Hong, Ming et al. CVPR 2020
-40. Knowledge Distillation for Action Anticipation via Label Smoothing. Camporese et al. arXiv:2004.07711
+40. Knowledge Distillation for _Action Anticipation_ via Label Smoothing. Camporese et al. arXiv:2004.07711
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
