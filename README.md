@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-294-green)
+![](https://img.shields.io/badge/Number-296-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -62,6 +62,8 @@
 32. Teacher-Class Network: A Neural Network Compression Mechanism. Malik et al. arXiv:2004.03281
 33. Deeply-supervised knowledge synergy. Sun, Dawei et al. CVPR 2019
 34. What it Thinks is Important is Important: Robustness Transfers through Input Gradients. Chan, Alvin et al. CVPR 2020
+35. Triplet Loss for Knowledge Distillation. Oki, Hideki et al. IJCNN 2020
+36. Role-Wise Data Augmentation for Knowledge Distillation. arXiv:2004.08861 [[code][1.36]]
 
 ### Knowledge from intermediate layers
 
@@ -393,6 +395,7 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 
 
 [1.30]: https://github.com/dwang181/active-mixup
+[1.36]: https://github.com/bigaidream-projects/role-kd
 [2.27]: https://github.com/JetRunner/BERT-of-Theseus
 [8.20]: https://github.com/mit-han-lab/gan-compression
 [10.9]: https://github.com/snudatalab/KegNet
