@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-296-green)
+![](https://img.shields.io/badge/Number-295-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -63,7 +63,7 @@
 33. Deeply-supervised knowledge synergy. Sun, Dawei et al. CVPR 2019
 34. What it Thinks is Important is Important: Robustness Transfers through Input Gradients. Chan, Alvin et al. CVPR 2020
 35. Triplet Loss for Knowledge Distillation. Oki, Hideki et al. IJCNN 2020
-36. Role-Wise Data Augmentation for Knowledge Distillation. arXiv:2004.08861 [[code][1.36]]
+36. Role-Wise Data Augmentation for Knowledge Distillation. ICLR 2020 [[code][1.36]]
 
 ### Knowledge from intermediate layers
 
@@ -370,16 +370,15 @@
    <!-- * 融合先验知识 -->
 5. Adaptive Regularization of Labels. Ding, Qianggang et al. arXiv:1908.05474
 6. Knowledge Isomorphism between Neural Networks. Liang, Ruofan et al. arXiv:1908.01581
-7. Role-Wise Data Augmentation for Knowledge Distillation. ICLR 2020
-8. [Neural Network Distiller][18.8]: A Python Package For DNN Compression Research. arXiv:1910.12232
-9. (survey)Modeling Teacher-Student Techniques in Deep Neural Networks for Knowledge Distillation. arXiv:1912.13179
-10. Understanding and Improving Knowledge Distillation. Tang, Jiaxi et al. arXiv:2002.03532
-11. The State of Knowledge Distillation for Classification. Ruffy, Fabian and Chahal, Karanbir. arXiv:1912.10850 [[code]][18.11]
-12. [TextBrewer][18.12]: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing. HIT and iFLYTEK. arXiv:2002.12620
-13. Explaining Knowledge Distillation by Quantifying the Knowledge. [Zhang, Quanshi][18.13] et al. arXiv:2003.03622
-14. DeepVID: deep visual interpretation and diagnosis for image classifiers via knowledge distillation. IEEE Trans, 2019.
-15. On the Unreasonable Effectiveness of Knowledge Distillation: Analysis in the Kernel Regime. Rahbar, Arman et al. arXiv:2003.13438
-16. Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks. Wang, Lin & Yoon, Kuk-Jin. arXiv:2004.05937
+7. [Neural Network Distiller][18.8]: A Python Package For DNN Compression Research. arXiv:1910.12232
+8. (survey)Modeling Teacher-Student Techniques in Deep Neural Networks for Knowledge Distillation. arXiv:1912.13179
+9. Understanding and Improving Knowledge Distillation. Tang, Jiaxi et al. arXiv:2002.03532
+10. The State of Knowledge Distillation for Classification. Ruffy, Fabian and Chahal, Karanbir. arXiv:1912.10850 [[code]][18.11]
+11. [TextBrewer][18.12]: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing. HIT and iFLYTEK. arXiv:2002.12620
+12. Explaining Knowledge Distillation by Quantifying the Knowledge. [Zhang, Quanshi][18.13] et al. arXiv:2003.03622
+13. DeepVID: deep visual interpretation and diagnosis for image classifiers via knowledge distillation. IEEE Trans, 2019.
+14. On the Unreasonable Effectiveness of Knowledge Distillation: Analysis in the Kernel Regime. Rahbar, Arman et al. arXiv:2003.13438
+15. Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks. Wang, Lin & Yoon, Kuk-Jin. arXiv:2004.05937
 
 ---
 Note: All papers pdf can be found and downloaded on [Bing](https://www.bing.com) or [Google](https://www.google.com).
