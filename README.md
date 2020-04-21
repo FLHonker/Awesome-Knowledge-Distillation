@@ -366,7 +366,7 @@
 1. Do deep nets really need to be deep?. Ba,Jimmy, and Rich Caruana. NIPS 2014
 2. When Does Label Smoothing Help? Müller, Rafael, Kornblith, and Hinton. NIPS 2019
 3. Towards Understanding Knowledge Distillation. Phuong, Mary and Lampert, Christoph. AAAI 2019
-4. Harnessing deep neural networks with logucal rules. ACL 2016
+4. Harnessing deep neural networks with logical rules. ACL 2016
    <!-- * 融合先验知识 -->
 5. Adaptive Regularization of Labels. Ding, Qianggang et al. arXiv:1908.05474
 6. Knowledge Isomorphism between Neural Networks. Liang, Ruofan et al. arXiv:1908.01581
