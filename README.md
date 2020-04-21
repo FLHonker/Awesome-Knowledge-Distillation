@@ -37,7 +37,7 @@
 7. Like What You Like: Knowledge Distill via Neuron Selectivity Transfer. Huang, Zehao and Wang, Naiyan. 2017
 8. On Knowledge Distillation from Complex Networks for Response Prediction. Arora, Siddhartha et al. NAACL 2019
 9. On the Efficacy of Knowledge Distillation. Cho, Jang Hyun and Hariharan, Bharath. arXiv:1910.01348. ICCV 2019
-10. [noval]Revisit Knowledge Distillation: a Teacher-free Framework. Yuan, Li et al. arXiv:1909.11723
+10. Revisit Knowledge Distillation: a Teacher-free Framework. Yuan, Li et al. arXiv:1909.11723
 11. Improved Knowledge Distillation via Teacher Assistant: Bridging the Gap Between Student and Teacher. Mirzadeh et al. arXiv:1902.03393
 12. Ensemble Distribution Distillation. ICLR 2020
 13. Noisy Collaboration in Knowledge Distillation. ICLR 2020
@@ -138,7 +138,7 @@
 2. Unifying distillation and privileged information. Lopez-Paz, David et al. ICLR 2016
 3. Model compression via distillation and quantization. Polino, Antonio et al. ICLR 2018
 4. KDGAN:Knowledge Distillation with Generative Adversarial Networks. Wang, Xiaojie. NIPS 2018
-5. [noval]Efficient Video Classification Using Fewer Frames. Bhardwaj, Shweta et al. CVPR 2019
+5. Efficient Video Classification Using Fewer Frames. Bhardwaj, Shweta et al. CVPR 2019
 6. Retaining privileged information for multi-task learning. Tang, Fengyi et al. KDD 2019
 7. A Generalized Meta-loss function for regression and classification using privileged information. Asif, Amina et al. arXiv:1811.06885
 8. Private Knowledge Transfer via Model Distillation with Generative Adversarial Networks. Gao, Di & Zhuo, Cheng. AAAI 2020
@@ -153,7 +153,7 @@
 6. Cross-Modality Distillation: A case for Conditional Generative Adversarial Networks. ICASSP 2018
 7. Adversarial Distillation for Efficient Recommendation with External Knowledge. TOIS 2018
 8. Training student networks for acceleration with conditional adversarial networks. Xu, Zheng et al. BMVC 2018
-9. [noval]DAFL:Data-Free Learning of Student Networks. Chen, Hanting et al. ICCV 2019
+9. DAFL:Data-Free Learning of Student Networks. Chen, Hanting et al. ICCV 2019
 10. MEAL: Multi-Model Ensemble via Adversarial Learning. Shen,Zhiqiang, He,Zhankui, and Xue Xiangyang. AAAI 2019
 11. Knowledge Distillation with Adversarial Samples Supporting Decision Boundary. Heo, Byeongho et al. AAAI 2019
 12. Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection. Liu, Jian et al. AAAI 2019
@@ -191,7 +191,7 @@
 11. DeGAN : Data-Enriching GAN for Retrieving Representative Samples from a Trained Classifier. Addepalli, Sravanti et al. arXiv:1912.11960
 12. Generative Low-bitwidth Data Free Quantization. Xu, Shoukai et al. arXiv:2003.03603
 13. This dataset does not exist: training models from generated images. arXiv:1911.02888
-14. ZeroQ: A Novel Zero Shot Quantization Framework. Cai, Yaohui et al. CVPR2020
+14. ZeroQ: A Novel Zero Shot Quantization Framework. Cai, Yaohui et al. CVPR 2020
 
 - other data-free model compression:
 
