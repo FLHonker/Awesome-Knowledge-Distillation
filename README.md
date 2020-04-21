@@ -287,7 +287,7 @@
 2. Learning efficient object detection models with knowledge distillation. Chen, Guobin et al. NIPS 2017
 3. Apprentice: Using Knowledge Distillation Techniques To Improve Low-Precision Network Accuracy. Mishra, Asit et al. NIPS 2018
 4. Distilled Person _Re-identification_: Towars a More Scalable System. Wu, Ancong et al. CVPR 2019
-5. [noval]Efficient _Video Classification_ Using Fewer Frames. Bhardwaj, Shweta et al. CVPR 2019
+5. Efficient _Video Classification_ Using Fewer Frames. Bhardwaj, Shweta et al. CVPR 2019
 6. Fast Human _Pose Estimation_. Zhang, Feng et al. CVPR 2019
 7. Distilling knowledge from a deep _pose_ regressor network. Saputra et al. arXiv:1908.00858 (2019)
 8. Learning Lightweight _Lane Detection_ CNNs by Self Attention Distillation. Hou, Yuenan et al. ICCV 2019
@@ -378,7 +378,7 @@
 12. Explaining Knowledge Distillation by Quantifying the Knowledge. [Zhang, Quanshi][18.13] et al. arXiv:2003.03622
 13. DeepVID: deep visual interpretation and diagnosis for image classifiers via knowledge distillation. IEEE Trans, 2019.
 14. On the Unreasonable Effectiveness of Knowledge Distillation: Analysis in the Kernel Regime. Rahbar, Arman et al. arXiv:2003.13438
-15. Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks. Wang, Lin & Yoon, Kuk-Jin. arXiv:2004.05937
+15. (survey)Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks. Wang, Lin & Yoon, Kuk-Jin. arXiv:2004.05937
 
 ---
 Note: All papers pdf can be found and downloaded on [Bing](https://www.bing.com) or [Google](https://www.google.com).
