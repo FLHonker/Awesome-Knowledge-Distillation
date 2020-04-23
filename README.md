@@ -131,6 +131,7 @@
    <!-- * 通过instance中间层表示构建了instance之间的图，并将图作为一种知识进行传递。 -->
 4. Contrastive Representation Distillation. Tian, Yonglong et al. ICLR 2020
 5. Teaching To Teach By Structured Dark Knowledge. ICLR 2020
+6. Inter-Region Affinity Distillation for Road Marking Segmentation. Hou, Yuenan et al. CVPR 2020
 
 ### Privileged Information
 
