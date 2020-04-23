@@ -131,7 +131,7 @@
    <!-- * 通过instance中间层表示构建了instance之间的图，并将图作为一种知识进行传递。 -->
 4. Contrastive Representation Distillation. Tian, Yonglong et al. ICLR 2020
 5. Teaching To Teach By Structured Dark Knowledge. ICLR 2020
-6. Inter-Region Affinity Distillation for Road Marking Segmentation. Hou, Yuenan et al. CVPR 2020
+6. Inter-Region Affinity Distillation for Road Marking Segmentation. Hou, Yuenan et al. CVPR 2020 [[code][6.6]]
 
 ### Privileged Information
 
@@ -399,6 +399,7 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [1.30]: https://github.com/dwang181/active-mixup
 [1.36]: https://github.com/bigaidream-projects/role-kd
 [2.27]: https://github.com/JetRunner/BERT-of-Theseus
+[6.6]: https://github.com/cardwing/Codes-for-IntRA-KD
 [8.20]: https://github.com/mit-han-lab/gan-compression
 [10.9]: https://github.com/snudatalab/KegNet
 [13.1]: https://github.com/zju-vipa/KamalEngine
