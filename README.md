@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-300-green)
+![](https://img.shields.io/badge/Number-303-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -354,6 +354,9 @@
 23. Knowledge Distillation for Multilingual Unsupervised Neural Machine Translation. Sun, Haipeng et al. arXiv:2004.10171
 24. Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation. Reimers, Nils & Gurevych, Iryna arXiv:2004.09813
 25. Distilling Knowledge for Fast Retrieval-based Chat-bots. Tahami et al. arXiv:2004.11045
+26. Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language. arXiv:2004.12440
+27. Local Clustering with Mean Teacher for Semi-supervised Learning. arXiv:2004.09665
+28. Time Series Data Augmentation for Neural Networks by Time Warping with a Discriminative Teacher. arXiv:2004.08780 
 
 ## Model Pruning or Quantization
 1. Accelerating Convolutional Neural Networks with Dominant Convolutional Kernel and Knowledge Pre-regression. ECCV 2016
