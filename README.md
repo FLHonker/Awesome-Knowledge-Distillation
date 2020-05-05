@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-303-green)
+![](https://img.shields.io/badge/Number-305-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -64,6 +64,7 @@
 34. What it Thinks is Important is Important: Robustness Transfers through Input Gradients. Chan, Alvin et al. CVPR 2020
 35. Triplet Loss for Knowledge Distillation. Oki, Hideki et al. IJCNN 2020
 36. Role-Wise Data Augmentation for Knowledge Distillation. ICLR 2020 [[code][1.36]]
+37. Distilling Spikes: Knowledge Distillation in Spiking Neural Networks. arXiv:2005.00288
 
 ### Knowledge from intermediate layers
 
@@ -93,6 +94,7 @@
 24. Residual Knowledge Distillation. Gao, Mengya et al. arXiv:2002.09168
 25. Knowledge distillation via adaptive instance normalization. Yang, Jing et al. arXiv:2003.04289
 26. Bert-of-Theseus: Compressing bert by progressive module replacing. Xu, Canwen et al. arXiv:2002.02925 [[code][2.27]]
+27. Distilling Spikes: Knowledge Distillation in Spiking Neural Networks. arXiv:2005.00727
 
 ### Graph-based
 1. Graph-based Knowledge Distillation by Multi-head Attention Network. Lee, Seunghyun and Song, Byung. Cheol arXiv:1907.02226
