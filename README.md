@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-305-green)
+![](https://img.shields.io/badge/Number-306-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -283,6 +283,7 @@
 18. Unpaired Multi-modal Segmentation via Knowledge Distillation. Dou, Qi et al. arXiv:2001.03111
 19. Multi-source Distilling Domain Adaptation. Zhao, Sicheng et al. arXiv:1911.11554
 20. Creating Something from Nothing: Unsupervised Knowledge Distillation for Cross-Modal Hashing. Hu, Hengtong et al. arXiv:2004.00280
+21. Improving Semantic Segmentation via Self-Training. Zhu, Yi et al. arXiv:2004.14960
 
 ## Application of KD
 
