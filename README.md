@@ -220,6 +220,7 @@
 4. Exploration by random network distillation. Burda, Yuri et al. ICLR 2019
 5. Periodic Intra-Ensemble Knowledge Distillation for Reinforcement Learning. Hong, Zhang-Wei et al. arXiv:2002.00149
 6. Transfer Heterogeneous Knowledge Among Peer-to-Peer Teammates: A Model Distillation Approach. Xue, Zeyue et al. arXiv:2002.02202
+7. Proxy Experience Replay: Federated Distillation for Distributed Reinforcement Learning. Cha, han et al. arXiv:2005.06105
 
 ## Multi-teacher KD 
 
