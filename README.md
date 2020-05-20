@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-308-green)
+![](https://img.shields.io/badge/Number-312-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -95,6 +95,7 @@
 25. Knowledge distillation via adaptive instance normalization. Yang, Jing et al. arXiv:2003.04289
 26. Bert-of-Theseus: Compressing bert by progressive module replacing. Xu, Canwen et al. arXiv:2002.02925 [[code][2.27]]
 27. Distilling Spikes: Knowledge Distillation in Spiking Neural Networks. arXiv:2005.00727
+28. Generalized Bayesian Posterior Expectation Distillation for Deep Neural Networks. Meet et al. arXiv:2005.08110
 
 ### Graph-based
 1. Graph-based Knowledge Distillation by Multi-head Attention Network. Lee, Seunghyun and Song, Byung. Cheol arXiv:1907.02226
@@ -284,6 +285,8 @@
 19. Multi-source Distilling Domain Adaptation. Zhao, Sicheng et al. arXiv:1911.11554
 20. Creating Something from Nothing: Unsupervised Knowledge Distillation for Cross-Modal Hashing. Hu, Hengtong et al. arXiv:2004.00280
 21. Improving Semantic Segmentation via Self-Training. Zhu, Yi et al. arXiv:2004.14960
+22. Speech to Text Adaptation: Towards an Efficient Cross-Modal Distillation. arXiv:2005.08213
+23. Joint Progressive Knowledge Distillation and Unsupervised Domain Adaptation. arXiv:2005.07839
 
 ## Application of KD
 
