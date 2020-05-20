@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-313-green)
+![](https://img.shields.io/badge/Number-314-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -65,6 +65,7 @@
 35. Triplet Loss for Knowledge Distillation. Oki, Hideki et al. IJCNN 2020
 36. Role-Wise Data Augmentation for Knowledge Distillation. ICLR 2020 [[code][1.36]]
 37. Distilling Spikes: Knowledge Distillation in Spiking Neural Networks. arXiv:2005.00288
+38. Improved Noisy Student Training for Automatic Speech Recognition. Park et al.arXiv:2005.09629
 
 ### Knowledge from intermediate layers
 
