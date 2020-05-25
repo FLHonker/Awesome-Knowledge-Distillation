@@ -170,6 +170,7 @@
 18. MineGAN: effective knowledge transfer from GANs to target domains with few images. Wang, Yaxing et al. arXiv:1912.05270
 19. Distilling portable Generative Adversarial Networks for Image Translation. Chen, Hanting et al. AAAI 2020
 20. GAN Compression: Efficient Architectures for Interactive Conditional GANs. Junyan Zhu et al. CVPR 2020 [[code][8.20]]
+21. Adversarial network compression. Belagiannis et al. ECCV 2018
 
 ## KD + Meta-learning
 
@@ -196,13 +197,12 @@
 11. DeGAN : Data-Enriching GAN for Retrieving Representative Samples from a Trained Classifier. Addepalli, Sravanti et al. arXiv:1912.11960
 12. Generative Low-bitwidth Data Free Quantization. Xu, Shoukai et al. arXiv:2003.03603
 13. This dataset does not exist: training models from generated images. arXiv:1911.02888
-15. Data-Free Network Quantization With Adversarial Knowledge Distillation. Choi, Yoojin et al. arXiv:2005.04136
 
 - other data-free model compression:
 
-16. Data-free Parameter Pruning for Deep Neural Networks. Srinivas, Suraj et al. arXiv:1507.06149
-17. Data-Free Quantization Through Weight Equalization and Bias Correction. Nagel, Markus et al. ICCV 2019
-18. DAC: Data-free Automatic Acceleration of Convolutional Networks. Li, Xin et al. WACV 2019
+14. Data-free Parameter Pruning for Deep Neural Networks. Srinivas, Suraj et al. arXiv:1507.06149
+15. Data-Free Quantization Through Weight Equalization and Bias Correction. Nagel, Markus et al. ICCV 2019
+16. DAC: Data-free Automatic Acceleration of Convolutional Networks. Li, Xin et al. WACV 2019
 
 ## KD + AutoML
 
