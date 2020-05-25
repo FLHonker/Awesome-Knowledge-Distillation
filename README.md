@@ -206,7 +206,7 @@
 
 ## KD + AutoML
 
-1. Improving Neural Architecture Search Image Classifiers via Ensemble Learning. Macko, Vladimir et al. 2019
+1. Improving Neural Architecture Search Image Classifiers via Ensemble Learning. Macko, Vladimir et al. arXiv:1903.06236
 2. Blockwisely Supervised Neural Architecture Search with Knowledge Distillation. Li, Changlin et al. arXiv:1911.13053v1
 3. Towards Oracle Knowledge Distillation with Neural Architecture Search. Kang, Minsoo et al. AAAI 2020
 4. Search for Better Students to Learn Distilled Knowledge. Gu, Jindong & Tresp, Volker arXiv:2001.11612
