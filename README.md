@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-316-green)
+![](https://img.shields.io/badge/Number-317-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -380,6 +380,7 @@
 8. Training convolutional neural networks with cheap convolutions and online distillation. arXiv:1909.13063
 9. Cooperative Pruning in Cross-Domain Deep Neural Network Compression. [Chen, Shangyu][17.9] et al. IJCAI 2019
 10. QKD: Quantization-aware Knowledge Distillation. Kim, Jangho et al. arXiv:1911.12491v1
+11. Neural Network Pruning with Residual-Connections and Limited-Data. Luo, Jian-Hao & Wu, Jianxin. CVPR 2020
 
 ## Beyond
 
