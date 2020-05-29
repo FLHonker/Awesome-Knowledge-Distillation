@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-318-green)
+![](https://img.shields.io/badge/Number-319-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -66,6 +66,7 @@
 36. Role-Wise Data Augmentation for Knowledge Distillation. ICLR 2020 [[code][1.36]]
 37. Distilling Spikes: Knowledge Distillation in Spiking Neural Networks. arXiv:2005.00288
 38. Improved Noisy Student Training for Automatic Speech Recognition. Park et al.arXiv:2005.09629
+39. Learning from a Lightweight Teacher for Efficient Knowledge Distillation. Yuang Liu et al. arXiv:2005.09163
 
 ### Knowledge from intermediate layers
 
