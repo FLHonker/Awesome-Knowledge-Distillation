@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-317-green)
+![](https://img.shields.io/badge/Number-318-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -125,6 +125,7 @@
 9. Self-Distillation Amplifies Regularization in Hilbert Space. Mobahi, Hossein et al. arXiv:2002.05715
 10. MINILM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers. Wang, Wenhui et al. arXiv:2002.10957
 11. Regularizing Class-wise Predictions via Self-knowledge Distillation. arXiv:2003.13964
+12. Billion-scale semi-supervised learning for image classification. FAIR. arXiv:1905.00546
 
 ### Structured Knowledge
 
