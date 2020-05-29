@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-320-green)
+![](https://img.shields.io/badge/Number-321-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -371,6 +371,7 @@
 26. Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language. ACL 2020
 27. Local Clustering with Mean Teacher for Semi-supervised Learning. arXiv:2004.09665
 28. Time Series Data Augmentation for Neural Networks by Time Warping with a Discriminative Teacher. arXiv:2004.08780 
+29. Syntactic Structure Distillation Pretraining For Bidirectional Encoders. arXiv: 2005.13482
 
 ## Model Pruning or Quantization
 1. Accelerating Convolutional Neural Networks with Dominant Convolutional Kernel and Knowledge Pre-regression. ECCV 2016
