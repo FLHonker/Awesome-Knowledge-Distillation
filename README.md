@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-321-green)
+![](https://img.shields.io/badge/Number-323-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -199,6 +199,7 @@
 11. DeGAN : Data-Enriching GAN for Retrieving Representative Samples from a Trained Classifier. Addepalli, Sravanti et al. arXiv:1912.11960
 12. Generative Low-bitwidth Data Free Quantization. Xu, Shoukai et al. arXiv:2003.03603
 13. This dataset does not exist: training models from generated images. arXiv:1911.02888
+14. MAZE: Data-Free Model Stealing Attack Using Zeroth-Order Gradient Estimation. Sanjay et al. arXiv:2005.03161
 
 - other data-free model compression:
 
@@ -372,7 +373,7 @@
 27. Local Clustering with Mean Teacher for Semi-supervised Learning. arXiv:2004.09665
 28. Time Series Data Augmentation for Neural Networks by Time Warping with a Discriminative Teacher. arXiv:2004.08780 
 29. Syntactic Structure Distillation Pretraining For Bidirectional Encoders. arXiv: 2005.13482
-
+30. Distill, Adapt, Distill: Training Small, In-Domain Models for Neural Machine Translation. arXiv:2003.02877
 ## Model Pruning or Quantization
 1. Accelerating Convolutional Neural Networks with Dominant Convolutional Kernel and Knowledge Pre-regression. ECCV 2016
 2. N2N Learning: Network to Network Compression via Policy Gradient Reinforcement Learning. Ashok, Anubhav et al. ICLR 2018
