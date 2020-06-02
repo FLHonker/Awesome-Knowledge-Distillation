@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-325-green)
+![](https://img.shields.io/badge/Number-326-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -138,7 +138,7 @@
 4. Contrastive Representation Distillation. Tian, Yonglong et al. ICLR 2020
 5. Teaching To Teach By Structured Dark Knowledge. ICLR 2020
 6. Inter-Region Affinity Distillation for Road Marking Segmentation. Hou, Yuenan et al. CVPR 2020 [[code][6.6]]
-7. Heterogeneous Knowledge Distillation using Information Flow Modeling. Nikolaos et al.CVPR 2020
+7. Heterogeneous Knowledge Distillation using Information Flow Modeling. Passalis et al. CVPR 2020 [[code][6.7]]
 
 ### Privileged Information
 
@@ -428,6 +428,7 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [1.36]: https://github.com/bigaidream-projects/role-kd
 [2.27]: https://github.com/JetRunner/BERT-of-Theseus
 [6.6]: https://github.com/cardwing/Codes-for-IntRA-KD
+[6.7]: https://github.com/passalis/pkth
 [8.20]: https://github.com/mit-han-lab/gan-compression
 [10.9]: https://github.com/snudatalab/KegNet
 [13.1]: https://github.com/zju-vipa/KamalEngine
