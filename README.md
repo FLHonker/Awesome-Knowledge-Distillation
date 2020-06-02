@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-329-green)
+![](https://img.shields.io/badge/Number-330-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -112,6 +112,7 @@
 2. Similarity-Preserving Knowledge Distillation. Tung, Frederick, and Mori Greg. ICCV 2019
 3. Variational Information Distillation for Knowledge Transfer. Ahn, Sungsoo et al. CVPR 2019
 4. Contrastive Representation Distillation. Tian, Yonglong et al. ICLR 2020
+5. Online Knowledge Distillation via Collaborative Learning. Guo, Qiushan et al. CVPR 2020
 
 ### Self-KD
 
