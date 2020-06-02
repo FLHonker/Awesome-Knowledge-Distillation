@@ -37,7 +37,7 @@
 7. Like What You Like: Knowledge Distill via Neuron Selectivity Transfer. Huang, Zehao and Wang, Naiyan. 2017
 8. On Knowledge Distillation from Complex Networks for Response Prediction. Arora, Siddhartha et al. NAACL 2019
 9. On the Efficacy of Knowledge Distillation. Cho, Jang Hyun and Hariharan, Bharath. arXiv:1910.01348. ICCV 2019
-10. Revisit Knowledge Distillation: a Teacher-free Framework. Yuan, Li et al. arXiv:1909.11723
+10. Revisit Knowledge Distillation: a Teacher-free Framework(Revisiting Knowledge Distillation via Label Smoothing Regularization). Yuan, Li et al. CVPR 2020 [[code][1.10]]
 11. Improved Knowledge Distillation via Teacher Assistant: Bridging the Gap Between Student and Teacher. Mirzadeh et al. arXiv:1902.03393
 12. Ensemble Distribution Distillation. ICLR 2020
 13. Noisy Collaboration in Knowledge Distillation. ICLR 2020
@@ -425,6 +425,7 @@ Thanks for all contributors:
 Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu.cn/).
 
 
+[1.10]: https://github.com/yuanli2333/Teacher-free-Knowledge-Distillation
 [1.30]: https://github.com/dwang181/active-mixup
 [1.36]: https://github.com/bigaidream-projects/role-kd
 [2.27]: https://github.com/JetRunner/BERT-of-Theseus
