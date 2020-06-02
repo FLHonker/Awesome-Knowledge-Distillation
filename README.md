@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-327-green)
+![](https://img.shields.io/badge/Number-328-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -258,10 +258,11 @@
 20. Distilled Hierarchical Neural Ensembles with Adaptive Inference Cost. Ruiz, Adria et al. arXv:2003.01474
 21. Distilling Knowledge from Ensembles of Acoustic Models for Joint CTC-Attention End-to-End Speech Recognition. Gao, Yan et al. arXiv:2005.09310
 22. Adaptive Learning for Multi-teacher Multi-student Knowledge Distillation. Yuang Liu et al. 2019
+23. A Multi-Task Mean Teacher for Semi-Supervised Shadow Detection. Chen, Zhihao et al. CVPR 2020 [[code][13.23]]
 
 ### Knowledge Amalgamation（KA) - zju-VIPA
 
-[VIPA - KA][13.1]
+[VIPA - KA][13.24]
 
 1. Amalgamating Knowledge towards Comprehensive Classification. Shen, Chengchao et al. AAAI 2019
 2. Amalgamating Filtered Knowledge : Learning Task-customized Student from Multi-task Teachers. Ye, Jingwen et al. IJCAI 2019
@@ -433,7 +434,8 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [6.7]: https://github.com/passalis/pkth
 [8.20]: https://github.com/mit-han-lab/gan-compression
 [10.9]: https://github.com/snudatalab/KegNet
-[13.1]: https://github.com/zju-vipa/KamalEngine
+[13.23]: https://github.com/eraserNut/MTMT
+[13.24]: https://github.com/zju-vipa/KamalEngine
 [15.31]: https://github.com/StanfordVL/STGraph
 [17.9]: https://csyhhu.github.io/
 [18.8]: https://github.com/NervanaSystems/distiller
