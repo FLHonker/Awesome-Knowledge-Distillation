@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-323-green)
+![](https://img.shields.io/badge/Number-325-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -374,6 +374,8 @@
 28. Time Series Data Augmentation for Neural Networks by Time Warping with a Discriminative Teacher. arXiv:2004.08780 
 29. Syntactic Structure Distillation Pretraining For Bidirectional Encoders. arXiv: 2005.13482
 30. Distill, Adapt, Distill: Training Small, In-Domain Models for Neural Machine Translation. arXiv:2003.02877
+31. Distilling Neural Networks for Faster and Greener Dependency Parsing. arXiv:2006.00844
+
 ## Model Pruning or Quantization
 1. Accelerating Convolutional Neural Networks with Dominant Convolutional Kernel and Knowledge Pre-regression. ECCV 2016
 2. N2N Learning: Network to Network Compression via Policy Gradient Reinforcement Learning. Ashok, Anubhav et al. ICLR 2018
@@ -406,6 +408,7 @@
 14. On the Unreasonable Effectiveness of Knowledge Distillation: Analysis in the Kernel Regime. Rahbar, Arman et al. arXiv:2003.13438
 15. (survey)Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks. Wang, Lin & Yoon, Kuk-Jin. arXiv:2004.05937
 16. Why distillation helps: a statistical perspective. arXiv:2005.10419
+17. Transferring Inductive Biases through Knowledge Distillation. Abnar, Samira et al. arXiv:2006.00555
 
 ---
 Note: All papers pdf can be found and downloaded on [Bing](https://www.bing.com) or [Google](https://www.google.com).
