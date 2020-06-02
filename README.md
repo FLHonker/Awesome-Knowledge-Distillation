@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-330-green)
+![](https://img.shields.io/badge/Number-331-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -346,6 +346,7 @@
 43. A General Knowledge Distillation Framework for Counterfactual Recommendation via Uniform Data. SIGIR 2020
 44. Enabling Incremental Knowledge Transfer for Object Detection at the Edge. arXiv:2004.05746
 45. Uninformed Students: Student-Teacher Anomaly Detection with Discriminative Latent Embeddings. Bergmann, Paul et al. CVPR 2020
+46. TA-Student VQA: Multi-Agents Training by Self-Questioning. Xiong, Peixi & Wu Ying. CVPR 2020
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
