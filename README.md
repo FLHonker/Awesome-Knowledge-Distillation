@@ -138,6 +138,7 @@
 4. Contrastive Representation Distillation. Tian, Yonglong et al. ICLR 2020
 5. Teaching To Teach By Structured Dark Knowledge. ICLR 2020
 6. Inter-Region Affinity Distillation for Road Marking Segmentation. Hou, Yuenan et al. CVPR 2020 [[code][6.6]]
+7. Heterogeneous Knowledge Distillation using Information Flow Modeling. Nikolaos et al.CVPR 2020
 
 ### Privileged Information
 
@@ -193,7 +194,7 @@
 5. Dream Distillation: A Data-Independent Model Compression Framework. Kartikeya et al. ICML 2019
 6. Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion. Yin, Hongxu et al. CVPR 2020
 7. Data-Free Adversarial Distillation. Fang, Gongfan et al. CVPR 2020
-8. The Knowledge Within: Methods for Data-Free Model Compression. Haroush, Matan et al. arXiv:1912.01274
+8. The Knowledge Within: Methods for Data-Free Model Compression. Haroush, Matan et al. CVPR 2020
 9. Knowledge Extraction with No Observable Data. Yoo, Jaemin et al. NIPS 2019 [[code][10.9]]
 10. Data-Free Knowledge Amalgamation via Group-Stack Dual-GAN. CVPR 2020
 11. DeGAN : Data-Enriching GAN for Retrieving Representative Samples from a Trained Classifier. Addepalli, Sravanti et al. arXiv:1912.11960
