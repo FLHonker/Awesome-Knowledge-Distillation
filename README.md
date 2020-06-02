@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-331-green)
+![](https://img.shields.io/badge/Number-333-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -394,6 +394,8 @@
 10. QKD: Quantization-aware Knowledge Distillation. Kim, Jangho et al. arXiv:1911.12491v1
 11. Neural Network Pruning with Residual-Connections and Limited-Data. Luo, Jian-Hao & Wu, Jianxin. CVPR 2020
 12. Training Quantized Neural Networks with a Full-precision Auxiliary Module. Zhuang, Bohan et al. CVPR 2020
+13. Towards Effective Low-bitwidth Convolutional Neural Networks. Zhuang, Bohan et al. CVPR 2018
+14. Effective Training of Convolutional Neural Networks with Low-bitwidth Weights and Activations. Zhuang, Bohan et al. arXiv:1908.04680
 
 ## Beyond
 
