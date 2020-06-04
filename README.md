@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-336-green)
+![](https://img.shields.io/badge/Number-337-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -383,6 +383,7 @@
 29. Syntactic Structure Distillation Pretraining For Bidirectional Encoders. arXiv: 2005.13482
 30. Distill, Adapt, Distill: Training Small, In-Domain Models for Neural Machine Translation. arXiv:2003.02877
 31. Distilling Neural Networks for Faster and Greener Dependency Parsing. arXiv:2006.00844
+32. Distilling Knowledge from Well-informed Soft Labels for Neural Relation Extraction. AAAI 2020 [[code][16.32]]
 
 ## Model Pruning or Quantization
 1. Accelerating Convolutional Neural Networks with Dominant Convolutional Kernel and Knowledge Pre-regression. ECCV 2016
@@ -446,6 +447,7 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [13.23]: https://github.com/eraserNut/MTMT
 [13.24]: https://github.com/zju-vipa/KamalEngine
 [15.31]: https://github.com/StanfordVL/STGraph
+[16.32]: https://github.com/zzysay/KD4NRE
 [17.9]: https://csyhhu.github.io/
 [18.8]: https://github.com/NervanaSystems/distiller
 [18.11]: https://github.com/karanchahal/distiller
