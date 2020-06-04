@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-335-green)
+![](https://img.shields.io/badge/Number-336-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -99,6 +99,7 @@
 27. Distilling Spikes: Knowledge Distillation in Spiking Neural Networks. arXiv:2005.00727
 28. Generalized Bayesian Posterior Expectation Distillation for Deep Neural Networks. Meet et al. arXiv:2005.08110
 29. Feature-map-level Online Adversarial Knowledge Distillation. Chung, Inseop et al. ICML 2020
+30. Channel Distillation: Channel-Wise Attention for Knowledge Distillation. Zhou, Zaida et al. arXiv:2006.01683 [[code][2.30]]
 
 ### Graph-based
 1. Graph-based Knowledge Distillation by Multi-head Attention Network. Lee, Seunghyun and Song, Byung. Cheol arXiv:1907.02226
@@ -437,6 +438,7 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [1.30]: https://github.com/dwang181/active-mixup
 [1.36]: https://github.com/bigaidream-projects/role-kd
 [2.27]: https://github.com/JetRunner/BERT-of-Theseus
+[2.30]: https://github.com/zhouzaida/channel-distillation
 [6.6]: https://github.com/cardwing/Codes-for-IntRA-KD
 [6.7]: https://github.com/passalis/pkth
 [8.20]: https://github.com/mit-han-lab/gan-compression
