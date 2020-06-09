@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-340-green)
+![](https://img.shields.io/badge/Number-344-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -67,6 +67,7 @@
 37. Distilling Spikes: Knowledge Distillation in Spiking Neural Networks. arXiv:2005.00288
 38. Improved Noisy Student Training for Automatic Speech Recognition. Park et al.arXiv:2005.09629
 39. Learning from a Lightweight Teacher for Efficient Knowledge Distillation. Yuang Liu et al. arXiv:2005.09163
+40. ResKD: Residual-Guided Knowledge Distillation. Li, Xuewei et al. arXiv:2006.04719
 
 ### Knowledge from intermediate layers
 
@@ -115,6 +116,7 @@
 3. Variational Information Distillation for Knowledge Transfer. Ahn, Sungsoo et al. CVPR 2019
 4. Contrastive Representation Distillation. Tian, Yonglong et al. ICLR 2020
 5. Online Knowledge Distillation via Collaborative Learning. Guo, Qiushan et al. CVPR 2020
+6. Peer Collaborative Learning for Online Knowledge Distillation. Wu, Guile & Gong, Shaogang. arXiv:2006.04147
 
 ### Self-KD
 
@@ -230,6 +232,7 @@
 5. Periodic Intra-Ensemble Knowledge Distillation for Reinforcement Learning. Hong, Zhang-Wei et al. arXiv:2002.00149
 6. Transfer Heterogeneous Knowledge Among Peer-to-Peer Teammates: A Model Distillation Approach. Xue, Zeyue et al. arXiv:2002.02202
 7. Proxy Experience Replay: Federated Distillation for Distributed Reinforcement Learning. Cha, han et al. arXiv:2005.06105
+8. Dual Policy Distillation. Lai, Kwei-Herng et al. arXiv:2006.04061
 
 ## Multi-teacher KD 
 
@@ -424,6 +427,8 @@
 16. Why distillation helps: a statistical perspective. arXiv:2005.10419
 17. Transferring Inductive Biases through Knowledge Distillation. Abnar, Samira et al. arXiv:2006.00555
 18. Does label smoothing mitigate label noise? Lukasik, Michal et al. ICML 2020
+19. An Empirical Analysis of the Impact of Data Augmentation on Knowledge Distillation. Das, Deepan et al. arXiv:2006.03810
+
 ---
 Note: All papers pdf can be found and downloaded on [Bing](https://www.bing.com) or [Google](https://www.google.com).
 
