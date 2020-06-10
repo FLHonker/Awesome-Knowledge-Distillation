@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-345-green)
+![](https://img.shields.io/badge/Number-346-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -117,6 +117,7 @@
 4. Contrastive Representation Distillation. Tian, Yonglong et al. ICLR 2020
 5. Online Knowledge Distillation via Collaborative Learning. Guo, Qiushan et al. CVPR 2020
 6. Peer Collaborative Learning for Online Knowledge Distillation. Wu, Guile & Gong, Shaogang. arXiv:2006.04147
+7. Online Knowledge Distillation via Collaborative Learning. Guo, Qiushan et al. CVPR 2020
 
 ### Self-KD
 
