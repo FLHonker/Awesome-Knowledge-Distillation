@@ -258,14 +258,13 @@
     <!-- * 知识不再是soft-label，而是similarity matrix。权重引入是teacher-level的，而不是instance-level的。 -->
 14. Diversity with Cooperation: Ensemble Methods for Few-Shot Classification. Dvornik, Nikita et al. ICCV 2019
 15. Model Compression with Two-stage Multi-teacher Knowledge Distillation for Web Question Answering System. Yang, Ze et al. WSDM 2020 
-16. FEED: Feature-level Ensemble for Knowledge Distillation. Park, SeongUk and Kwak, Nojun. arXiv:1909.10754(AAAI20 pre)
+16. FEED: Feature-level Ensemble for Knowledge Distillation. Park, SeongUk and Kwak, Nojun. AAAI 2020
 17. Stochasticity and Skip Connection Improve Knowledge Transfer. Lee, Kwangjin et al. ICLR 2020
 18. Online Knowledge Distillation with Diverse Peers. Chen, Defang et al. AAAI 2020
 19. Hydra: Preserving Ensemble Diversity for Model Distillation. Tran, Linh et al. arXiv:2001.04694
 20. Distilled Hierarchical Neural Ensembles with Adaptive Inference Cost. Ruiz, Adria et al. arXv:2003.01474
 21. Distilling Knowledge from Ensembles of Acoustic Models for Joint CTC-Attention End-to-End Speech Recognition. Gao, Yan et al. arXiv:2005.09310
 22. Adaptive Learning for Multi-teacher Multi-student Knowledge Distillation. Yuang Liu et al. 2019
-23. A Multi-Task Mean Teacher for Semi-Supervised Shadow Detection. Chen, Zhihao et al. CVPR 2020 [[code][13.23]]
 
 ### Knowledge Amalgamation（KA) - zju-VIPA
 
@@ -356,6 +355,7 @@
 45. Uninformed Students: Student-Teacher Anomaly Detection with Discriminative Latent Embeddings. Bergmann, Paul et al. CVPR 2020
 46. TA-Student VQA: Multi-Agents Training by Self-Questioning. Xiong, Peixi & Wu Ying. CVPR 2020
 47. Mentornet: Learning data-driven curriculum for very deep neural networks on corrupted labels. Jiang, Lu et al. ICML 2018
+48. A Multi-Task Mean Teacher for Semi-Supervised Shadow Detection. Chen, Zhihao et al. CVPR 2020 [[code][15.48]]
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
@@ -452,9 +452,9 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [6.7]: https://github.com/passalis/pkth
 [8.20]: https://github.com/mit-han-lab/gan-compression
 [10.9]: https://github.com/snudatalab/KegNet
-[13.23]: https://github.com/eraserNut/MTMT
 [13.24]: https://github.com/zju-vipa/KamalEngine
 [15.31]: https://github.com/StanfordVL/STGraph
+[15.48]: https://github.com/eraserNut/MTMT
 [16.32]: https://github.com/zzysay/KD4NRE
 [17.9]: https://csyhhu.github.io/
 [18.8]: https://github.com/NervanaSystems/distiller
