@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-346-green)
+![](https://img.shields.io/badge/Number-349-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -57,7 +57,7 @@
 27. Sequence-Level Knowledge Distillation. Kim, Yoon & Rush, Alexander M. arXiv:1606.07947
 28. Boosting **Self-Supervised** Learning via Knowledge Transfer. Noroozi, Mehdi et al. CVPR 2018
 29. Meta Pseudo Labels. Pham, Hieu et al. ICML 2020
-30. Neural Networks Are More Productive Teachers Than Human Raters: Active Mixup for Data-Efficient Knowledge Distillation from a Blackbox Model. arXiv:2003.13960 [[code][1.30]]
+30. Neural Networks Are More Productive Teachers Than Human Raters: Active Mixup for Data-Efficient Knowledge Distillation from a Blackbox Model. CVPR 2020 [[code][1.30]]
 31. Distilled Binary Neural Network for Monaural Speech Separation. Chen Xiuyi et al. IJCNN 2018
 32. Teacher-Class Network: A Neural Network Compression Mechanism. Malik et al. arXiv:2004.03281
 33. Deeply-supervised knowledge synergy. Sun, Dawei et al. CVPR 2019
@@ -68,6 +68,7 @@
 38. Improved Noisy Student Training for Automatic Speech Recognition. Park et al.arXiv:2005.09629
 39. Learning from a Lightweight Teacher for Efficient Knowledge Distillation. Yuang Liu et al. arXiv:2005.09163
 40. ResKD: Residual-Guided Knowledge Distillation. Li, Xuewei et al. arXiv:2006.04719
+41. Distilling Effective Supervision from Severe Label Noise. Zhang, Zizhao. et al. CVPR 2020
 
 ### Knowledge from intermediate layers
 
@@ -193,6 +194,7 @@
 8. Few Shot Network Compression via Cross Distillation. AAAI 2020
 
 ## Data-free KD
+
 1. Data-Free Knowledge Distillation for Deep Neural Networks. NIPS 2017
 2. Zero-Shot Knowledge Distillation in Deep Networks. ICML 2019
 3. DAFL:Data-Free Learning of Student Networks. ICCV 2019
@@ -306,6 +308,7 @@
 24. Knowledge as Priors: Cross-Modal Knowledge Generalization for Datasets without Superior Knowledge. Zhao, Long et al. CVPR 2020
 25. Large-Scale Domain Adaptation via Teacher-Student Learning. Li, Jinyu et al. arXiv:1708.05466
 26. Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data. Fayek, Haytham M. & Kumar, Anurag. IJCAI 2020
+27. Distilling Cross-Task Knowledge via Relationship Matching. Ye, Han-Jia. et al. CVPR 2020
 
 ## Application of KD
 
@@ -391,6 +394,7 @@
 30. Distill, Adapt, Distill: Training Small, In-Domain Models for Neural Machine Translation. arXiv:2003.02877
 31. Distilling Neural Networks for Faster and Greener Dependency Parsing. arXiv:2006.00844
 32. Distilling Knowledge from Well-informed Soft Labels for Neural Relation Extraction. AAAI 2020 [[code][16.32]]
+33. More Grounded Image Captioning by Distilling Image-Text Matching Model. Zhou, Yuanen et al. CVPR 2020
 
 ## Model Pruning or Quantization
 1. Accelerating Convolutional Neural Networks with Dominant Convolutional Kernel and Knowledge Pre-regression. ECCV 2016
