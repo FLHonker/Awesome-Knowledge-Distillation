@@ -68,7 +68,7 @@
 38. Improved Noisy Student Training for Automatic Speech Recognition. Park et al.arXiv:2005.09629
 39. Learning from a Lightweight Teacher for Efficient Knowledge Distillation. Yuang Liu et al. arXiv:2005.09163
 40. ResKD: Residual-Guided Knowledge Distillation. Li, Xuewei et al. arXiv:2006.04719
-41. Distilling Effective Supervision from Severe Label Noise. Zhang, Zizhao. et al. CVPR 2020
+41. Distilling Effective Supervision from Severe Label Noise. Zhang, Zizhao. et al. CVPR 2020 [[code][1.41]]
 
 ### Knowledge from intermediate layers
 
@@ -308,7 +308,7 @@
 24. Knowledge as Priors: Cross-Modal Knowledge Generalization for Datasets without Superior Knowledge. Zhao, Long et al. CVPR 2020
 25. Large-Scale Domain Adaptation via Teacher-Student Learning. Li, Jinyu et al. arXiv:1708.05466
 26. Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data. Fayek, Haytham M. & Kumar, Anurag. IJCAI 2020
-27. Distilling Cross-Task Knowledge via Relationship Matching. Ye, Han-Jia. et al. CVPR 2020
+27. Distilling Cross-Task Knowledge via Relationship Matching. Ye, Han-Jia. et al. CVPR 2020 [[code][14.27]]
 
 ## Application of KD
 
@@ -451,6 +451,7 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [1.10]: https://github.com/yuanli2333/Teacher-free-Knowledge-Distillation
 [1.30]: https://github.com/dwang181/active-mixup
 [1.36]: https://github.com/bigaidream-projects/role-kd
+[1.41]: https://github.com/google-research/google-research/tree/master/ieg
 [2.27]: https://github.com/JetRunner/BERT-of-Theseus
 [2.30]: https://github.com/zhouzaida/channel-distillation
 [6.6]: https://github.com/cardwing/Codes-for-IntRA-KD
@@ -458,6 +459,7 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [8.20]: https://github.com/mit-han-lab/gan-compression
 [10.9]: https://github.com/snudatalab/KegNet
 [13.24]: https://github.com/zju-vipa/KamalEngine
+[14.27]:  https://github.com/njulus/ReFilled
 [15.31]: https://github.com/StanfordVL/STGraph
 [15.48]: https://github.com/eraserNut/MTMT
 [16.32]: https://github.com/zzysay/KD4NRE
