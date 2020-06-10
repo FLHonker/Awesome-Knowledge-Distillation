@@ -394,7 +394,7 @@
 30. Distill, Adapt, Distill: Training Small, In-Domain Models for Neural Machine Translation. arXiv:2003.02877
 31. Distilling Neural Networks for Faster and Greener Dependency Parsing. arXiv:2006.00844
 32. Distilling Knowledge from Well-informed Soft Labels for Neural Relation Extraction. AAAI 2020 [[code][16.32]]
-33. More Grounded Image Captioning by Distilling Image-Text Matching Model. Zhou, Yuanen et al. CVPR 2020 [[code][16.33]]
+33. More Grounded Image Captioning by Distilling Image-Text Matching Model. Zhou, Yuanen et al. CVPR 2020
 
 ## Model Pruning or Quantization
 
@@ -464,7 +464,6 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [15.31]: https://github.com/StanfordVL/STGraph
 [15.48]: https://github.com/eraserNut/MTMT
 [16.32]: https://github.com/zzysay/KD4NRE
-[16.33]: https://github.com/tylin/coco-caption
 [17.9]: https://csyhhu.github.io/
 [18.8]: https://github.com/NervanaSystems/distiller
 [18.11]: https://github.com/karanchahal/distiller
