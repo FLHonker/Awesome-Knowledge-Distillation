@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-344-green)
+![](https://img.shields.io/badge/Number-345-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -355,6 +355,7 @@
 44. Enabling Incremental Knowledge Transfer for Object Detection at the Edge. arXiv:2004.05746
 45. Uninformed Students: Student-Teacher Anomaly Detection with Discriminative Latent Embeddings. Bergmann, Paul et al. CVPR 2020
 46. TA-Student VQA: Multi-Agents Training by Self-Questioning. Xiong, Peixi & Wu Ying. CVPR 2020
+47. Mentornet: Learning data-driven curriculum for very deep neural networks on corrupted labels. Jiang, Lu et al. ICML 2018
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
