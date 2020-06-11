@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-349-green)
+![](https://img.shields.io/badge/Number-350-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -225,6 +225,7 @@
 4. Search for Better Students to Learn Distilled Knowledge. Gu, Jindong & Tresp, Volker arXiv:2001.11612
 5. Circumventing Outliers of AutoAugment with Knowledge Distillation. Wei, Longhui et al. arXiv:2003.11342
 6. Network Pruning via Transformable Architecture Search. Dong, Xuanyi & Yang, Yi. NIPS 2019
+7. Search to Distill: Pearls are Everywhere but not the Eyes. Liu Yu et al. CVPR 2020
 
 ## KD + RL
 
