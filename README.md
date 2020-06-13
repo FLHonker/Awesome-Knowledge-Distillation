@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-350-green)
+![](https://img.shields.io/badge/Number-352-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -134,6 +134,7 @@
 10. MINILM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers. Wang, Wenhui et al. arXiv:2002.10957
 11. Regularizing Class-wise Predictions via Self-knowledge Distillation. arXiv:2003.13964
 12. Billion-scale semi-supervised learning for image classification. FAIR. arXiv:1905.00546
+13. Self-Distillation as Instance-Specific Label Smoothing. Zhang, Zhilu & Sabuncu, Mert R. arXiv:2006.05065
 
 ### Structured Knowledge
 
@@ -436,6 +437,7 @@
 17. Transferring Inductive Biases through Knowledge Distillation. Abnar, Samira et al. arXiv:2006.00555
 18. Does label smoothing mitigate label noise? Lukasik, Michal et al. ICML 2020
 19. An Empirical Analysis of the Impact of Data Augmentation on Knowledge Distillation. Das, Deepan et al. arXiv:2006.03810
+20. Knowledge Distillation: A Survey. Gou, Jianping et al. arXiv:2006.05525
 
 ---
 Note: All papers pdf can be found and downloaded on [Bing](https://www.bing.com) or [Google](https://www.google.com).
