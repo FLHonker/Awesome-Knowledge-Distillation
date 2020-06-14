@@ -86,7 +86,7 @@
 12. Similarity-Preserving Knowledge Distillation. Tung, Frederick, and Mori Greg. ICCV 2019
 13. MEAL: Multi-Model Ensemble via Adversarial Learning. Shen,Zhiqiang, He,Zhankui, and Xue Xiangyang. AAAI 2019
 14. A Comprehensive Overhaul of Feature Distillation. Heo, Byeongho et al. ICCV 2019
-15. Feature-map-level Online Adversarial Knowledge Distillation. ICLR 2020
+15. Feature-map-level Online Adversarial Knowledge Distillation. ICML 2020
 16. Distilling Object Detectors with Fine-grained Feature Imitation. ICLR 2020
 17. Knowledge Squeezed Adversarial Network Compression. Changyong, Shu et al. AAAI 2020
 18. Stagewise Knowledge Distillation. Kulkarni, Akshay et al. arXiv: 1911.06786
