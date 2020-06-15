@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-352-green)
+![](https://img.shields.io/badge/Number-353-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -69,6 +69,7 @@
 39. Learning from a Lightweight Teacher for Efficient Knowledge Distillation. Yuang Liu et al. arXiv:2005.09163
 40. ResKD: Residual-Guided Knowledge Distillation. Li, Xuewei et al. arXiv:2006.04719
 41. Distilling Effective Supervision from Severe Label Noise. Zhang, Zizhao. et al. CVPR 2020 [[code][1.41]]
+42. Knowledge Distillation Meets Self-Supervision. Xu, Guodong et al. arXiv:2006.07114 [[code][1.42]]
 
 ### Knowledge from intermediate layers
 
@@ -456,6 +457,7 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [1.30]: https://github.com/dwang181/active-mixup
 [1.36]: https://github.com/bigaidream-projects/role-kd
 [1.41]: https://github.com/google-research/google-research/tree/master/ieg
+[1.42]: https://github.com/xuguodong03/SSKD
 [2.27]: https://github.com/JetRunner/BERT-of-Theseus
 [2.30]: https://github.com/zhouzaida/channel-distillation
 [6.6]: https://github.com/cardwing/Codes-for-IntRA-KD
