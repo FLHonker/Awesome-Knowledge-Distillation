@@ -342,7 +342,7 @@
 25. ROAD: Reality Oriented Adaptation for _Semantic Segmentation_ of Urban Scenes. Chen, Yuhua et al. CVPR 2018
 26. Next Point-of-Interest _Recommendation_ on Resource-Constrained Mobile Devices. WWW 2020
 27. Multi-Representation Knowledge Distillation For Audio Classification. Gao, Liang et al. arXiv:2002.09607
-28. Collaborative Distillation for Ultra-Resolution Universal _Style Transfer_. Wang, Huan et al. CVPR 2020
+28. Collaborative Distillation for Ultra-Resolution Universal _Style Transfer_. Wang, Huan et al. CVPR 2020 [[code][15.28]]
 29. ShadowTutor: Distributed Partial Distillation for Mobile _Video_ DNN Inference. Chung, Jae-Won et al. arXiv:2003.10735
 30. Object Relational Graph with Teacher-Recommended Learning for _Video Captioning_. Zhang, Ziqi et al. CVPR 2020
 31. Spatio-Temporal Graph for _Video Captioning_ with Knowledge distillation. CVPR 2020 [[code][15.31]]
@@ -466,6 +466,7 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [10.9]: https://github.com/snudatalab/KegNet
 [13.24]: https://github.com/zju-vipa/KamalEngine
 [14.27]:  https://github.com/njulus/ReFilled
+[15.28]: https://github.com/mingsun-tse/collaborative-distillation
 [15.31]: https://github.com/StanfordVL/STGraph
 [15.48]: https://github.com/eraserNut/MTMT
 [16.32]: https://github.com/zzysay/KD4NRE
