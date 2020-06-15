@@ -304,7 +304,7 @@
 17. Attention Bridging Network for Knowledge Transfer. Li, Kunpeng et al. ICCV 2019
 18. Unpaired Multi-modal Segmentation via Knowledge Distillation. Dou, Qi et al. arXiv:2001.03111
 19. Multi-source Distilling Domain Adaptation. Zhao, Sicheng et al. arXiv:1911.11554
-20. Creating Something from Nothing: Unsupervised Knowledge Distillation for Cross-Modal Hashing. Hu, Hengtong et al. arXiv:2004.00280
+20. Creating Something from Nothing: Unsupervised Knowledge Distillation for Cross-Modal Hashing. Hu, Hengtong et al. CVPR 2020
 21. Improving Semantic Segmentation via Self-Training. Zhu, Yi et al. arXiv:2004.14960
 22. Speech to Text Adaptation: Towards an Efficient Cross-Modal Distillation. arXiv:2005.08213
 23. Joint Progressive Knowledge Distillation and Unsupervised Domain Adaptation. arXiv:2005.07839
