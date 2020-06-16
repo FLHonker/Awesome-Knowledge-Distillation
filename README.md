@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-353-green)
+![](https://img.shields.io/badge/Number-354-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -228,6 +228,7 @@
 5. Circumventing Outliers of AutoAugment with Knowledge Distillation. Wei, Longhui et al. arXiv:2003.11342
 6. Network Pruning via Transformable Architecture Search. Dong, Xuanyi & Yang, Yi. NIPS 2019
 7. Search to Distill: Pearls are Everywhere but not the Eyes. Liu Yu et al. CVPR 2020
+8. AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks. Fu, Yonggan et al. ICML 2020 [[code][11.8]]
 
 ## KD + RL
 
@@ -464,6 +465,7 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [6.7]: https://github.com/passalis/pkth
 [8.20]: https://github.com/mit-han-lab/gan-compression
 [10.9]: https://github.com/snudatalab/KegNet
+[11.8]: https://github.com/TAMU-VITA/AGD
 [13.24]: https://github.com/zju-vipa/KamalEngine
 [14.27]:  https://github.com/njulus/ReFilled
 [15.28]: https://github.com/mingsun-tse/collaborative-distillation
