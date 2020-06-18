@@ -117,7 +117,7 @@
 1. Correlation Congruence for Knowledge Distillation. Peng, Baoyun et al. ICCV 2019
 2. Similarity-Preserving Knowledge Distillation. Tung, Frederick, and Mori Greg. ICCV 2019
 3. Variational Information Distillation for Knowledge Transfer. Ahn, Sungsoo et al. CVPR 2019
-4. Contrastive Representation Distillation. Tian, Yonglong et al. ICLR 2020
+4. Contrastive Representation Distillation. Tian, Yonglong et al. ICLR 2020 [[RepDistill][4.4]]
 5. Online Knowledge Distillation via Collaborative Learning. Guo, Qiushan et al. CVPR 2020
 6. Peer Collaborative Learning for Online Knowledge Distillation. Wu, Guile & Gong, Shaogang. arXiv:2006.04147
 7. Online Knowledge Distillation via Collaborative Learning. Guo, Qiushan et al. CVPR 2020
@@ -463,6 +463,7 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [1.43]: https://github.com/brjathu/SKD
 [2.27]: https://github.com/JetRunner/BERT-of-Theseus
 [2.30]: https://github.com/zhouzaida/channel-distillation
+[4.4]: https://github.com/HobbitLong/RepDistiller
 [6.6]: https://github.com/cardwing/Codes-for-IntRA-KD
 [6.7]: https://github.com/passalis/pkth
 [8.20]: https://github.com/mit-han-lab/gan-compression
