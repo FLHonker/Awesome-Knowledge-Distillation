@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-355-green)
+![](https://img.shields.io/badge/Number-356-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -365,6 +365,7 @@
 46. TA-Student VQA: Multi-Agents Training by Self-Questioning. Xiong, Peixi & Wu Ying. CVPR 2020
 47. Mentornet: Learning data-driven curriculum for very deep neural networks on corrupted labels. Jiang, Lu et al. ICML 2018
 48. A Multi-Task Mean Teacher for Semi-Supervised Shadow Detection. Chen, Zhihao et al. CVPR 2020 [[code][15.48]]
+49. Learning Lightweight Face Detector with Knowledge Distillation. Zhang Shifeng et al. IEEE 2019
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
