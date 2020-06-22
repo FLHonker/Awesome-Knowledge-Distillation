@@ -130,13 +130,12 @@
 4. BAM! Born-Again Multi-Task Networks for Natural Language Understanding. Clark, Kevin et al. ACL 2019,short
 5. Self-Knowledge Distillation in Natural Language Processing. Hahn, Sangchul and Choi, Heeyoul. arXiv:1908.01851
 6. Rethinking Data Augmentation: Self-Supervision and Self-Distillation. Lee, Hankook et al. ICLR 2020
-7. Regularizing Predictions via Class wise Self knowledge Distillation. ICLR 2020
+7. Billion-scale semi-supervised learning for image classification. FAIR. arXiv:1905.00546
 8. MSD: Multi-Self-Distillation Learning via Multi-classifiers within Deep Neural Networks. arXiv:1911.09418
 9. Self-Distillation Amplifies Regularization in Hilbert Space. Mobahi, Hossein et al. arXiv:2002.05715
 10. MINILM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers. Wang, Wenhui et al. arXiv:2002.10957
-11. Regularizing Class-wise Predictions via Self-knowledge Distillation. arXiv:2003.13964
-12. Billion-scale semi-supervised learning for image classification. FAIR. arXiv:1905.00546
-13. Self-Distillation as Instance-Specific Label Smoothing. Zhang, Zhilu & Sabuncu, Mert R. arXiv:2006.05065
+11. Regularizing Class-wise Predictions via Self-knowledge Distillation. CVPR 2020 [[code][5.11]]
+12. Self-Distillation as Instance-Specific Label Smoothing. Zhang, Zhilu & Sabuncu, Mert R. arXiv:2006.05065
 
 ### Structured Knowledge
 
@@ -466,6 +465,7 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [2.27]: https://github.com/JetRunner/BERT-of-Theseus
 [2.30]: https://github.com/zhouzaida/channel-distillation
 [4.4]: https://github.com/HobbitLong/RepDistiller
+[5.11]:https://github.com/alinlab/cs-kd
 [6.6]: https://github.com/cardwing/Codes-for-IntRA-KD
 [6.7]: https://github.com/passalis/pkth
 [8.20]: https://github.com/mit-han-lab/gan-compression
