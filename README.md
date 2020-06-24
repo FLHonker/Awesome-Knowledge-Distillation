@@ -130,12 +130,11 @@
 4. BAM! Born-Again Multi-Task Networks for Natural Language Understanding. Clark, Kevin et al. ACL 2019,short
 5. Self-Knowledge Distillation in Natural Language Processing. Hahn, Sangchul and Choi, Heeyoul. arXiv:1908.01851
 6. Rethinking Data Augmentation: Self-Supervision and Self-Distillation. Lee, Hankook et al. ICLR 2020
-7. Billion-scale semi-supervised learning for image classification. FAIR. arXiv:1905.00546
-8. MSD: Multi-Self-Distillation Learning via Multi-classifiers within Deep Neural Networks. arXiv:1911.09418
-9. Self-Distillation Amplifies Regularization in Hilbert Space. Mobahi, Hossein et al. arXiv:2002.05715
-10. MINILM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers. Wang, Wenhui et al. arXiv:2002.10957
-11. Regularizing Class-wise Predictions via Self-knowledge Distillation. CVPR 2020 [[code][5.11]]
-12. Self-Distillation as Instance-Specific Label Smoothing. Zhang, Zhilu & Sabuncu, Mert R. arXiv:2006.05065
+7. MSD: Multi-Self-Distillation Learning via Multi-classifiers within Deep Neural Networks. arXiv:1911.09418
+8. Self-Distillation Amplifies Regularization in Hilbert Space. Mobahi, Hossein et al. arXiv:2002.05715
+9. MINILM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers. Wang, Wenhui et al. arXiv:2002.10957
+10. Regularizing Class-wise Predictions via Self-knowledge Distillation. CVPR 2020 [[code][5.11]]
+11. Self-Distillation as Instance-Specific Label Smoothing. Zhang, Zhilu & Sabuncu, Mert R. arXiv:2006.05065
 
 ### Structured Knowledge
 
@@ -212,12 +211,13 @@
 13. This dataset does not exist: training models from generated images. arXiv:1911.02888
 14. MAZE: Data-Free Model Stealing Attack Using Zeroth-Order Gradient Estimation. Sanjay et al. arXiv:2005.03161
 15. Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data. Such et al. ICML 2020
+16. Billion-scale semi-supervised learning for image classification. FAIR. arXiv:1905.00546 [[code][10.16]]
 
 - other data-free model compression:
 
-16. Data-free Parameter Pruning for Deep Neural Networks. Srinivas, Suraj et al. arXiv:1507.06149
-17. Data-Free Quantization Through Weight Equalization and Bias Correction. Nagel, Markus et al. ICCV 2019
-18. DAC: Data-free Automatic Acceleration of Convolutional Networks. Li, Xin et al. WACV 2019
+17. Data-free Parameter Pruning for Deep Neural Networks. Srinivas, Suraj et al. arXiv:1507.06149
+18. Data-Free Quantization Through Weight Equalization and Bias Correction. Nagel, Markus et al. ICCV 2019
+19. DAC: Data-free Automatic Acceleration of Convolutional Networks. Li, Xin et al. WACV 2019
 
 ## KD + AutoML
 
@@ -471,6 +471,7 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [6.7]: https://github.com/passalis/pkth
 [8.20]: https://github.com/mit-han-lab/gan-compression
 [10.9]: https://github.com/snudatalab/KegNet
+[10.16]:https://github.com/leaderj1001/Billion-scale-semi-supervised-learning
 [11.8]: https://github.com/TAMU-VITA/AGD
 [13.24]: https://github.com/zju-vipa/KamalEngine
 [14.27]:  https://github.com/njulus/ReFilled
