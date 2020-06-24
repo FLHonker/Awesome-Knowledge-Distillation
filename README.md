@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-357-green)
+![](https://img.shields.io/badge/Number-358-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -366,6 +366,7 @@
 48. A Multi-Task Mean Teacher for Semi-Supervised Shadow Detection. Chen, Zhihao et al. CVPR 2020 [[code][15.48]]
 49. Learning Lightweight Face Detector with Knowledge Distillation. Zhang Shifeng et al. IEEE 2019
 50. Learning Lightweight Pedestrian Detector with Hierarchical Knowledge Distillation. ICIP 2019
+51. Distilling Object Detectors with Task Adaptive Regularization. Sun, Ruoyu et al. arXiv:2006.13108
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
