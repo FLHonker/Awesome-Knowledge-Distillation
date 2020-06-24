@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-358-green)
+![](https://img.shields.io/badge/Number-361-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -313,6 +313,7 @@
 25. Large-Scale Domain Adaptation via Teacher-Student Learning. Li, Jinyu et al. arXiv:1708.05466
 26. Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data. Fayek, Haytham M. & Kumar, Anurag. IJCAI 2020
 27. Distilling Cross-Task Knowledge via Relationship Matching. Ye, Han-Jia. et al. CVPR 2020 [[code][14.27]]
+28. Modality distillation with multiple stream networks for action recognition. Garcia, Nuno C. et al. ECCV 2018
 
 ## Application of KD
 
@@ -367,6 +368,7 @@
 49. Learning Lightweight Face Detector with Knowledge Distillation. Zhang Shifeng et al. IEEE 2019
 50. Learning Lightweight Pedestrian Detector with Hierarchical Knowledge Distillation. ICIP 2019
 51. Distilling Object Detectors with Task Adaptive Regularization. Sun, Ruoyu et al. arXiv:2006.13108
+52. Privileged Features Distillation at Taobao Recommendations. Xu, Chen et al. KDD 2020
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
@@ -402,6 +404,7 @@
 31. Distilling Neural Networks for Faster and Greener Dependency Parsing. arXiv:2006.00844
 32. Distilling Knowledge from Well-informed Soft Labels for Neural Relation Extraction. AAAI 2020 [[code][16.32]]
 33. More Grounded Image Captioning by Distilling Image-Text Matching Model. Zhou, Yuanen et al. CVPR 2020
+34. Multimodal Learning with Incomplete Modalities by Knowledge Distillation. Wang, Qi et al. KDD 2020
 
 ## Model Pruning or Quantization
 
