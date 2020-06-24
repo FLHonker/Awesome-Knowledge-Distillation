@@ -179,7 +179,7 @@
 15. Lifelong GAN: Continual Learning for Conditional Image Generation. Kundu et al. arXiv:1908.03884
 16. Compressing GANs using Knowledge Distillation. Aguinaldo, Angeline et al. arXiv:1902.00159
 17. Feature-map-level Online Adversarial Knowledge Distillation. ICML 2020
-18. MineGAN: effective knowledge transfer from GANs to target domains with few images. Wang, Yaxing et al. arXiv:1912.05270
+18. MineGAN: effective knowledge transfer from GANs to target domains with few images. Wang, Yaxing et al. CVPR 2020
 19. Distilling portable Generative Adversarial Networks for Image Translation. Chen, Hanting et al. AAAI 2020
 20. GAN Compression: Efficient Architectures for Interactive Conditional GANs. Junyan Zhu et al. CVPR 2020 [[code][8.20]]
 21. Adversarial network compression. Belagiannis et al. ECCV 2018
