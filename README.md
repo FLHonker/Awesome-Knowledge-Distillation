@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-361-green)
+![](https://img.shields.io/badge/Number-362-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -447,6 +447,7 @@
 18. Does label smoothing mitigate label noise? Lukasik, Michal et al. ICML 2020
 19. An Empirical Analysis of the Impact of Data Augmentation on Knowledge Distillation. Das, Deepan et al. arXiv:2006.03810
 20. Knowledge Distillation: A Survey. Gou, Jianping et al. arXiv:2006.05525
+21. Does Adversarial Transferability Indicate Knowledge Transferability? Liang, Kaizhao et al. arXiv:2006.14512
 
 ---
 Note: All papers pdf can be found and downloaded on [Bing](https://www.bing.com) or [Google](https://www.google.com).
