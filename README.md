@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-362-green)
+![](https://img.shields.io/badge/Number-364-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -147,6 +147,7 @@
 5. Teaching To Teach By Structured Dark Knowledge. ICLR 2020
 6. Inter-Region Affinity Distillation for Road Marking Segmentation. Hou, Yuenan et al. CVPR 2020 [[code][6.6]]
 7. Heterogeneous Knowledge Distillation using Information Flow Modeling. Passalis et al. CVPR 2020 [[code][6.7]]
+8. Asymmetric metric learning for knowledge transfer. Budnik, Mateusz & Avrithis, Yannis. arXiv:2006.16331
 
 ### Privileged Information
 
@@ -448,6 +449,7 @@
 19. An Empirical Analysis of the Impact of Data Augmentation on Knowledge Distillation. Das, Deepan et al. arXiv:2006.03810
 20. Knowledge Distillation: A Survey. Gou, Jianping et al. arXiv:2006.05525
 21. Does Adversarial Transferability Indicate Knowledge Transferability? Liang, Kaizhao et al. arXiv:2006.14512
+22. On the Demystification of Knowledge Distillation: A Residual Network Perspective. Jha et al. arXiv:2006.16589
 
 ---
 Note: All papers pdf can be found and downloaded on [Bing](https://www.bing.com) or [Google](https://www.google.com).
