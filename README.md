@@ -69,7 +69,7 @@
 39. Learning from a Lightweight Teacher for Efficient Knowledge Distillation. Yuang Liu et al. arXiv:2005.09163
 40. ResKD: Residual-Guided Knowledge Distillation. Li, Xuewei et al. arXiv:2006.04719
 41. Distilling Effective Supervision from Severe Label Noise. Zhang, Zizhao. et al. CVPR 2020 [[code][1.41]]
-42. Knowledge Distillation Meets Self-Supervision. Xu, Guodong et al. arXiv:2006.07114 [[code][1.42]]
+42. Knowledge Distillation Meets Self-Supervision. Xu, Guodong et al. ECCV 2020 [[code][1.42]]
 43. Self-supervised Knowledge Distillation for Few-shot Learning. arXiv:2006.09785 [[code][1.43]]
 
 ### Knowledge from intermediate layers
