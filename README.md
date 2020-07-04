@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-364-green)
+![](https://img.shields.io/badge/Number-376-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -71,6 +71,7 @@
 41. Distilling Effective Supervision from Severe Label Noise. Zhang, Zizhao. et al. CVPR 2020 [[code][1.41]]
 42. Knowledge Distillation Meets Self-Supervision. Xu, Guodong et al. ECCV 2020 [[code][1.42]]
 43. Self-supervised Knowledge Distillation for Few-shot Learning. arXiv:2006.09785 [[code][1.43]]
+44. Learning with Noisy Class Labels for Instance Segmentation. ECCV 2020
 
 ### Knowledge from intermediate layers
 
@@ -104,6 +105,8 @@
 28. Generalized Bayesian Posterior Expectation Distillation for Deep Neural Networks. Meet et al. arXiv:2005.08110
 29. Feature-map-level Online Adversarial Knowledge Distillation. Chung, Inseop et al. ICML 2020
 30. Channel Distillation: Channel-Wise Attention for Knowledge Distillation. Zhou, Zaida et al. arXiv:2006.01683 [[code][2.30]]
+31. Matching Guided Distillation. ECCV 2020
+32. Differentiable Feature Aggregation Search for Knowledge Distillation. ECCV 2020
 
 ### Graph-based
 1. Graph-based Knowledge Distillation by Multi-head Attention Network. Lee, Seunghyun and Song, Byung. Cheol arXiv:1907.02226
@@ -121,6 +124,7 @@
 5. Online Knowledge Distillation via Collaborative Learning. Guo, Qiushan et al. CVPR 2020
 6. Peer Collaborative Learning for Online Knowledge Distillation. Wu, Guile & Gong, Shaogang. arXiv:2006.04147
 7. Online Knowledge Distillation via Collaborative Learning. Guo, Qiushan et al. CVPR 2020
+8. Knowledge Transfer via Dense Cross-layer Mutual-distillation. ECCV 2020
 
 ### Self-KD
 
@@ -148,6 +152,7 @@
 6. Inter-Region Affinity Distillation for Road Marking Segmentation. Hou, Yuenan et al. CVPR 2020 [[code][6.6]]
 7. Heterogeneous Knowledge Distillation using Information Flow Modeling. Passalis et al. CVPR 2020 [[code][6.7]]
 8. Asymmetric metric learning for knowledge transfer. Budnik, Mateusz & Avrithis, Yannis. arXiv:2006.16331
+9. Local Correlation Consistency for Knowledge Distillation. /eccv 2020
 
 ### Privileged Information
 
@@ -194,6 +199,7 @@
 6. Knowledge Representing: Efficient, Sparse Representation of Prior Knowledge for Knowledge Distillation. arXiv:1911.05329v1
 7. Progressive Knowledge Distillation For Generative Modeling. ICLR 2020
 8. Few Shot Network Compression via Cross Distillation. AAAI 2020
+9. MetaDistiller: Network Self-boosting via Meta-learned Top-down Distillation. ECCV 2020
 
 ## Data-free KD
 
@@ -273,6 +279,7 @@
 20. Distilled Hierarchical Neural Ensembles with Adaptive Inference Cost. Ruiz, Adria et al. arXv:2003.01474
 21. Distilling Knowledge from Ensembles of Acoustic Models for Joint CTC-Attention End-to-End Speech Recognition. Gao, Yan et al. arXiv:2005.09310
 22. Adaptive Learning for Multi-teacher Multi-student Knowledge Distillation. Yuang Liu et al. 2019
+23. Large-Scale Few-Shot Learning via Multi-Modal Knowledge Discovery. ECCV 2020
 
 ### Knowledge Amalgamation（KA) - zju-VIPA
 
@@ -315,6 +322,7 @@
 26. Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data. Fayek, Haytham M. & Kumar, Anurag. IJCAI 2020
 27. Distilling Cross-Task Knowledge via Relationship Matching. Ye, Han-Jia. et al. CVPR 2020 [[code][14.27]]
 28. Modality distillation with multiple stream networks for action recognition. Garcia, Nuno C. et al. ECCV 2018
+29. Domain Adaptation through Task Distillation. ECCV 2020
 
 ## Application of KD
 
@@ -370,6 +378,10 @@
 50. Learning Lightweight Pedestrian Detector with Hierarchical Knowledge Distillation. ICIP 2019
 51. Distilling Object Detectors with Task Adaptive Regularization. Sun, Ruoyu et al. arXiv:2006.13108
 52. Privileged Features Distillation at Taobao Recommendations. Xu, Chen et al. KDD 2020
+53. Intra-class Compactness Distillation for Semantic Segmentation. ECCV 2020
+54. Boosting Weakly Supervised Object Detection with Progressive Knowledge Transfer. ECCV 2020
+55. DOPE: Distillation Of Part Experts for whole-body 3D pose estimation in the wild. ECCV 2020
+56. Self-similarity Student for Partial Label Histopathology Image Segmentation. ECCV 2020
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
