@@ -211,7 +211,7 @@
 12. Generative Low-bitwidth Data Free Quantization. Xu, Shoukai et al. arXiv:2003.03603
 13. This dataset does not exist: training models from generated images. arXiv:1911.02888
 14. MAZE: Data-Free Model Stealing Attack Using Zeroth-Order Gradient Estimation. Sanjay et al. arXiv:2005.03161
-15. Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data. Such et al. ICML 2020
+15. Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data. Such et al. ECCV 2020
 16. Billion-scale semi-supervised learning for image classification. FAIR. arXiv:1905.00546 [[code][10.16]]
 
 - other data-free model compression:
