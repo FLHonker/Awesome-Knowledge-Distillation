@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-376-green)
+![](https://img.shields.io/badge/Number-377-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -152,7 +152,8 @@
 6. Inter-Region Affinity Distillation for Road Marking Segmentation. Hou, Yuenan et al. CVPR 2020 [[code][6.6]]
 7. Heterogeneous Knowledge Distillation using Information Flow Modeling. Passalis et al. CVPR 2020 [[code][6.7]]
 8. Asymmetric metric learning for knowledge transfer. Budnik, Mateusz & Avrithis, Yannis. arXiv:2006.16331
-9. Local Correlation Consistency for Knowledge Distillation. /eccv 2020
+9. Local Correlation Consistency for Knowledge Distillation. 2020
+10. Few-Shot Class-Incremental Learning. Tao, Xiaoyu et al. CVPR 2020
 
 ### Privileged Information
 
