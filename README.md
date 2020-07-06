@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-380-green)
+![](https://img.shields.io/badge/Number-381-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -127,6 +127,7 @@
 6. Peer Collaborative Learning for Online Knowledge Distillation. Wu, Guile & Gong, Shaogang. arXiv:2006.04147
 7. Online Knowledge Distillation via Collaborative Learning. Guo, Qiushan et al. CVPR 2020
 8. Knowledge Transfer via Dense Cross-layer Mutual-distillation. ECCV 2020
+9. MutualNet: Adaptive ConvNet via Mutual Learning from Network Width and Resolution. Yang, Taojiannan et al. ECCV 2020 [[code][4.9]]
 
 ### Self-KD
 
@@ -490,6 +491,7 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [2.27]: https://github.com/JetRunner/BERT-of-Theseus
 [2.30]: https://github.com/zhouzaida/channel-distillation
 [4.4]: https://github.com/HobbitLong/RepDistiller
+[4.9]: https://github.com/taoyang1122/MutualNet
 [5.11]:https://github.com/alinlab/cs-kd
 [6.6]: https://github.com/cardwing/Codes-for-IntRA-KD
 [6.7]: https://github.com/passalis/pkth
