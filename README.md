@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-377-green)
+![](https://img.shields.io/badge/Number-380-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -107,8 +107,10 @@
 30. Channel Distillation: Channel-Wise Attention for Knowledge Distillation. Zhou, Zaida et al. arXiv:2006.01683 [[code][2.30]]
 31. Matching Guided Distillation. ECCV 2020
 32. Differentiable Feature Aggregation Search for Knowledge Distillation. ECCV 2020
+33. Interactive Knowledge Distillation. Fu, Shipeng et al. arXiv:2007.01476
 
 ### Graph-based
+
 1. Graph-based Knowledge Distillation by Multi-head Attention Network. Lee, Seunghyun and Song, Byung. Cheol arXiv:1907.02226
 2. Graph Representation Learning via Multi-task Knowledge Distillation. arXiv:1911.05700
 3. Deep geometric knowledge distillation with graphs. arXiv:1911.03080
@@ -281,6 +283,7 @@
 21. Distilling Knowledge from Ensembles of Acoustic Models for Joint CTC-Attention End-to-End Speech Recognition. Gao, Yan et al. arXiv:2005.09310
 22. Adaptive Learning for Multi-teacher Multi-student Knowledge Distillation. Yuang Liu et al. 2019
 23. Large-Scale Few-Shot Learning via Multi-Modal Knowledge Discovery. ECCV 2020
+24. Collaborative Learning for Faster StyleGAN Embedding. Guan, Shanyan et al. arXiv:2007.01758
 
 ### Knowledge Amalgamation（KA) - zju-VIPA
 
@@ -383,6 +386,7 @@
 54. Boosting Weakly Supervised Object Detection with Progressive Knowledge Transfer. ECCV 2020
 55. DOPE: Distillation Of Part Experts for whole-body 3D pose estimation in the wild. ECCV 2020
 56. Self-similarity Student for Partial Label Histopathology Image Segmentation. ECCV 2020
+57. Self-Supervised GAN Compression. Yu, Chong & Pool, Jeff. arXiv:2007.01491
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
