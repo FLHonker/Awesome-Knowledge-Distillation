@@ -442,6 +442,7 @@
 13. Towards Effective Low-bitwidth Convolutional Neural Networks. Zhuang, Bohan et al. CVPR 2018
 14. Effective Training of Convolutional Neural Networks with Low-bitwidth Weights and Activations. Zhuang, Bohan et al. arXiv:1908.04680
 15. Paying more attention to snapshots of Iterative Pruning: Improving Model Compression via Ensemble Distillation. Le et al. arXiv:2006.11487 [[code][17.15]]
+16. Knowledge Distillation Beyond Model Compression. Choi, Arthur et al. arxiv:2007.01493
 
 ## Beyond
 
