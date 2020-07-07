@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-381-green)
+![](https://img.shields.io/badge/Number-382-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -72,6 +72,7 @@
 42. Knowledge Distillation Meets Self-Supervision. Xu, Guodong et al. ECCV 2020 [[code][1.42]]
 43. Self-supervised Knowledge Distillation for Few-shot Learning. arXiv:2006.09785 [[code][1.43]]
 44. Learning with Noisy Class Labels for Instance Segmentation. ECCV 2020
+45. Improving Weakly Supervised Visual Grounding by Contrastive Knowledge Distillation. Wang, Liwei et al. arXiv:2007.01951
 
 ### Knowledge from intermediate layers
 
