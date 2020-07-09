@@ -360,7 +360,7 @@
 26. Next Point-of-Interest _Recommendation_ on Resource-Constrained Mobile Devices. WWW 2020
 27. Multi-Representation Knowledge Distillation For Audio Classification. Gao, Liang et al. arXiv:2002.09607
 28. Collaborative Distillation for Ultra-Resolution Universal _Style Transfer_. Wang, Huan et al. CVPR 2020 [[code][15.28]]
-29. ShadowTutor: Distributed Partial Distillation for Mobile _Video_ DNN Inference. Chung, Jae-Won et al. arXiv:2003.10735
+29. ShadowTutor: Distributed Partial Distillation for Mobile _Video_ DNN Inference. Chung, Jae-Won et al. ICPP 2020 [[code][15.29]]
 30. Object Relational Graph with Teacher-Recommended Learning for _Video Captioning_. Zhang, Ziqi et al. CVPR 2020
 31. Spatio-Temporal Graph for _Video Captioning_ with Knowledge distillation. CVPR 2020 [[code][15.31]]
 32. Squeezed Deep _6DoF Object Detection_ Using Knowledge Distillation. Felix, Heitor et al. arXiv:2003.13586
@@ -506,6 +506,7 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [13.24]: https://github.com/zju-vipa/KamalEngine
 [14.27]:  https://github.com/njulus/ReFilled
 [15.28]: https://github.com/mingsun-tse/collaborative-distillation
+[15.29]: https://github.com/jaywonchung/ShadowTutor
 [15.31]: https://github.com/StanfordVL/STGraph
 [15.48]: https://github.com/eraserNut/MTMT
 [15.58]:https://github.com/aimagelab/VKD
