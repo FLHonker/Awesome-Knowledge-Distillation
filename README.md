@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-382-green)
+![](https://img.shields.io/badge/Number-383-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -389,6 +389,7 @@
 55. DOPE: Distillation Of Part Experts for whole-body 3D pose estimation in the wild. ECCV 2020
 56. Self-similarity Student for Partial Label Histopathology Image Segmentation. ECCV 2020
 57. Self-Supervised GAN Compression. Yu, Chong & Pool, Jeff. arXiv:2007.01491
+58. Robust _Re-Identification_ by Multiple Views Knowledge Distillation. Porrello et al. ECCV 2020 [[code][15.58]]
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
@@ -506,6 +507,7 @@ Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu
 [15.28]: https://github.com/mingsun-tse/collaborative-distillation
 [15.31]: https://github.com/StanfordVL/STGraph
 [15.48]: https://github.com/eraserNut/MTMT
+[15.58]:https://github.com/aimagelab/VKD
 [16.32]: https://github.com/zzysay/KD4NRE
 [17.9]: https://csyhhu.github.io/
 [17.15]:https://github.com/lehduong/ginp
