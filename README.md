@@ -372,25 +372,25 @@
 38. Teacher Supervises Students How to Learn From Partially Labeled Images for _Facial Landmark Detection_. ICCV 2019
 39. Distill Image _Dehazing_ with Heterogeneous Task Imitation. Hong, Ming et al. CVPR 2020
 40. Knowledge Distillation for _Action Anticipation_ via Label Smoothing. Camporese et al. arXiv:2004.07711
-41. More Grounded Image Captioning by Distilling Image-Text Matching Model. Zhou, Yuanen et al. CVPR 2020
-42. Distilling Knowledge from Refinement in Multiple Instance Detection Networks. Zeni, Luis Felipe & Jung, Claudio. arXiv:2004.10943
-43. A General Knowledge Distillation Framework for Counterfactual Recommendation via Uniform Data. SIGIR 2020
-44. Enabling Incremental Knowledge Transfer for Object Detection at the Edge. arXiv:2004.05746
-45. Uninformed Students: Student-Teacher Anomaly Detection with Discriminative Latent Embeddings. Bergmann, Paul et al. CVPR 2020
-46. TA-Student VQA: Multi-Agents Training by Self-Questioning. Xiong, Peixi & Wu Ying. CVPR 2020
+41. More Grounded _Image Captioning_ by Distilling Image-Text Matching Model. Zhou, Yuanen et al. CVPR 2020
+42. Distilling Knowledge from Refinement in Multiple _Instance Detection_ Networks. Zeni, Luis Felipe & Jung, Claudio. arXiv:2004.10943
+43. A General Knowledge Distillation Framework for Counterfactual _Recommendation_ via Uniform Data. SIGIR 2020
+44. Enabling Incremental Knowledge Transfer for _Object Detection_ at the Edge. arXiv:2004.05746
+45. Uninformed Students: Student-Teacher _Anomaly Detection_ with Discriminative Latent Embeddings. Bergmann, Paul et al. CVPR 2020
+46. TA-Student _VQA_: Multi-Agents Training by Self-Questioning. Xiong, Peixi & Wu Ying. CVPR 2020
 47. Mentornet: Learning data-driven curriculum for very deep neural networks on corrupted labels. Jiang, Lu et al. ICML 2018
-48. A Multi-Task Mean Teacher for Semi-Supervised Shadow Detection. Chen, Zhihao et al. CVPR 2020 [[code][15.48]]
-49. Learning Lightweight Face Detector with Knowledge Distillation. Zhang Shifeng et al. IEEE 2019
-50. Learning Lightweight Pedestrian Detector with Hierarchical Knowledge Distillation. ICIP 2019
-51. Distilling Object Detectors with Task Adaptive Regularization. Sun, Ruoyu et al. arXiv:2006.13108
-52. Privileged Features Distillation at Taobao Recommendations. Xu, Chen et al. KDD 2020
-53. Intra-class Compactness Distillation for Semantic Segmentation. ECCV 2020
-54. Boosting Weakly Supervised Object Detection with Progressive Knowledge Transfer. ECCV 2020
-55. DOPE: Distillation Of Part Experts for whole-body 3D pose estimation in the wild. ECCV 2020
-56. Self-similarity Student for Partial Label Histopathology Image Segmentation. ECCV 2020
-57. Self-Supervised GAN Compression. Yu, Chong & Pool, Jeff. arXiv:2007.01491
+48. A Multi-Task Mean Teacher for Semi-Supervised _Shadow Detection_. Chen, Zhihao et al. CVPR 2020 [[code][15.48]]
+49. Learning Lightweight _Face Detector_ with Knowledge Distillation. Zhang Shifeng et al. IEEE 2019
+50. Learning Lightweight _Pedestrian Detector_ with Hierarchical Knowledge Distillation. ICIP 2019
+51. Distilling _Object Detectors_ with Task Adaptive Regularization. Sun, Ruoyu et al. arXiv:2006.13108
+52. Privileged Features Distillation at Taobao _Recommendations_. Xu, Chen et al. KDD 2020
+53. Intra-class Compactness Distillation for _Semantic Segmentation_. ECCV 2020
+54. Boosting Weakly Supervised _Object Detection_ with Progressive Knowledge Transfer. ECCV 2020
+55. DOPE: Distillation Of Part Experts for whole-body _3D pose estimation_ in the wild. ECCV 2020
+56. Self-similarity Student for Partial Label Histopathology Image _Segmentation_. ECCV 2020
+57. Self-Supervised _GAN Compression_. Yu, Chong & Pool, Jeff. arXiv:2007.01491
 58. Robust _Re-Identification_ by Multiple Views Knowledge Distillation. Porrello et al. ECCV 2020 [[code][15.58]]
-59. LabelEnc: A New Intermediate Supervision. Hao, Miao et al. arXiv:2007.03282
+59. LabelEnc: A New Intermediate Supervision Method for _Object Detection_. Hao, Miao et al. arXiv:2007.03282
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
