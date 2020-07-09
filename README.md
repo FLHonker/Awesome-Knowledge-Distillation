@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-383-green)
+![](https://img.shields.io/badge/Number-384-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -390,6 +390,7 @@
 56. Self-similarity Student for Partial Label Histopathology Image Segmentation. ECCV 2020
 57. Self-Supervised GAN Compression. Yu, Chong & Pool, Jeff. arXiv:2007.01491
 58. Robust _Re-Identification_ by Multiple Views Knowledge Distillation. Porrello et al. ECCV 2020 [[code][15.58]]
+59. LabelEnc: A New Intermediate Supervision. Hao, Miao et al. arXiv:2007.03282
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
