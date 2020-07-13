@@ -1,6 +1,6 @@
 # Awesome Knowledge-Distillation
 
-![](https://img.shields.io/badge/Number-384-green)
+![](https://img.shields.io/badge/Number-386-green)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
   - [Different forms of knowledge](#different-forms-of-knowledge)
@@ -391,6 +391,7 @@
 57. Self-Supervised _GAN Compression_. Yu, Chong & Pool, Jeff. arXiv:2007.01491
 58. Robust _Re-Identification_ by Multiple Views Knowledge Distillation. Porrello et al. ECCV 2020 [[code][15.58]]
 59. LabelEnc: A New Intermediate Supervision Method for _Object Detection_. Hao, Miao et al. arXiv:2007.03282
+60. Optical Flow Distillation: Towards Efficient and Stable Video Style Transfer. Chen, Xinghao et al. ECCV 2020
 
 ### for NLP
 1. Patient Knowledge Distillation for BERT Model Compression. Sun, Siqi et al. arXiv:1908.09355
@@ -446,6 +447,7 @@
 14. Effective Training of Convolutional Neural Networks with Low-bitwidth Weights and Activations. Zhuang, Bohan et al. arXiv:1908.04680
 15. Paying more attention to snapshots of Iterative Pruning: Improving Model Compression via Ensemble Distillation. Le et al. arXiv:2006.11487 [[code][17.15]]
 16. Knowledge Distillation Beyond Model Compression. Choi, Arthur et al. arxiv:2007.01493
+17. Distillation Guided Residual Learning for Binary Convolutional Neural Networks. Ye, Jianming et al. ECCV 20
 
 ## Beyond
 
