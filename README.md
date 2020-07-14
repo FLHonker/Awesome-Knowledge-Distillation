@@ -37,7 +37,7 @@
 7. Like What You Like: Knowledge Distill via Neuron Selectivity Transfer. Huang, Zehao and Wang, Naiyan. 2017
 8. On Knowledge Distillation from Complex Networks for Response Prediction. Arora, Siddhartha et al. NAACL 2019
 9. On the Efficacy of Knowledge Distillation. Cho, Jang Hyun and Hariharan, Bharath. arXiv:1910.01348. ICCV 2019
-10. Revisit Knowledge Distillation: a Teacher-free Framework(Revisiting Knowledge Distillation via Label Smoothing Regularization). Yuan, Li et al. CVPR 2020 [[code][1.10]]
+10. Revisit Knowledge Distillation: a Teacher-free Framework(Revisiting Knowledge Distillation via Label Smoothing Regularization). Yuan, Li et al. CVPR 2020 [[code]][1.10]
 11. Improved Knowledge Distillation via Teacher Assistant: Bridging the Gap Between Student and Teacher. Mirzadeh et al. arXiv:1902.03393
 12. Ensemble Distribution Distillation. ICLR 2020
 13. Noisy Collaboration in Knowledge Distillation. ICLR 2020
@@ -55,22 +55,22 @@
 25. MarginDistillation: distillation for margin-based softmax. Svitov, David & Alyamkin, Sergey. arXiv:2003.02586
 26. An Embarrassingly Simple Approach for Knowledge Distillation. Gao, Mengya et al. MLR 2018
 27. Sequence-Level Knowledge Distillation. Kim, Yoon & Rush, Alexander M. arXiv:1606.07947
-28. Boosting **Self-Supervised** Learning via Knowledge Transfer. Noroozi, Mehdi et al. CVPR 2018
+28. Boosting Self-Supervised Learning via Knowledge Transfer. Noroozi, Mehdi et al. CVPR 2018
 29. Meta Pseudo Labels. Pham, Hieu et al. ICML 2020
-30. Neural Networks Are More Productive Teachers Than Human Raters: Active Mixup for Data-Efficient Knowledge Distillation from a Blackbox Model. CVPR 2020 [[code][1.30]]
+30. Neural Networks Are More Productive Teachers Than Human Raters: Active Mixup for Data-Efficient Knowledge Distillation from a Blackbox Model. CVPR 2020 [[code]][1.30]
 31. Distilled Binary Neural Network for Monaural Speech Separation. Chen Xiuyi et al. IJCNN 2018
 32. Teacher-Class Network: A Neural Network Compression Mechanism. Malik et al. arXiv:2004.03281
 33. Deeply-supervised knowledge synergy. Sun, Dawei et al. CVPR 2019
 34. What it Thinks is Important is Important: Robustness Transfers through Input Gradients. Chan, Alvin et al. CVPR 2020
 35. Triplet Loss for Knowledge Distillation. Oki, Hideki et al. IJCNN 2020
-36. Role-Wise Data Augmentation for Knowledge Distillation. ICLR 2020 [[code][1.36]]
+36. Role-Wise Data Augmentation for Knowledge Distillation. ICLR 2020 [[code]][1.36]
 37. Distilling Spikes: Knowledge Distillation in Spiking Neural Networks. arXiv:2005.00288
 38. Improved Noisy Student Training for Automatic Speech Recognition. Park et al.arXiv:2005.09629
 39. Learning from a Lightweight Teacher for Efficient Knowledge Distillation. Yuang Liu et al. arXiv:2005.09163
 40. ResKD: Residual-Guided Knowledge Distillation. Li, Xuewei et al. arXiv:2006.04719
-41. Distilling Effective Supervision from Severe Label Noise. Zhang, Zizhao. et al. CVPR 2020 [[code][1.41]]
-42. Knowledge Distillation Meets Self-Supervision. Xu, Guodong et al. ECCV 2020 [[code][1.42]]
-43. Self-supervised Knowledge Distillation for Few-shot Learning. arXiv:2006.09785 [[code][1.43]]
+41. Distilling Effective Supervision from Severe Label Noise. Zhang, Zizhao. et al. CVPR 2020 [[code]][1.41]
+42. Knowledge Distillation Meets Self-Supervision. Xu, Guodong et al. ECCV 2020 [[code]][1.42]
+43. Self-supervised Knowledge Distillation for Few-shot Learning. arXiv:2006.09785 [[code]][1.43]
 44. Learning with Noisy Class Labels for Instance Segmentation. ECCV 2020
 45. Improving Weakly Supervised Visual Grounding by Contrastive Knowledge Distillation. Wang, Liwei et al. arXiv:2007.01951
 
@@ -101,11 +101,11 @@
 23. Knapsack Pruning with Inner Distillation. Aflalo, Yonathan et al. arXiv:2002.08258
 24. Residual Knowledge Distillation. Gao, Mengya et al. arXiv:2002.09168
 25. Knowledge distillation via adaptive instance normalization. Yang, Jing et al. arXiv:2003.04289
-26. Bert-of-Theseus: Compressing bert by progressive module replacing. Xu, Canwen et al. arXiv:2002.02925 [[code][2.27]]
+26. Bert-of-Theseus: Compressing bert by progressive module replacing. Xu, Canwen et al. arXiv:2002.02925 [[code]][2.27]
 27. Distilling Spikes: Knowledge Distillation in Spiking Neural Networks. arXiv:2005.00727
 28. Generalized Bayesian Posterior Expectation Distillation for Deep Neural Networks. Meet et al. arXiv:2005.08110
 29. Feature-map-level Online Adversarial Knowledge Distillation. Chung, Inseop et al. ICML 2020
-30. Channel Distillation: Channel-Wise Attention for Knowledge Distillation. Zhou, Zaida et al. arXiv:2006.01683 [[code][2.30]]
+30. Channel Distillation: Channel-Wise Attention for Knowledge Distillation. Zhou, Zaida et al. arXiv:2006.01683 [[code]][2.30]
 31. Matching Guided Distillation. ECCV 2020
 32. Differentiable Feature Aggregation Search for Knowledge Distillation. ECCV 2020
 33. Interactive Knowledge Distillation. Fu, Shipeng et al. arXiv:2007.01476
@@ -123,12 +123,12 @@
 1. Correlation Congruence for Knowledge Distillation. Peng, Baoyun et al. ICCV 2019
 2. Similarity-Preserving Knowledge Distillation. Tung, Frederick, and Mori Greg. ICCV 2019
 3. Variational Information Distillation for Knowledge Transfer. Ahn, Sungsoo et al. CVPR 2019
-4. Contrastive Representation Distillation. Tian, Yonglong et al. ICLR 2020 [[RepDistill][4.4]]
+4. Contrastive Representation Distillation. Tian, Yonglong et al. ICLR 2020 [[RepDistill]][4.4]
 5. Online Knowledge Distillation via Collaborative Learning. Guo, Qiushan et al. CVPR 2020
 6. Peer Collaborative Learning for Online Knowledge Distillation. Wu, Guile & Gong, Shaogang. arXiv:2006.04147
 7. Online Knowledge Distillation via Collaborative Learning. Guo, Qiushan et al. CVPR 2020
 8. Knowledge Transfer via Dense Cross-layer Mutual-distillation. ECCV 2020
-9. MutualNet: Adaptive ConvNet via Mutual Learning from Network Width and Resolution. Yang, Taojiannan et al. ECCV 2020 [[code][4.9]]
+9. MutualNet: Adaptive ConvNet via Mutual Learning from Network Width and Resolution. Yang, Taojiannan et al. ECCV 2020 [[code]][4.9]
 
 ### Self-KD
 
@@ -141,20 +141,18 @@
 7. MSD: Multi-Self-Distillation Learning via Multi-classifiers within Deep Neural Networks. arXiv:1911.09418
 8. Self-Distillation Amplifies Regularization in Hilbert Space. Mobahi, Hossein et al. arXiv:2002.05715
 9. MINILM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers. Wang, Wenhui et al. arXiv:2002.10957
-10. Regularizing Class-wise Predictions via Self-knowledge Distillation. CVPR 2020 [[code][5.11]]
+10. Regularizing Class-wise Predictions via Self-knowledge Distillation. CVPR 2020 [[code]][5.11]
 11. Self-Distillation as Instance-Specific Label Smoothing. Zhang, Zhilu & Sabuncu, Mert R. arXiv:2006.05065
 
 ### Structured Knowledge
 
 1. Paraphrasing Complex Network:Network Compression via Factor Transfer. Kim, Jangho et al. NIPS 2018
 2. Relational Knowledge Distillation.  Park, Wonpyo et al. CVPR 2019
-   <!-- * 通过对输出embedding表示构建了instance之间的二阶距离关系和三届角度关系，作为一种知识引导student学习 -->
 3. Knowledge Distillation via Instance Relationship Graph. Liu, Yufan et al. CVPR 2019
-   <!-- * 通过instance中间层表示构建了instance之间的图，并将图作为一种知识进行传递。 -->
 4. Contrastive Representation Distillation. Tian, Yonglong et al. ICLR 2020
 5. Teaching To Teach By Structured Dark Knowledge. ICLR 2020
-6. Inter-Region Affinity Distillation for Road Marking Segmentation. Hou, Yuenan et al. CVPR 2020 [[code][6.6]]
-7. Heterogeneous Knowledge Distillation using Information Flow Modeling. Passalis et al. CVPR 2020 [[code][6.7]]
+6. Inter-Region Affinity Distillation for Road Marking Segmentation. Hou, Yuenan et al. CVPR 2020 [[code]][6.6]
+7. Heterogeneous Knowledge Distillation using Information Flow Modeling. Passalis et al. CVPR 2020 [[code]][6.7]
 8. Asymmetric metric learning for knowledge transfer. Budnik, Mateusz & Avrithis, Yannis. arXiv:2006.16331
 9. Local Correlation Consistency for Knowledge Distillation. 2020
 10. Few-Shot Class-Incremental Learning. Tao, Xiaoyu et al. CVPR 2020
@@ -191,7 +189,7 @@
 17. Feature-map-level Online Adversarial Knowledge Distillation. ICML 2020
 18. MineGAN: effective knowledge transfer from GANs to target domains with few images. Wang, Yaxing et al. CVPR 2020
 19. Distilling portable Generative Adversarial Networks for Image Translation. Chen, Hanting et al. AAAI 2020
-20. GAN Compression: Efficient Architectures for Interactive Conditional GANs. Junyan Zhu et al. CVPR 2020 [[code][8.20]]
+20. GAN Compression: Efficient Architectures for Interactive Conditional GANs. Junyan Zhu et al. CVPR 2020 [[code]][8.20]
 21. Adversarial network compression. Belagiannis et al. ECCV 2018
 
 ## KD + Meta-learning
@@ -216,14 +214,14 @@
 6. Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion. Yin, Hongxu et al. CVPR 2020
 7. Data-Free Adversarial Distillation. Fang, Gongfan et al. CVPR 2020
 8. The Knowledge Within: Methods for Data-Free Model Compression. Haroush, Matan et al. CVPR 2020
-9. Knowledge Extraction with No Observable Data. Yoo, Jaemin et al. NIPS 2019 [[code][10.9]]
+9. Knowledge Extraction with No Observable Data. Yoo, Jaemin et al. NIPS 2019 [[code]][10.9]
 10. Data-Free Knowledge Amalgamation via Group-Stack Dual-GAN. CVPR 2020
 11. DeGAN : Data-Enriching GAN for Retrieving Representative Samples from a Trained Classifier. Addepalli, Sravanti et al. arXiv:1912.11960
 12. Generative Low-bitwidth Data Free Quantization. Xu, Shoukai et al. arXiv:2003.03603
 13. This dataset does not exist: training models from generated images. arXiv:1911.02888
 14. MAZE: Data-Free Model Stealing Attack Using Zeroth-Order Gradient Estimation. Sanjay et al. arXiv:2005.03161
 15. Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data. Such et al. ECCV 2020
-16. Billion-scale semi-supervised learning for image classification. FAIR. arXiv:1905.00546 [[code][10.16]]
+16. Billion-scale semi-supervised learning for image classification. FAIR. arXiv:1905.00546 [[code]][10.16]
 
 - other data-free model compression:
 
@@ -240,7 +238,7 @@
 5. Circumventing Outliers of AutoAugment with Knowledge Distillation. Wei, Longhui et al. arXiv:2003.11342
 6. Network Pruning via Transformable Architecture Search. Dong, Xuanyi & Yang, Yi. NIPS 2019
 7. Search to Distill: Pearls are Everywhere but not the Eyes. Liu Yu et al. CVPR 2020
-8. AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks. Fu, Yonggan et al. ICML 2020 [[code][11.8]]
+8. AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks. Fu, Yonggan et al. ICML 2020 [[code]][11.8]
 
 ## KD + RL
 
@@ -257,24 +255,17 @@
 
 1. Learning from Multiple Teacher Networks. You, Shan et al. KDD 2017
 2. Semi-Supervised Knowledge Transfer for Deep Learning from Private Training Data. ICLR 2017
-    <!-- * 也是多teacher，但是从隐私保护的角度来融合teacher输出的结果 -->
 3. Knowledge Adaptation: Teaching to Adapt. Arxiv:1702.02052
-    <!-- * 迁移学习，每个source domain对应一个teacher。KD中的温度值设定为5。 -->
 4. Deep Model Compression: Distilling Knowledge from Noisy Teachers.  Sau, Bharat Bhusan et al. arXiv:1610.09650v2 
 5. Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results. Tarvainen, Antti and Valpola, Harri. NIPS 2017
 6. Born-Again Neural Networks. Furlanello, Tommaso et al. ICML 2018
-   <!-- * 教师网络和学生网络具有同样结果，多个网络交替依次训练，最终结果进行平均融合 -->
 7. Deep Mutual Learning. Zhang, Ying et al. CVPR 2018
-   <!-- * 多个学生模型之间同时互相学习 -->
 8. Knowledge distillation by on-the-fly native ensemble. Lan, Xu et al. NIPS 2018
 9. Collaborative learning for deep neural networks. Song, Guocong and Chai, Wei. NIPS 2018
 10. Data Distillation: Towards Omni-Supervised Learning. Radosavovic, Ilija et al. CVPR 2018
 11. Multilingual Neural Machine Translation with Knowledge Distillation. ICLR 2019
-    <!-- * 多个teacher（一个teacher一个语言对），简单融合。 -->
 12. Unifying Heterogeneous Classifiers with Distillation. Vongkulbhisal et al. CVPR 2019
-    <!-- * 有多个不完全一样场景下的分类器（分类目标不尽相同），如何将它们统一起来，构造一个总的分类器：认为每一个classifier同等重要，都要去拟合它们。 -->
 13. Distilled Person Re-Identification: Towards a More Scalable System. Wu, Ancong et al. CVPR 2019
-    <!-- * 知识不再是soft-label，而是similarity matrix。权重引入是teacher-level的，而不是instance-level的。 -->
 14. Diversity with Cooperation: Ensemble Methods for Few-Shot Classification. Dvornik, Nikita et al. ICCV 2019
 15. Model Compression with Two-stage Multi-teacher Knowledge Distillation for Web Question Answering System. Yang, Ze et al. WSDM 2020 
 16. FEED: Feature-level Ensemble for Knowledge Distillation. Park, SeongUk and Kwak, Nojun. AAAI 2020
@@ -286,7 +277,7 @@
 22. Adaptive Learning for Multi-teacher Multi-student Knowledge Distillation. Yuang Liu et al. 2019
 23. Large-Scale Few-Shot Learning via Multi-Modal Knowledge Discovery. ECCV 2020
 24. Collaborative Learning for Faster StyleGAN Embedding. Guan, Shanyan et al. arXiv:2007.01758
-25. Temporal Self-Ensembling Teacher for Semi-Supervised Object Detection. Chen, Cong et al. IEEE 2020 [[code][12.25]]
+25. Temporal Self-Ensembling Teacher for Semi-Supervised Object Detection. Chen, Cong et al. IEEE 2020 [[code]][12.25]
 26. Dual-Teacher: Integrating Intra-domain and Inter-domain Teachers for Annotation-efficient Cardiac Segmentation. MICCAI 2020
 
 ### Knowledge Amalgamation（KA) - zju-VIPA
@@ -328,7 +319,7 @@
 24. Knowledge as Priors: Cross-Modal Knowledge Generalization for Datasets without Superior Knowledge. Zhao, Long et al. CVPR 2020
 25. Large-Scale Domain Adaptation via Teacher-Student Learning. Li, Jinyu et al. arXiv:1708.05466
 26. Large Scale Audiovisual Learning of Sounds with Weakly Labeled Data. Fayek, Haytham M. & Kumar, Anurag. IJCAI 2020
-27. Distilling Cross-Task Knowledge via Relationship Matching. Ye, Han-Jia. et al. CVPR 2020 [[code][14.27]]
+27. Distilling Cross-Task Knowledge via Relationship Matching. Ye, Han-Jia. et al. CVPR 2020 [[code]][14.27]
 28. Modality distillation with multiple stream networks for action recognition. Garcia, Nuno C. et al. ECCV 2018
 29. Domain Adaptation through Task Distillation. ECCV 2020
 
@@ -361,10 +352,10 @@
 25. ROAD: Reality Oriented Adaptation for _Semantic Segmentation_ of Urban Scenes. Chen, Yuhua et al. CVPR 2018
 26. Next Point-of-Interest _Recommendation_ on Resource-Constrained Mobile Devices. WWW 2020
 27. Multi-Representation Knowledge Distillation For Audio Classification. Gao, Liang et al. arXiv:2002.09607
-28. Collaborative Distillation for Ultra-Resolution Universal _Style Transfer_. Wang, Huan et al. CVPR 2020 [[code][15.28]]
-29. ShadowTutor: Distributed Partial Distillation for Mobile _Video_ DNN Inference. Chung, Jae-Won et al. ICPP 2020 [[code][15.29]]
+28. Collaborative Distillation for Ultra-Resolution Universal _Style Transfer_. Wang, Huan et al. CVPR 2020 [[code]][15.28]
+29. ShadowTutor: Distributed Partial Distillation for Mobile _Video_ DNN Inference. Chung, Jae-Won et al. ICPP 2020 [[code]][15.29]
 30. Object Relational Graph with Teacher-Recommended Learning for _Video Captioning_. Zhang, Ziqi et al. CVPR 2020
-31. Spatio-Temporal Graph for _Video Captioning_ with Knowledge distillation. CVPR 2020 [[code][15.31]]
+31. Spatio-Temporal Graph for _Video Captioning_ with Knowledge distillation. CVPR 2020 [[code]][15.31]
 32. Squeezed Deep _6DoF Object Detection_ Using Knowledge Distillation. Felix, Heitor et al. arXiv:2003.13586
 33. Distilled Semantics for Comprehensive _Scene Understanding_ from Videos. Tosi, Fabio et al. arXiv:2003.14030
 34. Parallel WaveNet: Fast high-fidelity _speech synthesis_. Van et al. ICML 2018
@@ -381,7 +372,7 @@
 45. Uninformed Students: Student-Teacher _Anomaly Detection_ with Discriminative Latent Embeddings. Bergmann, Paul et al. CVPR 2020
 46. TA-Student _VQA_: Multi-Agents Training by Self-Questioning. Xiong, Peixi & Wu Ying. CVPR 2020
 47. Mentornet: Learning data-driven curriculum for very deep neural networks on corrupted labels. Jiang, Lu et al. ICML 2018
-48. A Multi-Task Mean Teacher for Semi-Supervised _Shadow Detection_. Chen, Zhihao et al. CVPR 2020 [[code][15.48]]
+48. A Multi-Task Mean Teacher for Semi-Supervised _Shadow Detection_. Chen, Zhihao et al. CVPR 2020 [[code]][15.48]
 49. Learning Lightweight _Face Detector_ with Knowledge Distillation. Zhang Shifeng et al. IEEE 2019
 50. Learning Lightweight _Pedestrian Detector_ with Hierarchical Knowledge Distillation. ICIP 2019
 51. Distilling _Object Detectors_ with Task Adaptive Regularization. Sun, Ruoyu et al. arXiv:2006.13108
@@ -391,7 +382,7 @@
 55. DOPE: Distillation Of Part Experts for whole-body _3D pose estimation_ in the wild. ECCV 2020
 56. Self-similarity Student for Partial Label Histopathology Image _Segmentation_. ECCV 2020
 57. Self-Supervised _GAN Compression_. Yu, Chong & Pool, Jeff. arXiv:2007.01491
-58. Robust _Re-Identification_ by Multiple Views Knowledge Distillation. Porrello et al. ECCV 2020 [[code][15.58]]
+58. Robust _Re-Identification_ by Multiple Views Knowledge Distillation. Porrello et al. ECCV 2020 [[code]][15.58]
 59. LabelEnc: A New Intermediate Supervision Method for _Object Detection_. Hao, Miao et al. arXiv:2007.03282
 60. Optical Flow Distillation: Towards Efficient and Stable _Video Style Transfer_. Chen, Xinghao et al. ECCV 2020
 61. Adversarial Self-Supervised Learning for Semi-Supervised _3D Action Recognition_. Si, Chenyang et al. ECCV 2020
@@ -428,7 +419,7 @@
 29. Syntactic Structure Distillation Pretraining For Bidirectional Encoders. arXiv: 2005.13482
 30. Distill, Adapt, Distill: Training Small, In-Domain Models for Neural Machine Translation. arXiv:2003.02877
 31. Distilling Neural Networks for Faster and Greener Dependency Parsing. arXiv:2006.00844
-32. Distilling Knowledge from Well-informed Soft Labels for Neural Relation Extraction. AAAI 2020 [[code][16.32]]
+32. Distilling Knowledge from Well-informed Soft Labels for Neural Relation Extraction. AAAI 2020 [[code]][16.32]
 33. More Grounded Image Captioning by Distilling Image-Text Matching Model. Zhou, Yuanen et al. CVPR 2020
 34. Multimodal Learning with Incomplete Modalities by Knowledge Distillation. Wang, Qi et al. KDD 2020
 
@@ -448,7 +439,7 @@
 12. Training Quantized Neural Networks with a Full-precision Auxiliary Module. Zhuang, Bohan et al. CVPR 2020
 13. Towards Effective Low-bitwidth Convolutional Neural Networks. Zhuang, Bohan et al. CVPR 2018
 14. Effective Training of Convolutional Neural Networks with Low-bitwidth Weights and Activations. Zhuang, Bohan et al. arXiv:1908.04680
-15. Paying more attention to snapshots of Iterative Pruning: Improving Model Compression via Ensemble Distillation. Le et al. arXiv:2006.11487 [[code][17.15]]
+15. Paying more attention to snapshots of Iterative Pruning: Improving Model Compression via Ensemble Distillation. Le et al. arXiv:2006.11487 [[code]][17.15]
 16. Knowledge Distillation Beyond Model Compression. Choi, Arthur et al. arxiv:2007.01493
 17. Distillation Guided Residual Learning for Binary Convolutional Neural Networks. Ye, Jianming et al. ECCV 20
 
@@ -458,7 +449,6 @@
 2. When Does Label Smoothing Help? Müller, Rafael, Kornblith, and Hinton. NIPS 2019
 3. Towards Understanding Knowledge Distillation. Phuong, Mary and Lampert, Christoph. AAAI 2019
 4. Harnessing deep neural networks with logical rules. ACL 2016
-   <!-- * 融合先验知识 -->
 5. Adaptive Regularization of Labels. Ding, Qianggang et al. arXiv:1908.05474
 6. Knowledge Isomorphism between Neural Networks. Liang, Ruofan et al. arXiv:1908.01581
 7. [Neural Network Distiller][18.8]: A Python Package For DNN Compression Research. arXiv:1910.12232
