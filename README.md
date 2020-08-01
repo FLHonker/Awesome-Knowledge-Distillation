@@ -478,7 +478,7 @@ Thanks for all contributors:
 [![shivmgg](https://avatars0.githubusercontent.com/u/21128481?s=28&v=4)](https://github.com/shivmgg)
 -->
 
-Contact: Yuang Liu(<frankliu624@outlook.com>), AIDA, [ECNU](https://www.ecnu.edu.cn/).
+Contact:[Yuang Liu](https://flhonker.github.io)(<frankliu624@outlook.com>), [ECNU](https://www.ecnu.edu.cn/).
 
 
 [1.10]: https://github.com/yuanli2333/Teacher-free-Knowledge-Distillation
