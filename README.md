@@ -274,7 +274,7 @@
 19. Hydra: Preserving Ensemble Diversity for Model Distillation. Tran, Linh et al. arXiv:2001.04694
 20. Distilled Hierarchical Neural Ensembles with Adaptive Inference Cost. Ruiz, Adria et al. arXv:2003.01474
 21. Distilling Knowledge from Ensembles of Acoustic Models for Joint CTC-Attention End-to-End Speech Recognition. Gao, Yan et al. arXiv:2005.09310
-22. Adaptive Learning for Multi-teacher Multi-student Knowledge Distillation. Yuang Liu et al. 2019
+22. Adaptive Learning for Multi-teacher Multi-student Knowledge Distillation. Yuang Liu et al. Neurocomputing, 2020
 23. Large-Scale Few-Shot Learning via Multi-Modal Knowledge Discovery. ECCV 2020
 24. Collaborative Learning for Faster StyleGAN Embedding. Guan, Shanyan et al. arXiv:2007.01758
 25. Temporal Self-Ensembling Teacher for Semi-Supervised Object Detection. Chen, Cong et al. IEEE 2020 [[code]][12.25]
