@@ -106,7 +106,7 @@
 28. Generalized Bayesian Posterior Expectation Distillation for Deep Neural Networks. Meet et al. arXiv:2005.08110
 29. Feature-map-level Online Adversarial Knowledge Distillation. Chung, Inseop et al. ICML 2020
 30. Channel Distillation: Channel-Wise Attention for Knowledge Distillation. Zhou, Zaida et al. arXiv:2006.01683 [[code]][2.30]
-31. Matching Guided Distillation. ECCV 2020
+31. Matching Guided Distillation. Yue, Kaiyu et al. ECCV 2020 [[code]][2.31]
 32. Differentiable Feature Aggregation Search for Knowledge Distillation. ECCV 2020
 33. Interactive Knowledge Distillation. Fu, Shipeng et al. arXiv:2007.01476
 
@@ -489,6 +489,7 @@ Contact:[Yuang Liu](https://flhonker.github.io)(<frankliu624@outlook.com>), [ECN
 [1.43]: https://github.com/brjathu/SKD
 [2.27]: https://github.com/JetRunner/BERT-of-Theseus
 [2.30]: https://github.com/zhouzaida/channel-distillation
+[2.31]: https://github.com/KaiyuYue/mgd
 [4.4]: https://github.com/HobbitLong/RepDistiller
 [4.9]: https://github.com/taoyang1122/MutualNet
 [5.11]: https://github.com/alinlab/cs-kd
