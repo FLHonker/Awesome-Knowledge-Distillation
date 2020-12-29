@@ -73,7 +73,7 @@
 43. Self-supervised Knowledge Distillation for Few-shot Learning. arXiv:2006.09785 [[code]][1.43]
 44. Learning with Noisy Class Labels for Instance Segmentation. ECCV 2020
 45. Improving Weakly Supervised Visual Grounding by Contrastive Knowledge Distillation. Wang, Liwei et al. arXiv:2007.01951
-
+46. Reducing the Teacher-Student Gap via Spherical Knowledge Disitllation. arxiv:2010.07485
 ### Knowledge from intermediate layers
 
 1. Fitnets: Hints for thin deep nets. Romero, Adriana et al. arXiv:1412.6550
