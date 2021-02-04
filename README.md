@@ -21,6 +21,7 @@
   - [Cross-modal KD & DA](#cross-modal-kd--da)
   - [Application of KD](#application-of-kd)
     - [for NLP](#for-nlp)
+    - [for Rec](#for-Rec)
   - [Model Pruning or Quantization](#model-pruning-or-quantization)
   - [Beyond](#beyond)
 
@@ -422,6 +423,34 @@
 32. Distilling Knowledge from Well-informed Soft Labels for Neural Relation Extraction. AAAI 2020 [[code]][16.32]
 33. More Grounded Image Captioning by Distilling Image-Text Matching Model. Zhou, Yuanen et al. CVPR 2020
 34. Multimodal Learning with Incomplete Modalities by Knowledge Distillation. Wang, Qi et al. KDD 2020
+
+### for-Rec
+
+Improved recurrent neural networks for session-based recommendations. Tan, Yong Kiam, Xinxing Xu, and Yong Liu. RecSys 2016
+
+Improving session recommendation with recurrent neural networks by exploiting dwell time. Dallmann, Alexander, et al. arXiv:1706.10231(2017)
+
+Adversarial distillation for efficient recommendation with external knowledge. Chen X, Zhang Y, Xu H, et al. TOIS 2018
+
+Neural compatibility modeling with attentive knowledge distillation. Song, Xuemeng, et al. SIGIR 2018
+
+Ranking distillation: Learning compact ranking models with high performance for recommender system. Tang, Jiaxi, and Ke Wang. SIGKDD 2018
+
+A novel enhanced collaborative autoencoder with knowledge distillation for top-N recommender systems. Pan Y, He F, Yu H. Neurocomputing 2019
+
+Binarized collaborative filtering with distilling graph convolutional networks. Wang, Haoyu, Defu Lian, and Yong Ge. arXiv:1906.01829(2019)
+
+Collaborative Distillation for Top-N Recommendation. Lee J, Choi M, Lee J, et al. ICDM 2019
+
+A General Knowledge Distillation Framework for Counterfactual Recommendation via Uniform Data. Liu, Dugang, et al. SIGIR 2020
+
+Developing Multi-Task Recommendations with Long-Term Rewards via Policy Distilled Reinforcement Learning. Liu, Xi, et al. arXiv preprint arXiv:2001.09595(2020)
+
+Distilling structured knowledge into embeddings for explainable and accurate recommendation. Zhang, Yuan, et al. ICDM 2020
+
+Lightrec: A memory and search-efficient recommender system. Lian, Defu, et al. WWW 2020
+
+Privileged Features Distillation at Taobao Recommendations. Xu, Chen, et al. SIGKDD 2020
 
 ## Model Pruning or Quantization
 
