@@ -1,8 +1,5 @@
 # Awesome Knowledge-Distillation
 
-```
-Note: github 仓库停更,请知悉.
-```
 
 ![counter](https://img.shields.io/badge/Number-565-green) 
 [![star](https://img.shields.io/github/stars/FLHonker/Awesome-Knowledge-Distillation?label=star&style=social)](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
