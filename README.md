@@ -1,7 +1,7 @@
 # Awesome Knowledge-Distillation
 
 
-![counter](https://img.shields.io/badge/Number-565-green) 
+![counter](https://img.shields.io/badge/Paper-565-green) 
 [![star](https://img.shields.io/github/stars/FLHonker/Awesome-Knowledge-Distillation?label=star&style=social)](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
