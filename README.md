@@ -443,6 +443,7 @@
 35. Multimodal Fusion via Teacher-­‐Student Network for Indoor Action Recognition. Bruce et al. AAAI 2021
 36. Dual-Teacher++: Exploiting Intra-domain and Inter-domain Knowledge with Reliable Transfer for Cardiac Segmentation. Li, Kang et al. TMI 2021
 37. Knowledge Distillation Methods for Efficient Unsupervised Adaptation Across Multiple Domains. Nguyen et al. IVC 2021
+38. Feature-Supervised Action Modality Transfer. Thoker, Fida Mohammad and Snoek, Cees. ICPR 2020.
 
 ## Application of KD
 
