@@ -1,7 +1,7 @@
 # Awesome Knowledge-Distillation
 
 ```
-Papers from CVPR 2021 are coming...
+Papers accepted by CVPR 2021 are coming...
 ```
 
 ![counter](https://img.shields.io/badge/Paper-565-green) 
