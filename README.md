@@ -1,10 +1,7 @@
 # Awesome Knowledge-Distillation
 
-```
-Papers accepted by CVPR 2021 are coming...
-```
 
-![counter](https://img.shields.io/badge/Paper-565-green) 
+![counter](https://img.shields.io/badge/Number-610-green) 
 [![star](https://img.shields.io/github/stars/FLHonker/Awesome-Knowledge-Distillation?label=star&style=social)](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
@@ -24,7 +21,7 @@ Papers accepted by CVPR 2021 are coming...
   - [KD + Self-supervised](#kd--self-supervised)
   - [Multi-teacher and Ensemble KD](#multi-teacher-and-ensemble-kd)
     - [Knowledge Amalgamation（KA) - zju-VIPA](#knowledge-amalgamationka---zju-vipa)
-  - [Cross-modal KD & DA](#cross-modal-kd--da)
+  - [Cross-modal / DA / Incremental Learning](#cross-modal--da--incremental-learning)
   - [Application of KD](#application-of-kd)
     - [for NLP & Data-Mining](#for-nlp--data-mining)
     - [for RecSys](#for-recsys)
@@ -95,6 +92,7 @@ Papers accepted by CVPR 2021 are coming...
 57. Computation-Efficient Knowledge Distillation via Uncertainty-Aware Mixup. Xu, Guodong et al. cvpr 2021 [[code]][1.59]
 58. Knowledge Refinery: Learning from Decoupled Label. Ding, Qianggang et al. AAAI 2021
 59. Rocket Launching: A Universal and Efficient Framework for Training Well-performing Light Net. Zhou, Guorui et al. AAAI 2018
+60. Distilling Virtual Examples for Long-tailed Recognition. He, Yin-Yin et al. CVPR 2021
 
 ### Knowledge from intermediate layers
 
@@ -147,6 +145,8 @@ Papers accepted by CVPR 2021 are coming...
 47. Show, Attend and Distill: Knowledge Distillation via Attention-­Based Feature Matching. Ji, Mingi et al. AAAI 2021
 48. MINILMv2: Multi-Head Self-Attention Relation Distillation for Compressing Pretrained Transformers. Wang, Wenhui et al. arXiv:2012.15828
 49. ALP-KD: Attention-Based Layer Projection for Knowledge Distillation. Peyman et al. AAAI 2021
+50. PURSUhInT: In Search of Informative Hint Points Based on Layer Clustering for Knowledge Distillation. Reyhan et al. arXiv:2103.00053
+51. Fixing the Teacher-Student Knowledge Discrepancy in Distillation. Han, Jiangfan et al. arXiv:2103.16844
 
 ### Graph-based
 
@@ -154,7 +154,7 @@ Papers accepted by CVPR 2021 are coming...
 2. Graph Representation Learning via Multi-task Knowledge Distillation. arXiv:1911.05700
 3. Deep geometric knowledge distillation with graphs. arXiv:1911.03080
 4. Better and faster: Knowledge transfer from multiple self-supervised learning tasks via graph distillation for video classification. IJCAI 2018
-5. Distillating Knowledge from Graph Convolutional Networks. Yang, Yiding et al. CVPR 2020
+5. Distillating Knowledge from Graph Convolutional Networks. Yang, Yiding et al. CVPR 2020 [[code]][2.46]
 6. Saliency Prediction with External Knowledge. Zhang, Yifeng et al. arXiv:2007.13839
 7. Multi-label Zero-shot Classification by Learning to Transfer from External Knowledge. Huang, He et al. arXiv:2007.15610
 8. Reliable Data Distillation on Graph Convolutional Network. Zhang, Wentao et al. ACM SIGMOD 2020
@@ -163,6 +163,7 @@ Papers accepted by CVPR 2021 are coming...
 11. Distill2Vec: Dynamic Graph Representation Learning with Knowledge Distillation. Antaris, Stefanos & Rafailidis, Dimitrios. arXiv:2011.05664
 12. On Self-Distilling Graph Neural Network. Chen, Yuzhao et al. arXiv:2011.02255
 13. Iterative Graph Self Distillation. iclr 2021
+14. Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework. Yang, Cheng et al. WWW 2021 [[code]][2.45]
 
 ### Mutual Information & Online Learning
 
@@ -199,6 +200,8 @@ Papers accepted by CVPR 2021 are coming...
 15. Distillation-Based Training for Multi-Exit Architectures. Phuong, Mary and Lampert, Christoph H. ICCV 2019
 16. Pair-based self-distillation for semi-supervised domain adaptation. iclr 2021
 17. SEED: SElf-SupErvised Distillation. ICLR 2021
+18. Self-Feature Regularization: Self-Feature Distillation Without Teacher Models. Fan, Wenxuan & Hou, Zhenyan.arXiv:2103.07350
+19. Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation. Ji, Mingi et al. CVPR 2021 [[code]][5.19]
 
 ### Structural Knowledge
 
@@ -228,6 +231,7 @@ Papers accepted by CVPR 2021 are coming...
 7. A Generalized Meta-loss function for regression and classification using privileged information. Asif, Amina et al. arXiv:1811.06885
 8. Private Knowledge Transfer via Model Distillation with Generative Adversarial Networks. Gao, Di & Zhuo, Cheng. AAAI 2020
 9. Privileged Knowledge Distillation for Online Action Detection. Zhao, Peisen et al. cvpr 2021
+10. Adversarial Distillation for Learning with Privileged Provisions. Wang, Xiaojie et al. TPAMI 2019
 
 ## KD + GAN
 
@@ -258,7 +262,7 @@ Papers accepted by CVPR 2021 are coming...
 25. TinyGAN: Distilling BigGAN for Conditional Image Generation. ACCV 2020 [[code]][8.25]
 26. Learning Efficient GANs via Differentiable Masks and co-Attention Distillation. Li, Shaojie et al. aaai 2021 [[code]][8.26]
 27. Self-Supervised GAN Compression. Yu, Chong & Pool, Jeff. arXiv:2007.01491
-28. Efficient Conditional GAN Transfer with Knowledge Propagation across Classes. Shahbaziet al. arXiv:2102.06696 [[code]][8.28]
+28. Teachers Do More Than Teach: Compressing Image-to-Image Models. CVPR 2021 [[code]][8.29]
 
 ## KD + Meta-learning
 
@@ -304,14 +308,23 @@ Papers accepted by CVPR 2021 are coming...
 23. Learning in School: Multi-teacher Knowledge Inversion for Data-Free Quantization. Li, Yuhang et al. cvpr 2021
 24. Large-Scale Generative Data-Free Distillation. Luo, Liangchen et al. cvpr 2021
 25. Domain Impression: A Source Data Free Domain Adaptation Method. Kurmi et al. WACV 2021
+26. Learning Student Networks in the Wild. (HUAWEI-Noah). CVPR 2021
+27. Data-Free Knowledge Distillation For Image Super-Resolution. (HUAWEI-Noah). CVPR 2021
+28. Zero-shot Adversarial Quantization. Liu, Yuang et al. CVPR 2021 [[code]][10.28]
+29. Source-Free Domain Adaptation for Semantic Segmentation. Liu, Yuang et al. CVPR 2021
+30. Data-Free Model Extraction. Jean-Baptiste et al. CVPR 2021 [[code]][10.30]
+31. Delving into Data: Effectively Substitute Training for Black-box Attack. CVPR 2021
+32. Zero-Shot Knowledge Distillation Using Label-Free Adversarial Perturbation With Taylor Approximation. Li, Kang et al. IEEE Access, 2021. 
 
-- other data-free model compression:
 
-26. Data-free Parameter Pruning for Deep Neural Networks. Srinivas, Suraj et al. arXiv:1507.06149
-27. Data-Free Quantization Through Weight Equalization and Bias Correction. Nagel, Markus et al. ICCV 2019
-28. DAC: Data-free Automatic Acceleration of Convolutional Networks. Li, Xin et al. WACV 2019
-29. A Privacy-Preserving DNN Pruning and Mobile Acceleration Framework. Zhan, Zheng et al. arXiv:2003.06513
-30. ZeroQ: A Novel Zero Shot Quantization Framework. Cai et al. CVPR 2020 [[code]][10.29]
+other data-free model compression:
+
+- Data-free Parameter Pruning for Deep Neural Networks. Srinivas, Suraj et al. arXiv:1507.06149
+- Data-Free Quantization Through Weight Equalization and Bias Correction. Nagel, Markus et al. ICCV 2019
+- DAC: Data-free Automatic Acceleration of Convolutional Networks. Li, Xin et al. WACV 2019
+- A Privacy-Preserving DNN Pruning and Mobile Acceleration Framework. Zhan, Zheng et al. arXiv:2003.06513
+- ZeroQ: A Novel Zero Shot Quantization Framework. Cai et al. CVPR 2020 [[code]][10.35]
+- Diversifying Sample Generation for Data-Free Quantization. Zhang, Xiangguo et al. CVPR 2021
 
 ## KD + AutoML
 
@@ -323,6 +336,7 @@ Papers accepted by CVPR 2021 are coming...
 6. Network Pruning via Transformable Architecture Search. Dong, Xuanyi & Yang, Yi. NeurIPS 2019
 7. Search to Distill: Pearls are Everywhere but not the Eyes. Liu Yu et al. CVPR 2020
 8. AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks. Fu, Yonggan et al. ICML 2020 [[code]][11.8]
+9. Joint-DetNAS: Upgrade Your Detector with NAS,Pruning and Dynamic Distillation. CVPR 2021
 
 ## KD + RL
 
@@ -337,6 +351,7 @@ Papers accepted by CVPR 2021 are coming...
 9. Student-Teacher Curriculum Learning via Reinforcement Learning: Predicting Hospital Inpatient Admission Location. El-Bouri, Rasheed et al. ICML 2020
 10. Reinforced Multi-Teacher Selection for Knowledge Distillation. Yuan, Fei et al. AAAI 2021
 11. Universal Trading for Order Execution with Oracle Policy Distillation. Fang, Yuchen et al. AAAI 2021
+12. Weakly-Supervised Domain Adaptation of Deep Regression Trackers via Reinforced Knowledge Distillation. Dunnhofer et al. IEEE RAL
 
 ## KD + Self-supervised
 
@@ -354,6 +369,7 @@ Papers accepted by CVPR 2021 are coming...
 12. Rethinking Pre-training and Self-training. Zoph, Barret et al. NeurIPS 2020 [[code]][12.12]
 13. ISD: Self-Supervised Learning by Iterative Similarity Distillation. Tejankar et al. cvpr 2021 [[code]][12.13]
 14. Momentum^2 Teacher: Momentum Teacher with Momentum Statistics for Self-Supervised Learning. Li, Zeming et al. arXiv:2101.07525
+15. Beyond Self-Supervision: A Simple Yet Effective Network Distillation Alternative to Improve Backbones. Cui, Cheng et al. arXiv:2103.05959
 
 ## Multi-teacher and Ensemble KD 
 
@@ -395,7 +411,10 @@ Papers accepted by CVPR 2021 are coming...
 36. Agree to Disagree: Adaptive Ensemble Knowledge Distillation in Gradient Space. Du, Shangchen et al. NeurIPS 2020 [[code]][12.37]
 37. Reinforced Multi‐Teacher Selection for Knowledge Distillation. Yuan, Fei et al. AAAI 2021
 38. Class-­Incremental Instance Segmentation via Multi­‐Teacher Networks. Gu, Yanan et al. AAAI 2021
-39. Synergic Adversarial Label Learning for Grading Retinal Diseases via Knowledge Distillation and Multi-task Learning. Ju, Lie et al. JBHI 2021
+39. Collaborative Teacher-Student Learning via Multiple Knowledge Transfer. Sun, Liyuan et al. arXiv:2101.08471
+40. Efficient Conditional GAN Transfer with Knowledge Propagation across Classes. Shahbaziet al. CVPR 2021 [[code]][8.28]
+41. Knowledge Evolution in Neural Networks. Taha, Ahmed et al. CVPR 2021 [[code]][12.41]
+42. Distilling a Powerful Student Model via Online Knowledge Distillation. Li, Shaojie et al. arXiv:2103.14473
 
 ### Knowledge Amalgamation（KA) - zju-VIPA
 
@@ -408,7 +427,7 @@ Papers accepted by CVPR 2021 are coming...
 5. Customizing Student Networks From Heterogeneous Teachers via Adaptive Knowledge Amalgamation. ICCV 2019
 6. Data-Free Knowledge Amalgamation via Group-Stack Dual-GAN. CVPR 2020
 
-## Cross-modal KD & DA
+## Cross-modal / DA / Incremental Learning
 
 1. SoundNet: Learning Sound Representations from Unlabeled Video SoundNet Architecture. Aytar, Yusuf et al. NeurIPS 2016
 2. Cross Modal Distillation for Supervision Transfer. Gupta, Saurabh et al. CVPR 2016
@@ -448,6 +467,20 @@ Papers accepted by CVPR 2021 are coming...
 36. Dual-Teacher++: Exploiting Intra-domain and Inter-domain Knowledge with Reliable Transfer for Cardiac Segmentation. Li, Kang et al. TMI 2021
 37. Knowledge Distillation Methods for Efficient Unsupervised Adaptation Across Multiple Domains. Nguyen et al. IVC 2021
 38. Feature-Supervised Action Modality Transfer. Thoker, Fida Mohammad and Snoek, Cees. ICPR 2020.
+39. There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge. Francisco et al. CVPR 2021
+40. Adaptive Consistency Regularization for Semi-Supervised Transfer Learning
+Abulikemu. Abulikemu et al. CVPR 2021 [[code]][14.40]
+41. Semantic-aware Knowledge Distillation for Few-Shot Class-Incremental Learning. Cheraghian et al. CVPR 2021
+42. Distilling Causal Effect of Data in Class-Incremental Learning. Hu, Xinting et al. CVPR 2021 [[code]][14.42]
+43. Semi-supervised Domain Adaptation based on Dual-level Domain Mixing for Semantic Segmentation. Chen, Shuaijun et al. CVPR 2021
+44. PLOP: Learning without Forgetting for Continual Semantic Segmentation. Arthur et al. CVPR 2021
+45. Continual Semantic Segmentation via Repulsion-Attraction of Sparse and Disentangled Latent Representations. Umberto & Pietro. CVPR 2021
+46. Learning Scene Structure Guidance via Cross-Task Knowledge Transfer for Single Depth Super-Resolution. Sun, Baoli et al. CVPR 2021 [[code]][14.46]
+47. CReST: A Class-Rebalancing Self-Training Framework for Imbalanced Semi-Supervised Learning. Wei, Chen et al. CVPR 2021
+48. Adaptive Boosting for Domain Adaptation: Towards Robust Predictions in Scene Segmentation. Zheng, Zhedong & Yang, Yi. CVPR 2021
+49. Image Classification in the Dark Using Quanta Image Sensors. Gnanasambandam, Abhiram & Chan, Stanley H. ECCV 2020
+50. Dynamic Low-Light Imaging with Quanta Image Sensors. Chi, Yiheng et al. ECCV 2020
+
 
 ## Application of KD
 
@@ -532,12 +565,20 @@ Papers accepted by CVPR 2021 are coming...
 79. Teach me to segment with mixed supervision: Confident students become masters. Dolz, Jose et al. arXiv:2012.08051
 80. Invariant Teacher and Equivariant Student for Unsupervised _3D Human Pose Estimation_. Xu, Chenxin et al. AAAI 2021 [[code]][15.80]
 81. Training data-efficient _image transformers_ & distillation through attention. Touvron, Hugo et al. arXiv:2012.12877 [[code]][15.81]
-82. SID: Incremental Learning for Anchor-Free Object Detection via Selective and Inter-Related Distillation. Peng, Can et al. arXiv:2012.15439
+82. SID: Incremental Learning for Anchor-Free _Object Detection_ via Selective and Inter-Related Distillation. Peng, Can et al. arXiv:2012.15439
 83. PSSM-Distil: Protein Secondary Structure Prediction (PSSP) on Low-Quality PSSM by Knowledge Distillation with Contrastive Learning. Wang, Qin et al. AAAI 2021
-84. Diverse Knowledge Distillation for End-­to‐End Person Search. Zhang, Xinyu et al. AAAI 2021
-85. Enhanced Audio Tagging via Multi­‐ to Single­‐Modal Teacher­‐Student Mutual Learning. Yin, Yifang et al. AAAI 2021
+84. Diverse Knowledge Distillation for End-­to‐End _Person Search_. Zhang, Xinyu et al. AAAI 2021
+85. Enhanced _Audio Tagging_ via Multi­‐ to Single­‐Modal Teacher­‐Student Mutual Learning. Yin, Yifang et al. AAAI 2021
 86. Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks. Li, Yige et al. ICLR 2021 [[code]][15.86]
-87. Unbiased Teacher for Semi-Supervised Object Detection. Liu, Yen-Cheng et al. ICLR 2021
+87. Unbiased Teacher for Semi-Supervised _Object Detection_. Liu, Yen-Cheng et al. ICLR 2021 [[code]][15.87]
+88. Localization Distillation for _Object Detection_. Zheng, Zhaohui et al. cvpr 2021 [[code]][15.88]
+89. Distilling Knowledge via Intermediate Classifier Heads. Aryan & Amirali. arXiv:2103.00497
+90. Distilling _Object Detectors_ via Decoupled Features. (HUAWEI-Noah). CVPR 2021
+91. General Instance Distillation for _Object Detection_. Dai, Xing et al. CVPR 2021
+92. Multiresolution Knowledge Distillation for _Anomaly Detection_. Mohammadreza et al. CVPR 2021
+93. Student-Teacher Feature Pyramid Matching for Unsupervised _Anomaly Detection_. Wang, Guodong et al. arXiv:2103.04257
+94. Teacher-Explorer-Student Learning: A Novel Learning Method for Open Set Recognition. Jaeyeon Jang & Chang Ouk Kim. IEEE 2021
+95. Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection. Hu, Hanzhe et al. CVPR 2021 [[code]][15.95]
 
 ### for NLP & Data-Mining
 
@@ -586,26 +627,26 @@ Papers accepted by CVPR 2021 are coming...
 43. Meta-KD: A Meta Knowledge Distillation Framework for Language Model Compression across Domains. Pan, Haojie et al. AAAI 2021
 44. Learning to Augment for Data-Scarce Domain BERT Knowledge Distillation. Feng, Lingyun et al. AAAI 2021
 45. Label Confusion Learning to Enhance Text Classification Models. Guo, Biyang et al. AAAI 2021
+46. NewsBERT: Distilling Pre-trained Language Model for Intelligent News Application. Wu, Chuhan et al. kdd 2021
 
 ### for RecSys
 
-1. Improving session recommendation with recurrent neural networks by exploiting dwell time. Dallmann et al. arXiv:1706.10231
-2. Developing Multi-Task Recommendations with Long-Term Rewards via Policy Distilled Reinforcement Learning. Liu, Xi et al. arXiv:2001.09595
-3. A General Knowledge Distillation Framework for Counterfactual Recommendation via Uniform Data. Liu, Dugang et al. SIGIR 2020 [[Sildes]][16.35] [[code]][16.352]
-4. LightRec: a Memory and Search-Efficient Recommender System. Lian, Defu et al. WWW 2020
-5. Privileged Features Distillation at Taobao Recommendations. Xu, Chen et al. KDD 2020
-6. Next Point-of-Interest Recommendation on Resource-Constrained Mobile Devices. WWW 2020
-7. Adversarial Distillation for Efficient Recommendation with External Knowledge. Chen, Xu et al. ACM Trans, 2018
-8. Ranking Distillation: Learning Compact Ranking Models With High Performance for Recommender System. Tang, Jiaxi et al. SIGKDD 2018
-9. A novel Enhanced Collaborative Autoencoder with knowledge distillation for top-N recommender systems. Pan, Yiteng et al. Neurocomputing 2019 [[code]][16.38]
-10. ADER: Adaptively Distilled Exemplar Replay Towards Continual Learning for Session-based Recommendation. Mi, Fei et al. ACM RecSys 2020
-11. Ensembled CTR Prediction via Knowledge Distillation. Zhu, Jieming et al.(Huawei) CIKM 2020
-12. DE-RRD: A Knowledge Distillation Framework for Recommender System. Kang, Seongku et al. CIKM 2020 [[code]][16.39]
-13. Neural Compatibility Modeling with Attentive Knowledge Distillation. Song, Xuemeng et al. SIGIR 2018
-14. Binarized Collaborative Filtering with Distilling Graph Convolutional Networks. Wang, Haoyu et al. IJCAI 2019
-15. Collaborative Distillation for Top-N Recommendation. Jae-woong Lee, et al. CIKM 2019
-16. Distilling Structured Knowledge into Embeddings for Explainable and Accurate Recommendation. Zhang Yuan et al. WSDM 2020
-17. UMEC:Unified Model and Embedding Compression for Efficient Recommendation Systems. ICLR 2021
+1. Developing Multi-Task Recommendations with Long-Term Rewards via Policy Distilled Reinforcement Learning. Liu, Xi et al. arXiv:2001.09595
+2. A General Knowledge Distillation Framework for Counterfactual Recommendation via Uniform Data. Liu, Dugang et al. SIGIR 2020 [[Sildes]][16.35] [[code]][16.352]
+3. LightRec: a Memory and Search-Efficient Recommender System. Lian, Defu et al. WWW 2020
+4. Privileged Features Distillation at Taobao Recommendations. Xu, Chen et al. KDD 2020
+5. Next Point-of-Interest Recommendation on Resource-Constrained Mobile Devices. WWW 2020
+6. Adversarial Distillation for Efficient Recommendation with External Knowledge. Chen, Xu et al. ACM Trans, 2018
+7. Ranking Distillation: Learning Compact Ranking Models With High Performance for Recommender System. Tang, Jiaxi et al. SIGKDD 2018
+8. A novel Enhanced Collaborative Autoencoder with knowledge distillation for top-N recommender systems. Pan, Yiteng et al. Neurocomputing 2019 [[code]][16.38]
+9. ADER: Adaptively Distilled Exemplar Replay Towards Continual Learning for Session-based Recommendation. Mi, Fei et al. ACM RecSys 2020
+10. Ensembled CTR Prediction via Knowledge Distillation. Zhu, Jieming et al.(Huawei) CIKM 2020
+11. DE-RRD: A Knowledge Distillation Framework for Recommender System. Kang, Seongku et al. CIKM 2020 [[code]][16.39]
+12. Neural Compatibility Modeling with Attentive Knowledge Distillation. Song, Xuemeng et al. SIGIR 2018
+13. Binarized Collaborative Filtering with Distilling Graph Convolutional Networks. Wang, Haoyu et al. IJCAI 2019
+14. Collaborative Distillation for Top-N Recommendation. Jae-woong Lee, et al. CIKM 2019
+15. Distilling Structured Knowledge into Embeddings for Explainable and Accurate Recommendation. Zhang Yuan et al. WSDM 2020
+16. UMEC:Unified Model and Embedding Compression for Efficient Recommendation Systems. ICLR 2021
 
 ## Model Pruning or Quantization
 
@@ -630,6 +671,7 @@ Papers accepted by CVPR 2021 are coming...
 19. TernaryBERT: Distillation-aware Ultra-low Bit BERT. Zhang, Wei et al. EMNLP 2020
 20. Weight Distillation: Transferring the Knowledge in Neural Network Parameters. arXiv:2009.09152
 21. Stochastic Precision Ensemble: Self-­‐Knowledge Distillation for Quantized Deep Neural Networks. Boo, Yoonho et al. AAAI 2021
+22. Binary Graph Neural Networks. Bahri, Mehdi et al. CVPR 2021
 
 ## Beyond
 
@@ -650,7 +692,7 @@ Papers accepted by CVPR 2021 are coming...
 15. Transferring Inductive Biases through Knowledge Distillation. Abnar, Samira et al. arXiv:2006.00555
 16. Does label smoothing mitigate label noise? Lukasik, Michal et al. ICML 2020
 17. An Empirical Analysis of the Impact of Data Augmentation on Knowledge Distillation. Das, Deepan et al. arXiv:2006.03810
-18. Knowledge Distillation: A Survey. Gou, Jianping et al. arXiv:2006.05525
+18. Knowledge Distillation: A Survey. Gou, Jianping et al. IJCV 2021
 19. Does Adversarial Transferability Indicate Knowledge Transferability? Liang, Kaizhao et al. arXiv:2006.14512
 20. On the Demystification of Knowledge Distillation: A Residual Network Perspective. Jha et al. arXiv:2006.16589
 21. Enhancing Simple Models by Exploiting What They Already Know. Dhurandhar et al. ICML 2020
@@ -661,6 +703,7 @@ Papers accepted by CVPR 2021 are coming...
 26. Solvable Model for Inheriting the Regularization through Knowledge Distillation. Luca Saglietti & Lenka Zdeborova. arXiv:2012.00194
 27. Undistillable: Making A Nasty Teacher That CANNOT Teach Students. ICLR 2021
 28. Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation in Deep Learning. Allen-Zhu, Zeyuan & Li, Yuanzhi.(Microsoft) arXiv:2012.09816
+29. Student-Teacher Learning from Clean Inputs to Noisy Inputs. Hong, Guanzhe et al. CVPR 2021
 
 ## Distiller Tools
 
@@ -679,10 +722,10 @@ Source: <https://github.com/FLHonker/Awesome-Knowledge-Distillation>
 
 Thanks for all contributors:
 
-[![yuang](https://avatars.githubusercontent.com/u/20468157?s=28&v=4)](https://github.com/FLHonker)  [![lioutasb](https://avatars.githubusercontent.com/u/9558061?s=28&v=4)](https://github.com/lioutasb)  [![KaiyuYue](https://avatars.githubusercontent.com/u/19852297?s=28&v=4)](https://github.com/KaiyuYue)  [<img src="https://avatars.githubusercontent.com/u/21128481?s=28&v=4" width = "28" height = "28" alt="avatar" />](https://github.com/shivmgg)  [![cardwing](https://avatars.githubusercontent.com/u/23656119?s=28&v=4)](https://github.com/cardwing)  [![jaywonchung](https://avatars1.githubusercontent.com/u/29395896?s=28&v=4)](https://github.com/jaywonchung)  [![ZainZhao](https://avatars.githubusercontent.com/u/28838928?s=28&v=4)](https://github.com/ZainZhao)
+[![yuang](https://avatars.githubusercontent.com/u/20468157?s=28&v=4)](https://github.com/FLHonker)  [![lioutasb](https://avatars.githubusercontent.com/u/9558061?s=28&v=4)](https://github.com/lioutasb)  [![KaiyuYue](https://avatars.githubusercontent.com/u/19852297?s=28&v=4)](https://github.com/KaiyuYue)  [<img src="https://avatars.githubusercontent.com/u/21128481?s=28&v=4" width = "28" height = "28" alt="avatar" />](https://github.com/shivmgg)  [![cardwing](https://avatars.githubusercontent.com/u/23656119?s=28&v=4)](https://github.com/cardwing)  [![jaywonchung](https://avatars1.githubusercontent.com/u/29395896?s=28&v=4)](https://github.com/jaywonchung)  [![ZainZhao](https://avatars.githubusercontent.com/u/28838928?s=28&v=4)](https://github.com/ZainZhao)  [<img src="https://avatars.githubusercontent.com/u/8179405?s=28&v=4" width = "28" height = "28" alt="avatar" />](https://github.com/forjiuzhou)  
 
-Contact: [Yuang Liu](https://flhonker.github.io/)(frankliu624![](https://res.cloudinary.com/flhonker/image/upload/v1605363963/frankio/at1.png)outlook.com), [ECNU](https://www.ecnu.edu.cn/). 
-Supervisor: [Wei Zhang](https://weizhangltt.github.io), Jun Wang. 
+
+Contact: [Yuang Liu](https://flhonker.github.io/)(frankliu624![](https://res.cloudinary.com/flhonker/image/upload/v1605363963/frankio/at1.png)outlook.com), [ECNU](https://www.ecnu.edu.cn/). Supervisor: [Wei Zhang](https://weizhangltt.github.io), Jun Wang. 
 
 
 [1.10]: https://github.com/yuanli2333/Teacher-free-Knowledge-Distillation
@@ -699,10 +742,13 @@ Supervisor: [Wei Zhang](https://weizhangltt.github.io), Jun Wang.
 [2.31]: https://github.com/KaiyuYue/mgd
 [2.34]: https://github.com/aztc/FNKD
 [2.44]: https://github.com/DefangChen/SemCKD
+[2.45]: https://github.com/BUPT-GAMMA/CPF
+[2.46]: https://github.com/ihollywhy/DistillGCN.PyTorch
 [4.4]: https://github.com/HobbitLong/RepDistiller
 [4.9]: https://github.com/taoyang1122/MutualNet
 [5.11]: https://github.com/alinlab/cs-kd
 [5.13]: https://github.com/TAMU-VITA/Self-PU
+[5.19]: https://github.com/MingiJi/FRSKD
 [6.6]: https://github.com/cardwing/Codes-for-IntRA-KD
 [6.7]: https://github.com/passalis/pkth
 [8.20]: https://github.com/mit-han-lab/gan-compression
@@ -710,11 +756,14 @@ Supervisor: [Wei Zhang](https://weizhangltt.github.io), Jun Wang.
 [8.25]: https://github.com/terarachang/ACCV_TinyGAN
 [8.26]: https://github.com/SJLeo/DMAD
 [8.28]: https://github.com/mshahbazi72/cGANTransfer
+[8.29]: https://github.com/snap-research/CAT
 [10.6]: https://github.com/NVlabs/DeepInversion
 [10.9]: https://github.com/snudatalab/KegNet
 [10.12]: https://github.com/xushoukai/GDFQ
 [10.16]: https://github.com/leaderj1001/Billion-scale-semi-supervised-learning
-[10.12]: https://github.com/amirgholami/ZeroQ
+[10.28]: https://github.com/FLHonker/ZAQ-code
+[10.35]: https://github.com/amirgholami/ZeroQ
+[10.30]: https://github.com/cake-lab/datafree-model-extraction
 [11.8]: https://github.com/TAMU-VITA/AGD
 [12.2]: https://github.com/hankook/SLA
 [12.5]: https://github.com/sthalles/PyTorch-BYOL
@@ -728,11 +777,15 @@ Supervisor: [Wei Zhang](https://weizhangltt.github.io), Jun Wang.
 [12.29]: https://weihonglee.github.io/Projects/KD-MTL/KD-MTL.htm
 [12.30]: https://github.com/FLHonker/AMTML-KD-code
 [12.37]: https://github.com/AnTuo1998/AE-KD
+[12.41]: https://github.com/ahmdtaha/knowledge_evolution
 [13.24]: https://github.com/zju-vipa/KamalEngine
 [14.27]: https://github.com/njulus/ReFilled
 [14.29]: https://github.com/bradyz/task-distillation
 [14.30]: https://github.com/wanglixilinx/DSRL
 [14.32]: https://github.com/VisionLearningGroup/Domain2Vec
+[14.40]: https://github.com/SHI-Labs/Semi-Supervised-Transfer-Learning
+[14.42]: https://github.com/JoyHuYY1412/DDE_CIL
+[14.46]:https://github.com/Sunbaoli/dsr-distillation
 [15.5]: https://github.com/lucidrains/byol-pytorch
 [15.28]: https://github.com/mingsun-tse/collaborative-distillation
 [15.29]: https://github.com/jaywonchung/ShadowTutor
@@ -745,6 +798,9 @@ Supervisor: [Wei Zhang](https://weizhangltt.github.io), Jun Wang.
 [15.80]: https://github.com/sjtuxcx/ITES
 [15.81]: https://github.com/facebookresearch/deit
 [15.86]: https://github.com/bboylyg/NAD
+[15.87]: https://github.com/facebookresearch/unbiased-teacher
+[15.88]: https://github.com/HikariTJU/LD
+[15.95]: https://github.com/hzhupku/DCNet
 [16.32]: https://github.com/zzysay/KD4NRE
 [16.35]: http://csse.szu.edu.cn/staff/panwk/publications/Conference-SIGIR-20-KDCRec-Slides.pdf
 [16.352]:https://github.com/dgliu/SIGIR20_KDCRec
