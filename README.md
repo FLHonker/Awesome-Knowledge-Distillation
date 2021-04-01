@@ -395,6 +395,7 @@ Papers accepted by CVPR 2021 are coming...
 36. Agree to Disagree: Adaptive Ensemble Knowledge Distillation in Gradient Space. Du, Shangchen et al. NeurIPS 2020 [[code]][12.37]
 37. Reinforced Multi‐Teacher Selection for Knowledge Distillation. Yuan, Fei et al. AAAI 2021
 38. Class-­Incremental Instance Segmentation via Multi­‐Teacher Networks. Gu, Yanan et al. AAAI 2021
+39. Synergic Adversarial Label Learning for Grading Retinal Diseases via Knowledge Distillation and Multi-task Learning. Ju, Lie et al. JBHI 2021
 
 ### Knowledge Amalgamation（KA) - zju-VIPA
 
