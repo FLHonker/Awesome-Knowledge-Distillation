@@ -110,7 +110,7 @@
 12. Knowledge Distillation via Route Constrained Optimization. Jin, Xiao et al. ICCV 2019
 13. Similarity-Preserving Knowledge Distillation. Tung, Frederick, and Mori Greg. ICCV 2019
 14. MEAL: Multi-Model Ensemble via Adversarial Learning. Shen,Zhiqiang, He,Zhankui, and Xue Xiangyang. AAAI 2019
-15. A Comprehensive Overhaul of Feature Distillation. Heo, Byeongho et al. ICCV 2019
+15. A Comprehensive Overhaul of Feature Distillation. Heo, Byeongho et al. ICCV 2019  [[code]][2.15]
 16. Feature-map-level Online Adversarial Knowledge Distillation. ICML 2020
 17. Distilling Object Detectors with Fine-grained Feature Imitation. ICLR 2020
 18. Knowledge Squeezed Adversarial Network Compression. Changyong, Shu et al. AAAI 2020
@@ -737,6 +737,7 @@ Contact: [Yuang Liu](https://flhonker.github.io/)(frankliu624![](https://res.clo
 [1.43]: https://github.com/brjathu/SKD
 [1.46]: https://github.com/DSLLcode/DSLL
 [1.59]: https://github.com/xuguodong03/UNIXKD
+[2.15]: https://github.com/clovaai/overhaul-distillation
 [2.27]: https://github.com/JetRunner/BERT-of-Theseus
 [2.30]: https://github.com/zhouzaida/channel-distillation
 [2.31]: https://github.com/KaiyuYue/mgd
@@ -819,3 +820,4 @@ Contact: [Yuang Liu](https://flhonker.github.io/)(frankliu624![](https://res.clo
 [18.29]: https://github.com/SforAiDl/KD_Lib
 [18.30]: https://github.com/AberHu/Knowledge-Distillation-Zoo
 [18.31]: https://github.com/HobbitLong/RepDistiller
+
