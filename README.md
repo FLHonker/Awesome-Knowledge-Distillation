@@ -142,7 +142,7 @@
 44. Cross-Layer Distillation with Semantic Calibration. Chen, Defang et al. AAAI 2021 [[code]][2.44]
 45. Harmonized Dense Knowledge Distillation Training for Multi-­Exit Architectures. Wang, Xinglu & Li, Yingming. AAAI 2021
 46. Robust Knowledge Transfer via Hybrid Forward on the Teacher-Student Model. Song, Liangchen et al. AAAI 2021
-47. Show, Attend and Distill: Knowledge Distillation via Attention-­Based Feature Matching. Ji, Mingi et al. AAAI 2021
+47. Show, Attend and Distill: Knowledge Distillation via Attention-­Based Feature Matching. Ji, Mingi et al. AAAI 2021 [[code]][2.47]
 48. MINILMv2: Multi-Head Self-Attention Relation Distillation for Compressing Pretrained Transformers. Wang, Wenhui et al. arXiv:2012.15828
 49. ALP-KD: Attention-Based Layer Projection for Knowledge Distillation. Peyman et al. AAAI 2021
 50. PURSUhInT: In Search of Informative Hint Points Based on Layer Clustering for Knowledge Distillation. Reyhan et al. arXiv:2103.00053
@@ -744,6 +744,7 @@ Contact: [Yuang Liu](https://flhonker.github.io/)(frankliu624![](https://res.clo
 [2.44]: https://github.com/DefangChen/SemCKD
 [2.45]: https://github.com/BUPT-GAMMA/CPF
 [2.46]: https://github.com/ihollywhy/DistillGCN.PyTorch
+[2.47]: https://github.com/clovaai/attention-feature-distillation
 [4.4]: https://github.com/HobbitLong/RepDistiller
 [4.9]: https://github.com/taoyang1122/MutualNet
 [5.11]: https://github.com/alinlab/cs-kd
