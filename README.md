@@ -96,6 +96,7 @@
 61. Balanced Knowledge Distillation for Long-tailed Learning. Zhang, Shaoyu et al. arXiv:2014.10510
 62. Comparing Kullback-Leibler Divergence and Mean Squared Error Loss in Knowledge Distillation. Kim, Taehyeon et al. IJCAI 2021 [[code]][1.62]
 63. Not All Knowledge Is Created Equal. Li, Ziyun et al. arXiv:2106.01489
+64. Knowledge distillation: A good teacher is patient and consistent. Beyer et al. arXiv:2106.05237v1
 
 ### Knowledge from intermediate layers
 
@@ -153,6 +154,7 @@
 52. Student Network Learning via Evolutionary Knowledge Distillation. Zhang, Kangkai et al. arXiv:2103.13811
 53. Distilling Knowledge via Knowledge Review. Chen, Pengguang et al. CVPR 2021
 54. Knowledge Distillation By Sparse Representation Matching. Tran et al. arXiv:2103.17012
+55. Task-Oriented Feature Distillation. Zhang et al. NeurIPS 2020 [[code]][2.55]
 
 ### Graph-based
 
@@ -874,3 +876,4 @@ Contact: Yuang Liu (frankliu624![](https://res.cloudinary.com/flhonker/image/upl
 [18.30]: https://github.com/AberHu/Knowledge-Distillation-Zoo
 [18.31]: https://github.com/HobbitLong/RepDistiller
 [18.32]: http://zhiqiangshen.com/projects/LS_and_KD/index.html  
+[2.55]: https://github.com/ArchipLab-LinfengZhang/Task-Oriented-Feature-Distillation
