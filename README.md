@@ -1,7 +1,7 @@
 # Awesome Knowledge-Distillation
 
 
-![counter](https://img.shields.io/badge/Number-657-green) 
+![counter](https://img.shields.io/badge/Number-658-green) 
 [![star](https://img.shields.io/github/stars/FLHonker/Awesome-Knowledge-Distillation?label=star&style=social)](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
 
 - [Awesome Knowledge-Distillation](#awesome-knowledge-distillation)
@@ -729,18 +729,18 @@ Distillation and Cross-modal Matching. Wu, Bofeng et al. arViv:2105.08252
 4. Harnessing deep neural networks with logical rules. ACL 2016
 5. Adaptive Regularization of Labels. Ding, Qianggang et al. arXiv:1908.05474
 6. Knowledge Isomorphism between Neural Networks. Liang, Ruofan et al. arXiv:1908.01581
-7. (survey)Modeling Teacher-Student Techniques in Deep Neural Networks for Knowledge Distillation. arXiv:1912.13179
+7. (survey) Modeling Teacher-Student Techniques in Deep Neural Networks for Knowledge Distillation. arXiv:1912.13179
 8. Understanding and Improving Knowledge Distillation. Tang, Jiaxi et al. arXiv:2002.03532
 9. The State of Knowledge Distillation for Classification. Ruffy, Fabian and Chahal, Karanbir. arXiv:1912.10850 [[code]][18.11]
 10. Explaining Knowledge Distillation by Quantifying the Knowledge. [Zhang, Quanshi][18.13] et al. CVPR 2020
 11. DeepVID: deep visual interpretation and diagnosis for image classifiers via knowledge distillation. IEEE Trans, 2019.
 12. On the Unreasonable Effectiveness of Knowledge Distillation: Analysis in the Kernel Regime. Rahbar, Arman et al. arXiv:2003.13438
-13. (survey)Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks. Wang, Lin & Yoon, Kuk-Jin. arXiv:2004.05937
+13. (survey) Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks. Wang, Lin & Yoon, Kuk-Jin. arXiv:2004.05937
 14. Why distillation helps: a statistical perspective. arXiv:2005.10419
 15. Transferring Inductive Biases through Knowledge Distillation. Abnar, Samira et al. arXiv:2006.00555
 16. Does label smoothing mitigate label noise? Lukasik, Michal et al. ICML 2020
 17. An Empirical Analysis of the Impact of Data Augmentation on Knowledge Distillation. Das, Deepan et al. arXiv:2006.03810
-18. Knowledge Distillation: A Survey. Gou, Jianping et al. IJCV 2021
+18. (survey) Knowledge Distillation: A Survey. Gou, Jianping et al. IJCV 2021
 19. Does Adversarial Transferability Indicate Knowledge Transferability? Liang, Kaizhao et al. arXiv:2006.14512
 20. On the Demystification of Knowledge Distillation: A Residual Network Perspective. Jha et al. arXiv:2006.16589
 21. Enhancing Simple Models by Exploiting What They Already Know. Dhurandhar et al. ICML 2020
@@ -755,6 +755,7 @@ Distillation and Cross-modal Matching. Wu, Bofeng et al. arViv:2105.08252
 30. Is Label Smoothing Truly Incompatible with Knowledge Distillation: An Empirical Study. ICLR 2021 [[project]][18.32]
 31. Model Distillation for Revenue Optimization: Interpretable Personalized Pricing. Biggs, Max et al. ICML 2021
 32. A statistical perspective on distillation. Aditya et al(Google). ICML 2021
+33. (survey) Data-Free Knowledge Transfer: A Survey. Liu, Yuang et al. arXiv:2112.15278
 
 ## Distiller Tools
 
