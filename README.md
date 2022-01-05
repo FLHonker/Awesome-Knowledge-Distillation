@@ -97,6 +97,7 @@
 62. Comparing Kullback-Leibler Divergence and Mean Squared Error Loss in Knowledge Distillation. Kim, Taehyeon et al. IJCAI 2021 [[code]][1.62]
 63. Not All Knowledge Is Created Equal. Li, Ziyun et al. arXiv:2106.01489
 64. Knowledge distillation: A good teacher is patient and consistent. Beyer et al. arXiv:2106.05237v1
+65. Hierarchical Self-supervised Augmented Knowledge Distillation. Yang et al. IJCAI 2021 [[code]][1.65]
 
 ### Knowledge from intermediate layers
 
@@ -191,6 +192,7 @@
 12. Unsupervised Image Segmentation using Mutual Mean-Teaching. Wu, Zhichao et al.arXiv:2012.08922
 13. Exponential Moving Average Normalization for Self-supervised and Semi-supervised Learning. Cai, Zhaowei et al. arXiv:2101.08482
 14. Robust Mutual Learning for Semi-supervised Semantic Segmentation. Zhang, Pan et al. arXiv:2106.00609
+15. Mutual Contrastive Learning for Visual Representation Learning. Yang et al. AAAI 2022 [[code]][4.15]
 
 ### Self-KD
 
@@ -790,6 +792,7 @@ Contact: Yuang Liu (frankliu624![](https://res.cloudinary.com/flhonker/image/upl
 [1.46]: https://github.com/DSLLcode/DSLL
 [1.59]: https://github.com/xuguodong03/UNIXKD
 [1.62]: https://github.com/jhoon-oh/kd_data
+[1.65]: https://github.com/winycg/HSAKD
 [2.15]: https://github.com/clovaai/overhaul-distillation
 [2.27]: https://github.com/JetRunner/BERT-of-Theseus
 [2.30]: https://github.com/zhouzaida/channel-distillation
@@ -801,6 +804,7 @@ Contact: Yuang Liu (frankliu624![](https://res.cloudinary.com/flhonker/image/upl
 [2.47]: https://github.com/clovaai/attention-feature-distillation
 [4.4]: https://github.com/HobbitLong/RepDistiller
 [4.9]: https://github.com/taoyang1122/MutualNet
+[4.15]: https://github.com/winycg/MCL
 [5.11]: https://github.com/alinlab/cs-kd
 [5.13]: https://github.com/TAMU-VITA/Self-PU
 [5.19]: https://github.com/MingiJi/FRSKD
