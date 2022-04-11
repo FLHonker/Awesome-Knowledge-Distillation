@@ -156,6 +156,9 @@
 53. Distilling Knowledge via Knowledge Review. Chen, Pengguang et al. CVPR 2021
 54. Knowledge Distillation By Sparse Representation Matching. Tran et al. arXiv:2103.17012
 55. Task-Oriented Feature Distillation. Zhang et al. NeurIPS 2020 [[code]][2.55]
+56. Adversarial Knowledge Transfer from Unlabeled Data. Gupta et al. ACM-MM 2020 [code](https://github.com/agupt013/akt)
+57. Knowledge Distillation as Efficient Pre-training: Faster Convergence, Higher Data-efficiency, and Better Transferability. He et al. CVPR 2020
+58. PDF-Distil: Including Prediction Disagreements in Feature-based Knowledge Distillation for Object Detection. Zhang et al. BMVC 2021 [code](https://github.com/ZHANGHeng19931123/MutualGuide)
 
 ### Graph-based
 
@@ -400,6 +403,7 @@ other data-free model compression:
 17. DisCo: Remedy Self-supervised Learning on Lightweight Models with Distilled Contrastive Learning. Gao, Yuting et al. arXiv:2104.09124
 18. Self-Ensembling Contrastive Learning for Semi-Supervised Medical Image Segmentation. Xiang, Jinxi et al. arXiv:2105.12924
 19. Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision. Chen, Xiaokang et al. CPVR 2021
+20. Adversarial Knowledge Transfer from Unlabeled Data. Gupta et al. ACM-MM 2020 [code](https://github.com/agupt013/akt)
 
 ## Multi-teacher and Ensemble KD 
 
@@ -625,6 +629,7 @@ Abulikemu. Abulikemu et al. CVPR 2021 [[code]][14.40]
 Distillation and Cross-modal Matching. Wu, Bofeng et al. arViv:2105.08252
 102. Revisiting Knowledge Distillation for Object Detection. Banitalebi-Dehkordi, Amin. arXiv: 2105.10633
 103. Towards Compact Single Image Super-Resolution via Contrastive Self-distillation. Yanbo, Wang et al. IJCAI 2021
+104. How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting. Monti, Alessio et al. CVPR 2022
 
 
 ### for NLP & Data-Mining
