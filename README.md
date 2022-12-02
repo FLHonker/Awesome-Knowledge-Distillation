@@ -193,6 +193,7 @@
 13. Exponential Moving Average Normalization for Self-supervised and Semi-supervised Learning. Cai, Zhaowei et al. arXiv:2101.08482
 14. Robust Mutual Learning for Semi-supervised Semantic Segmentation. Zhang, Pan et al. arXiv:2106.00609
 15. Mutual Contrastive Learning for Visual Representation Learning. Yang et al. AAAI 2022 [[code]][4.15]
+16. Information Theoretic Representation Distillation. Miles et al. BMVC 2022 [[code]][19.10]
 
 ### Self-KD
 
@@ -236,6 +237,7 @@
 13. Improving Knowledge Distillation via Category Structure. ECCV 2020
 14. Few-Shot Class-Incremental Learning via Relation Knowledge Distillation. Dong, Songlin et al. AAAI 2021
 15. Complementary Relation Contrastive Distillation. Zhu, Jinguo et al. CVPR 2021
+16. Information Theoretic Representation Distillation. Miles et al. BMVC 2022 [[code]][19.10]
 
 ### Privileged Information
 
@@ -722,6 +724,7 @@ Distillation and Cross-modal Matching. Wu, Bofeng et al. arViv:2105.08252
 21. Stochastic Precision Ensemble: Self-­‐Knowledge Distillation for Quantized Deep Neural Networks. Boo, Yoonho et al. AAAI 2021
 22. Binary Graph Neural Networks. Bahri, Mehdi et al. CVPR 2021
 23. Self-Damaging Contrastive Learning. Jiang, Ziyu et al. ICML 2021
+24. Information Theoretic Representation Distillation. Miles et al. BMVC 2022 [[code]][19.10]
 
 ## Beyond
 
@@ -882,3 +885,4 @@ Contact: Yuang Liu (frankliu624![](https://res.cloudinary.com/flhonker/image/upl
 [18.31]: https://github.com/HobbitLong/RepDistiller
 [18.32]: http://zhiqiangshen.com/projects/LS_and_KD/index.html  
 [2.55]: https://github.com/ArchipLab-LinfengZhang/Task-Oriented-Feature-Distillation
+[19.10]: https://github.com/roymiles/ITRD
