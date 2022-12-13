@@ -694,21 +694,28 @@ Distillation and Cross-modal Matching. Wu, Bofeng et al. arViv:2105.08252
 18. Privileged Graph Distillation for Cold-start Recommendation. SIGIR 2021
 19. Topology Distillation for Recommender System [KDD 2021]
 20. Conditional Attention Networks for Distilling Knowledge Graphs in Recommendation [CIKM 2021]
-21. False Negative Distillation and Contrastive Learning for Personalized Outfit Recommendation [Arxiv 2110.06483]
-22. Dual Correction Strategy for Ranking Distillation in Top-N Recommender System[ArXiv 2109.03459v1]
-23. Scene-adaptive Knowledge Distillation for Sequential Recommendation via Differentiable Architecture Search[ArXiv 2107.07173v1]
-24. Interpolative Distillation for Unifying Biased and Debiased Recommendation [SIGIR 2022] [[Video]](https://dl.acm.org/doi/10.1145/3477495.3532002) [[Code]](https://github.com/Dingseewhole/InterD_master)
-25. FedSPLIT: One-Shot Federated Recommendation System Based on Non-negative Joint Matrix Factorization and Knowledge Distillation[Arxiv 2205.02359v1]
-26. On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation[SIGIR 2022] [[Code]](https://github.com/xiaxin1998/OD-Rec)
-27. Cross-Task Knowledge Distillation in Multi-Task Recommendation[AAAI 2022]
-28. Toward Understanding Privileged Features Distillation in Learning-to-Rank [NIPS 2022]
-29. Debias the Black-box: A Fair Ranking Framework via Knowledge Distillation [WISE 2022]
-30. Distill-VQ: Learning Retrieval Oriented Vector Quantization By Distilling Knowledge from Dense Embeddings[SIGIR 2022] [[Code]](https://github.com/staoxiao/libvq)
-31. AutoFAS: Automatic Feature and Architecture Selection for Pre-Ranking System [KDD 2022]
-32. An Incremental Learning framework for Large-scale CTR Prediction[RecSys 22]
-33. Directed Acyclic Graph Factorization Machines for CTR Prediction via Knowledge Distillation [WSDM 2023] [[Code]](https://github.com/rucaibox/dagfm)
-34. Unbiased Knowledge Distillation for Recommendation [WSDM 2023] [[Code]](https://github.com/chengang95/UnKD)
-
+21. Explore, Filter and Distill: Distilled Reinforcement Learning in Recommendation [CIKM 2021] [[Video]](https://dl.acm.org/doi/abs/10.1145/3459637.3481917)[[Code]](https://github.com/modriczhang/DRL-Rec)
+22. Graph Structure Aware Contrastive Knowledge Distillation for Incremental Learning in Recommender Systems[CIKM 2021]
+23. Conditional Graph Attention Networks for Distilling and Refining Knowledge Graphs in Recommendation[CIKM 2021]
+24. Target Interest Distillation for Multi-Interest Recommendation [CIKM 2022] [[Video]](https://dl.acm.org/doi/abs/10.1145/3511808.3557464) [[Code]](https://github.com/THUwangcy/ReChorus/tree/CIKM22)
+25. KDCRec: Knowledge Distillation for Counterfactual Recommendation Via Uniform Data [TKDE 2022] [[Code]](https://github.com/dgliu/TKDE_KDCRec)
+26. Revisiting Graph based Social Recommendation: A Distillation Enhanced Social Graph Network[WWW 2022] [[Code]](https://www.dropbox.com/s/uqmsr67wqurpnre/Supplementary%20Material.zip?dl=0)
+27. False Negative Distillation and Contrastive Learning for Personalized Outfit Recommendation [Arxiv 2110.06483]
+28. Dual Correction Strategy for Ranking Distillation in Top-N Recommender System[ArXiv 2109.03459v1]
+29. Scene-adaptive Knowledge Distillation for Sequential Recommendation via Differentiable Architecture Search. Chen, Lei et al.[ArXiv 2107.07173v1]
+30. Interpolative Distillation for Unifying Biased and Debiased Recommendation [SIGIR 2022] [[Video]](https://dl.acm.org/doi/10.1145/3477495.3532002) [[Code]](https://github.com/Dingseewhole/InterD_master)
+31. FedSPLIT: One-Shot Federated Recommendation System Based on Non-negative Joint Matrix Factorization and Knowledge Distillation[Arxiv 2205.02359v1]
+32. On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation[SIGIR 2022] [[Code]](https://github.com/xiaxin1998/OD-Rec)
+33. Cross-Task Knowledge Distillation in Multi-Task Recommendation[AAAI 2022]
+34. Toward Understanding Privileged Features Distillation in Learning-to-Rank [NIPS 2022]
+35. Debias the Black-box: A Fair Ranking Framework via Knowledge Distillation [WISE 2022]
+36. Distill-VQ: Learning Retrieval Oriented Vector Quantization By Distilling Knowledge from Dense Embeddings[SIGIR 2022] [[Code]](https://github.com/staoxiao/libvq)
+37. AutoFAS: Automatic Feature and Architecture Selection for Pre-Ranking System [KDD 2022]
+38. An Incremental Learning framework for Large-scale CTR Prediction[RecSys 22]
+39. Directed Acyclic Graph Factorization Machines for CTR Prediction via Knowledge Distillation [WSDM 2023] [[Code]](https://github.com/rucaibox/dagfm)
+40. Unbiased Knowledge Distillation for Recommendation [WSDM 2023] [[Code]](https://github.com/chengang95/UnKD)
+41. DistilledCTR: Accurate and scalable CTR prediction model through model distillation [ESWA 2022]
+43. Top-aware recommender distillation with deep reinforcement learning [Information Sciences 2021]
 
 ## Model Pruning or Quantization
 
