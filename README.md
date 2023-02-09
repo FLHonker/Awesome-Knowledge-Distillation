@@ -196,6 +196,7 @@
 13. Exponential Moving Average Normalization for Self-supervised and Semi-supervised Learning. Cai, Zhaowei et al. arXiv:2101.08482
 14. Robust Mutual Learning for Semi-supervised Semantic Segmentation. Zhang, Pan et al. arXiv:2106.00609
 15. Mutual Contrastive Learning for Visual Representation Learning. Yang et al. AAAI 2022 [[code]][4.15]
+16. Information Theoretic Representation Distillation. Miles et al. BMVC 2022 [[code]][19.10]
 
 ### Self-KD
 
@@ -244,6 +245,7 @@
 13. Improving Knowledge Distillation via Category Structure. ECCV 2020
 14. Few-Shot Class-Incremental Learning via Relation Knowledge Distillation. Dong, Songlin et al. AAAI 2021
 15. Complementary Relation Contrastive Distillation. Zhu, Jinguo et al. CVPR 2021
+16. Information Theoretic Representation Distillation. Miles et al. BMVC 2022 [[code]][19.10]
 
 ### Privileged Information
 
@@ -748,13 +750,22 @@ Distillation and Cross-modal Matching. Wu, Bofeng et al. arViv:2105.08252
 13. Towards Effective Low-bitwidth Convolutional Neural Networks. Zhuang, Bohan et al. CVPR 2018
 14. Effective Training of Convolutional Neural Networks with Low-bitwidth Weights and Activations. Zhuang, Bohan et al. arXiv:1908.04680
 15. Paying more attention to snapshots of Iterative Pruning: Improving Model Compression via Ensemble Distillation. Le et al. arXiv:2006.11487 [[code]][17.15]
-16. Distillation Guided Residual Learning for Binary Convolutional Neural Networks. Ye, Jianming et al. ECCV 2020
-17. Cascaded channel pruning using hierarchical self-distillation. Miles & Mikolajczyk. BMVC 2020
-18. TernaryBERT: Distillation-aware Ultra-low Bit BERT. Zhang, Wei et al. EMNLP 2020
-19. Weight Distillation: Transferring the Knowledge in Neural Network Parameters. arXiv:2009.09152
-20. Stochastic Precision Ensemble: Self-­‐Knowledge Distillation for Quantized Deep Neural Networks. Boo, Yoonho et al. AAAI 2021
-21. Binary Graph Neural Networks. Bahri, Mehdi et al. CVPR 2021
-22. Self-Damaging Contrastive Learning. Jiang, Ziyu et al. ICML 2021
+16. Knowledge Distillation Beyond Model Compression. Choi, Arthur et al. arxiv:2007.01493
+17. Distillation Guided Residual Learning for Binary Convolutional Neural Networks. Ye, Jianming et al. ECCV 2020
+18. Cascaded channel pruning using hierarchical self-distillation. Miles & Mikolajczyk. BMVC 2020
+19. TernaryBERT: Distillation-aware Ultra-low Bit BERT. Zhang, Wei et al. EMNLP 2020
+20. Weight Distillation: Transferring the Knowledge in Neural Network Parameters. arXiv:2009.09152
+21. Stochastic Precision Ensemble: Self-­‐Knowledge Distillation for Quantized Deep Neural Networks. Boo, Yoonho et al. AAAI 2021
+22. Binary Graph Neural Networks. Bahri, Mehdi et al. CVPR 2021
+23. Self-Damaging Contrastive Learning. Jiang, Ziyu et al. ICML 2021
+24. Information Theoretic Representation Distillation. Miles et al. BMVC 2022 [[code]][19.10]
+25. Distillation Guided Residual Learning for Binary Convolutional Neural Networks. Ye, Jianming et al. ECCV 2020
+26. Cascaded channel pruning using hierarchical self-distillation. Miles & Mikolajczyk. BMVC 2020
+27. TernaryBERT: Distillation-aware Ultra-low Bit BERT. Zhang, Wei et al. EMNLP 2020
+28. Weight Distillation: Transferring the Knowledge in Neural Network Parameters. arXiv:2009.09152
+29. Stochastic Precision Ensemble: Self-­‐Knowledge Distillation for Quantized Deep Neural Networks. Boo, Yoonho et al. AAAI 2021
+30. Binary Graph Neural Networks. Bahri, Mehdi et al. CVPR 2021
+31. Self-Damaging Contrastive Learning. Jiang, Ziyu et al. ICML 2021
 
 ## Beyond
 
@@ -916,3 +927,4 @@ Contact: Yuang Liu (frankliu624![](https://res.cloudinary.com/flhonker/image/upl
 [18.31]: https://github.com/HobbitLong/RepDistiller
 [18.32]: http://zhiqiangshen.com/projects/LS_and_KD/index.html  
 [2.55]: https://github.com/ArchipLab-LinfengZhang/Task-Oriented-Feature-Distillation
+[19.10]: https://github.com/roymiles/ITRD
