@@ -156,6 +156,9 @@
 53. Distilling Knowledge via Knowledge Review. Chen, Pengguang et al. CVPR 2021
 54. Knowledge Distillation By Sparse Representation Matching. Tran et al. arXiv:2103.17012
 55. Task-Oriented Feature Distillation. Zhang et al. NeurIPS 2020 [[code]][2.55]
+56. Adversarial Knowledge Transfer from Unlabeled Data. Gupta et al. ACM-MM 2020 [code](https://github.com/agupt013/akt)
+57. Knowledge Distillation as Efficient Pre-training: Faster Convergence, Higher Data-efficiency, and Better Transferability. He et al. CVPR 2020
+58. PDF-Distil: Including Prediction Disagreements in Feature-based Knowledge Distillation for Object Detection. Zhang et al. BMVC 2021 [code](https://github.com/ZHANGHeng19931123/MutualGuide)
 
 ### Graph-based
 
@@ -219,6 +222,11 @@
 20. SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud. Zheng, Wu et al. CVPR 2021 [[code]][5.20]
 21. Self-distillation with Batch Knowledge Ensembling Improves ImageNet Classification. Ge, Yixiao et al. CVPR 2021
 22. Towards Compact Single Image Super-Resolution via Contrastive Self-distillation. IJCAI 2021
+23. DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers [paper](https://arxiv.org/pdf/2204.12997.pdf)
+24. Knowledge Distillation with the Reused Teacher Classifier [paper](https://arxiv.org/pdf/2203.14001.pdf)
+25. Self-Distillation from the Last Mini-Batch for Consistency Regularizatio [paper](https://arxiv.org/pdf/2203.16172.pdf)
+26. Decoupled Knowledge Distillation [paper](https://arxiv.org/pdf/2203.08679.pdf)
+
 
 ### Structural Knowledge
 
@@ -402,6 +410,7 @@ other data-free model compression:
 17. DisCo: Remedy Self-supervised Learning on Lightweight Models with Distilled Contrastive Learning. Gao, Yuting et al. arXiv:2104.09124
 18. Self-Ensembling Contrastive Learning for Semi-Supervised Medical Image Segmentation. Xiang, Jinxi et al. arXiv:2105.12924
 19. Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision. Chen, Xiaokang et al. CPVR 2021
+20. Adversarial Knowledge Transfer from Unlabeled Data. Gupta et al. ACM-MM 2020 [code](https://github.com/agupt013/akt)
 
 ## Multi-teacher and Ensemble KD 
 
@@ -627,6 +636,7 @@ Abulikemu. Abulikemu et al. CVPR 2021 [[code]][14.40]
 Distillation and Cross-modal Matching. Wu, Bofeng et al. arViv:2105.08252
 102. Revisiting Knowledge Distillation for Object Detection. Banitalebi-Dehkordi, Amin. arXiv: 2105.10633
 103. Towards Compact Single Image Super-Resolution via Contrastive Self-distillation. Yanbo, Wang et al. IJCAI 2021
+104. How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting. Monti, Alessio et al. CVPR 2022
 
 
 ### for NLP & Data-Mining
@@ -698,6 +708,30 @@ Distillation and Cross-modal Matching. Wu, Bofeng et al. arViv:2105.08252
 16. UMEC:Unified Model and Embedding Compression for Efficient Recommendation Systems. ICLR 2021
 17. Bidirectional Distillation for Top-K Recommender System. WWW 2021
 18. Privileged Graph Distillation for Cold-start Recommendation. SIGIR 2021
+19. Topology Distillation for Recommender System [KDD 2021]
+20. Conditional Attention Networks for Distilling Knowledge Graphs in Recommendation [CIKM 2021]
+21. Explore, Filter and Distill: Distilled Reinforcement Learning in Recommendation [CIKM 2021] [[Video]](https://dl.acm.org/doi/abs/10.1145/3459637.3481917)[[Code]](https://github.com/modriczhang/DRL-Rec)
+22. Graph Structure Aware Contrastive Knowledge Distillation for Incremental Learning in Recommender Systems[CIKM 2021]
+23. Conditional Graph Attention Networks for Distilling and Refining Knowledge Graphs in Recommendation[CIKM 2021]
+24. Target Interest Distillation for Multi-Interest Recommendation [CIKM 2022] [[Video]](https://dl.acm.org/doi/abs/10.1145/3511808.3557464) [[Code]](https://github.com/THUwangcy/ReChorus/tree/CIKM22)
+25. KDCRec: Knowledge Distillation for Counterfactual Recommendation Via Uniform Data [TKDE 2022] [[Code]](https://github.com/dgliu/TKDE_KDCRec)
+26. Revisiting Graph based Social Recommendation: A Distillation Enhanced Social Graph Network[WWW 2022] [[Code]](https://www.dropbox.com/s/uqmsr67wqurpnre/Supplementary%20Material.zip?dl=0)
+27. False Negative Distillation and Contrastive Learning for Personalized Outfit Recommendation [Arxiv 2110.06483]
+28. Dual Correction Strategy for Ranking Distillation in Top-N Recommender System[ArXiv 2109.03459v1]
+29. Scene-adaptive Knowledge Distillation for Sequential Recommendation via Differentiable Architecture Search. Chen, Lei et al.[ArXiv 2107.07173v1]
+30. Interpolative Distillation for Unifying Biased and Debiased Recommendation [SIGIR 2022] [[Video]](https://dl.acm.org/doi/10.1145/3477495.3532002) [[Code]](https://github.com/Dingseewhole/InterD_master)
+31. FedSPLIT: One-Shot Federated Recommendation System Based on Non-negative Joint Matrix Factorization and Knowledge Distillation[Arxiv 2205.02359v1]
+32. On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation[SIGIR 2022] [[Code]](https://github.com/xiaxin1998/OD-Rec)
+33. Cross-Task Knowledge Distillation in Multi-Task Recommendation[AAAI 2022]
+34. Toward Understanding Privileged Features Distillation in Learning-to-Rank [NIPS 2022]
+35. Debias the Black-box: A Fair Ranking Framework via Knowledge Distillation [WISE 2022]
+36. Distill-VQ: Learning Retrieval Oriented Vector Quantization By Distilling Knowledge from Dense Embeddings[SIGIR 2022] [[Code]](https://github.com/staoxiao/libvq)
+37. AutoFAS: Automatic Feature and Architecture Selection for Pre-Ranking System [KDD 2022]
+38. An Incremental Learning framework for Large-scale CTR Prediction[RecSys 22]
+39. Directed Acyclic Graph Factorization Machines for CTR Prediction via Knowledge Distillation [WSDM 2023] [[Code]](https://github.com/rucaibox/dagfm)
+40. Unbiased Knowledge Distillation for Recommendation [WSDM 2023] [[Code]](https://github.com/chengang95/UnKD)
+41. DistilledCTR: Accurate and scalable CTR prediction model through model distillation [ESWA 2022]
+43. Top-aware recommender distillation with deep reinforcement learning [Information Sciences 2021]
 
 ## Model Pruning or Quantization
 
@@ -725,6 +759,13 @@ Distillation and Cross-modal Matching. Wu, Bofeng et al. arViv:2105.08252
 22. Binary Graph Neural Networks. Bahri, Mehdi et al. CVPR 2021
 23. Self-Damaging Contrastive Learning. Jiang, Ziyu et al. ICML 2021
 24. Information Theoretic Representation Distillation. Miles et al. BMVC 2022 [[code]][19.10]
+25. Distillation Guided Residual Learning for Binary Convolutional Neural Networks. Ye, Jianming et al. ECCV 2020
+26. Cascaded channel pruning using hierarchical self-distillation. Miles & Mikolajczyk. BMVC 2020
+27. TernaryBERT: Distillation-aware Ultra-low Bit BERT. Zhang, Wei et al. EMNLP 2020
+28. Weight Distillation: Transferring the Knowledge in Neural Network Parameters. arXiv:2009.09152
+29. Stochastic Precision Ensemble: Self-­‐Knowledge Distillation for Quantized Deep Neural Networks. Boo, Yoonho et al. AAAI 2021
+30. Binary Graph Neural Networks. Bahri, Mehdi et al. CVPR 2021
+31. Self-Damaging Contrastive Learning. Jiang, Ziyu et al. ICML 2021
 
 ## Beyond
 
@@ -761,6 +802,7 @@ Distillation and Cross-modal Matching. Wu, Bofeng et al. arViv:2105.08252
 31. Model Distillation for Revenue Optimization: Interpretable Personalized Pricing. Biggs, Max et al. ICML 2021
 32. A statistical perspective on distillation. Aditya et al(Google). ICML 2021
 33. (survey) Data-Free Knowledge Transfer: A Survey. Liu, Yuang et al. arXiv:2112.15278
+34. Knowledge Distillation Beyond Model Compression. Choi, Sarfraz et. al. arxiv:2007.01493
 
 ## Distiller Tools
 
