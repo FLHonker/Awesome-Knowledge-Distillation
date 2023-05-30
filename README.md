@@ -195,8 +195,9 @@
 12. Unsupervised Image Segmentation using Mutual Mean-Teaching. Wu, Zhichao et al.arXiv:2012.08922
 13. Exponential Moving Average Normalization for Self-supervised and Semi-supervised Learning. Cai, Zhaowei et al. arXiv:2101.08482
 14. Robust Mutual Learning for Semi-supervised Semantic Segmentation. Zhang, Pan et al. arXiv:2106.00609
-15. Mutual Contrastive Learning for Visual Representation Learning. Yang et al. AAAI 2022 [[code]][4.15]
-16. Information Theoretic Representation Distillation. Miles et al. BMVC 2022 [[code]][19.10]
+15. Student network learning via evolutionary knowledge distillation. Zhang, Kangkai et al. TCSVT 2021
+16. Mutual Contrastive Learning for Visual Representation Learning. Yang et al. AAAI 2022 [[code]][4.15]
+17. Information Theoretic Representation Distillation. Miles et al. BMVC 2022 [[code]][19.10]
 
 ### Self-KD
 
@@ -351,6 +352,7 @@
 37. Graph-Free Knowledge Distillation for Graph Neural Networks. Deng, Xiang & Zhang, Zhongfei. arXiv:2105.07519
 38. Zero-Shot Knowledge Distillation from a Decision-Based Black-Box Mode. Wang Zi. ICML 2021
 39. Data-Free Knowledge Distillation for Heterogeneous Federated Learning. Zhu, Zhuangdi et al. ICML 2021
+40. Model conversion via differentially private data-free distillation. Liu, Bochao et al. IJCAI 2023
 
 
 other data-free model compression:
@@ -535,108 +537,111 @@ Abulikemu. Abulikemu et al. CVPR 2021 [[code]][14.40]
 1. Face model compression by distilling knowledge from neurons. Luo, Ping et al. AAAI 2016
 2. Learning efficient object detection models with knowledge distillation. Chen, Guobin et al. NeurIPS 2017
 3. Apprentice: Using Knowledge Distillation Techniques To Improve Low-Precision Network Accuracy. Mishra, Asit et al. NeurIPS 2018
-4. Distilled Person _Re-identification_: Towars a More Scalable System. Wu, Ancong et al. CVPR 2019
-5. Efficient _Video Classification_ Using Fewer Frames. Bhardwaj, Shweta et al. CVPR 2019
-6. Fast Human _Pose Estimation_. Zhang, Feng et al. CVPR 2019
-7. Distilling knowledge from a deep _pose_ regressor network. Saputra et al. arXiv:1908.00858 (2019)
-8. Learning Lightweight _Lane Detection_ CNNs by Self Attention Distillation. Hou, Yuenan et al. ICCV 2019
-9. Structured Knowledge Distillation for _Semantic Segmentation_. Liu, Yifan et al. CVPR 2019
-10. Relation Distillation Networks for _Video Object Detection_. Deng, Jiajun et al. ICCV 2019
-11. Teacher Supervises Students How to Learn From Partially Labeled Images for _Facial Landmark Detection_. Dong, Xuanyi and Yang, Yi. ICCV 2019
-12. Progressive Teacher-student Learning for Early _Action Prediction_. Wang, Xionghui et al. CVPR 2019
-13. Lightweight Image _Super-Resolution_ with Information Multi-distillation Network. Hui, Zheng et al. ICCVW 2019
-14. AWSD:Adaptive Weighted Spatiotemporal Distillation for _Video Representation_. Tavakolian, Mohammad et al. ICCV 2019
-15. Dynamic Kernel Distillation for Efficient _Pose Estimation_ in Videos. Nie, Xuecheng et al. ICCV 2019
-16. Teacher Guided _Architecture Search_. Bashivan, Pouya and Tensen, Mark. ICCV 2019
-17. Online Model Distillation for Efficient _Video Inference_. Mullapudi et al. ICCV 2019
-18. Distilling _Object Detectors_ with Fine-grained Feature Imitation. Wang, Tao et al. CVPR 2019
-19. Relation Distillation Networks for _Video Object Detection_. Deng, Jiajun et al. ICCV 2019
-20. Knowledge Distillation for Incremental Learning in _Semantic Segmentation_. arXiv:1911.03462
-21. MOD: A Deep Mixture Model with Online Knowledge Distillation for Large Scale Video Temporal Concept Localization. arXiv:1910.12295
-22. Teacher-Students Knowledge Distillation for _Siamese Trackers_. arXiv:1907.10586
-23. LaTeS: Latent Space Distillation for Teacher-Student _Driving_ Policy Learning. Zhao, Albert et al. CVPR 2020(pre)
-24. Knowledge Distillation for _Brain Tumor Segmentation_. arXiv:2002.03688
-25. ROAD: Reality Oriented Adaptation for _Semantic Segmentation_ of Urban Scenes. Chen, Yuhua et al. CVPR 2018
-26. Multi-Representation Knowledge Distillation For Audio Classification. Gao, Liang et al. arXiv:2002.09607
-27. Collaborative Distillation for Ultra-Resolution Universal _Style Transfer_. Wang, Huan et al. CVPR 2020 [[code]][15.28]
-28. ShadowTutor: Distributed Partial Distillation for Mobile _Video_ DNN Inference. Chung, Jae-Won et al. ICPP 2020 [[code]][15.29]
-29. Object Relational Graph with Teacher-Recommended Learning for _Video Captioning_. Zhang, Ziqi et al. CVPR 2020
-30. Spatio-Temporal Graph for _Video Captioning_ with Knowledge distillation. CVPR 2020 [[code]][15.31]
-31. Squeezed Deep _6DoF Object Detection_ Using Knowledge Distillation. Felix, Heitor et al. arXiv:2003.13586
-32. Distilled Semantics for Comprehensive _Scene Understanding_ from Videos. Tosi, Fabio et al. arXiv:2003.14030
-33. Parallel WaveNet: Fast high-fidelity _speech synthesis_. Van et al. ICML 2018
-34. Distill Knowledge From NRSfM for Weakly Supervised _3D Pose_ Learning. Wang Chaoyang et al. ICCV 2019
-35. KD-MRI: A knowledge distillation framework for _image reconstruction_ and image restoration in MRI workflow. Murugesan et al. MIDL 2020
-36. Geometry-Aware Distillation for Indoor _Semantic Segmentation_. Jiao, Jianbo et al. CVPR 2019
-37. Teacher Supervises Students How to Learn From Partially Labeled Images for _Facial Landmark Detection_. ICCV 2019
-38. Distill Image _Dehazing_ with Heterogeneous Task Imitation. Hong, Ming et al. CVPR 2020
-39. Knowledge Distillation for _Action Anticipation_ via Label Smoothing. Camporese et al. arXiv:2004.07711
-40. More Grounded _Image Captioning_ by Distilling Image-Text Matching Model. Zhou, Yuanen et al. CVPR 2020
-41. Distilling Knowledge from Refinement in Multiple _Instance Detection_ Networks. Zeni, Luis Felipe & Jung, Claudio. arXiv:2004.10943
-42. Enabling Incremental Knowledge Transfer for _Object Detection_ at the Edge. arXiv:2004.05746
-43. Uninformed Students: Student-Teacher _Anomaly Detection_ with Discriminative Latent Embeddings. Bergmann, Paul et al. CVPR 2020
-44. TA-Student _VQA_: Multi-Agents Training by Self-Questioning. Xiong, Peixi & Wu Ying. CVPR 2020
-45. Mentornet: Learning data-driven curriculum for very deep neural networks on corrupted labels. Jiang, Lu et al. ICML 2018
-46. A Multi-Task Mean Teacher for Semi-Supervised _Shadow Detection_. Chen, Zhihao et al. CVPR 2020 [[code]][15.48]
-47. Learning Lightweight _Face Detector_ with Knowledge Distillation. Zhang Shifeng et al. IEEE 2019
-48. Learning Lightweight _Pedestrian Detector_ with Hierarchical Knowledge Distillation. ICIP 2019
-49. Distilling _Object Detectors_ with Task Adaptive Regularization. Sun, Ruoyu et al. arXiv:2006.13108
-50. Intra-class Compactness Distillation for _Semantic Segmentation_. ECCV 2020
-51. DOPE: Distillation Of Part Experts for whole-body _3D pose estimation_ in the wild. ECCV 2020
-52. Self-similarity Student for Partial Label Histopathology Image _Segmentation_. ECCV 2020
-53. Robust _Re-Identification_ by Multiple Views Knowledge Distillation. Porrello et al. ECCV 2020 [[code]][15.58]
-54. LabelEnc: A New Intermediate Supervision Method for _Object Detection_. Hao, Miao et al. arXiv:2007.03282
-55. Optical Flow Distillation: Towards Efficient and Stable _Video Style Transfer_. Chen, Xinghao et al. ECCV 2020
-56. Adversarial Self-Supervised Learning for Semi-Supervised _3D Action Recognition_. Si, Chenyang et al. ECCV 2020
-57. Dual-Path Distillation: A Unified Framework to Improve Black-Box Attacks. Zhang, Yonggang et al. ICML 2020
-58. RGB-IR Cross-modality Person _ReID_ based on Teacher-Student GAN Mode. Zhang, Ziyue et al. arXiv:2007.07452
-59. _Defocus Blur Detection_ via Depth Distillation. Cun, Xiaodong & Pun, Chi-Man. ECCV 2020 [[code]][15.64]
-60. Boosting Weakly Supervised _Object Detection_ with Progressive Knowledge Transfer. Zhong, Yuanyi et al. ECCV 2020 [[code]][15.64]
-61. Weight Decay Scheduling and Knowledge Distillation for _Active Learning_. ECCV 2020
-62. Circumventing Outliers of AutoAugment with Knowledge Distillation. ECCV 2020
-63. Improving _Face Recognition_ from Hard Samples via Distribution Distillation Loss. ECCV 2020
-64. Exclusivity-Consistency Regularized Knowledge Distillation for _Face Recognition_. ECCV 2020
-65. Self-similarity Student for Partial Label Histopathology Image _Segmentation_. Cheng, Hsien-Tzu et al. ECCV 2020
-66. Deep Semi-supervised Knowledge Distillation for Overlapping Cervical Cell _Instance Segmentation_. Zhou, Yanning et al. arXiv:2007.10787 [[code]][15.70]
-67. Two-Level Residual Distillation based Triple Network for Incremental _Object Detection_. Yang, Dongbao et al. arXiv:2007.13428
-68. Towards Unsupervised _Crowd Counting_ via Regression-Detection Bi-knowledge Transfer. Liu, Yuting et al. ACM MM 2020
-69. Teacher-Critical Training Strategies for _Image Captioning_. Huang, Yiqing & Chen, Jiansheng. arXiv:2009.14405
-70. Object Relational Graph with Teacher-Recommended Learning for _Video Captioning_. Zhang, Ziqi et al. CVPR 2020
-71. Multi-Frame to Single-Frame: Knowledge Distillation for _3D Object Detection_. Wang Yue et al. ECCV 2020
-72. Residual Feature Distillation Network for Lightweight Image _Super-Resolution_. Liu, Jie et al. ECCV 2020
-73. Intra-Utterance Similarity Preserving Knowledge Distillation for Audio Tagging. Interspeech 2020
-74. Federated Model Distillation with Noise-Free Differential Privacy. arXiv:2009.05537
-75. _Long-tailed Recognition_ by Routing Diverse Distribution-Aware Experts. Wang, Xudong et al. arXiv:2010.01809
-76. Fast _Video Salient Object Detection_ via Spatiotemporal Knowledge Distillation. Yi, Tang & Yuan, Li. arXiv:2010.10027
-77. Multiresolution Knowledge Distillation for _Anomaly Detection_. Salehi et al. cvpr 2021
-78. Channel-wise Distillation for _Semantic Segmentation_. Shu, Changyong et al. arXiv: 2011.13256
-79. Teach me to segment with mixed supervision: Confident students become masters. Dolz, Jose et al. arXiv:2012.08051
-80. Invariant Teacher and Equivariant Student for Unsupervised _3D Human Pose Estimation_. Xu, Chenxin et al. AAAI 2021 [[code]][15.80]
-81. Training data-efficient _image transformers_ & distillation through attention. Touvron, Hugo et al. arXiv:2012.12877 [[code]][15.81]
-82. SID: Incremental Learning for Anchor-Free _Object Detection_ via Selective and Inter-Related Distillation. Peng, Can et al. arXiv:2012.15439
-83. PSSM-Distil: Protein Secondary Structure Prediction (PSSP) on Low-Quality PSSM by Knowledge Distillation with Contrastive Learning. Wang, Qin et al. AAAI 2021
-84. Diverse Knowledge Distillation for End-­to‐End _Person Search_. Zhang, Xinyu et al. AAAI 2021
-85. Enhanced _Audio Tagging_ via Multi­‐ to Single­‐Modal Teacher­‐Student Mutual Learning. Yin, Yifang et al. AAAI 2021
-86. Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks. Li, Yige et al. ICLR 2021 [[code]][15.86]
-87. Unbiased Teacher for Semi-Supervised _Object Detection_. Liu, Yen-Cheng et al. ICLR 2021 [[code]][15.87]
-88. Localization Distillation for _Object Detection_. Zheng, Zhaohui et al. cvpr 2021 [[code]][15.88]
-89. Distilling Knowledge via Intermediate _Classifier_ Heads. Aryan & Amirali. arXiv:2103.00497
-90. Distilling _Object Detectors_ via Decoupled Features. (HUAWEI-Noah). CVPR 2021
-91. General Instance Distillation for _Object Detection_. Dai, Xing et al. CVPR 2021
-92. Multiresolution Knowledge Distillation for _Anomaly Detection_. Mohammadreza et al. CVPR 2021
-93. Student-Teacher Feature Pyramid Matching for Unsupervised _Anomaly Detection_. Wang, Guodong et al. arXiv:2103.04257
-94. Teacher-Explorer-Student Learning: A Novel Learning Method for _Open Set Recognition_. Jaeyeon Jang & Chang Ouk Kim. IEEE 2021
-95. Dense Relation Distillation with Context-aware Aggregation for Few-Shot _Object Detection_. Hu, Hanzhe et al. CVPR 2021 [[code]][15.95]
-96. Compressing _Visual-linguistic_ Model via Knowledge Distillation. Fang, Zhiyuan et al. arXiv:2104.02096
-97. Farewell to Mutual Information: Variational Distillation for Cross-Modal Person _Re-Identification_. Tian, Xudong et al. CVPR 2021
-98. Improving Weakly Supervised _Visual Grounding_ by Contrastive Knowledge Distillation. Wang, Liwei et al. CVPR 2021
-99. Orderly Dual-Teacher Knowledge Distillation for Lightweight _Human Pose Estimation_. Zhao, Zhongqiu et al. arXiv:2104.10414
-100. Boosting Light-Weight _Depth Estimation_ Via Knowledge Distillation. Hu, Junjie et al. arXiv:2105.06143
-101. Weakly Supervised Dense Video Captioning via Jointly Usage of Knowledge
+4. Low-resolution face recognition in the wild via selective knowledge distillation. Ge, Shiming et al. TIP 2018
+5. Distilled Person _Re-identification_: Towars a More Scalable System. Wu, Ancong et al. CVPR 2019
+6. Efficient _Video Classification_ Using Fewer Frames. Bhardwaj, Shweta et al. CVPR 2019
+7. Fast Human _Pose Estimation_. Zhang, Feng et al. CVPR 2019
+8. Distilling knowledge from a deep _pose_ regressor network. Saputra et al. arXiv:1908.00858 (2019)
+9. Learning Lightweight _Lane Detection_ CNNs by Self Attention Distillation. Hou, Yuenan et al. ICCV 2019
+10. Structured Knowledge Distillation for _Semantic Segmentation_. Liu, Yifan et al. CVPR 2019
+11. Relation Distillation Networks for _Video Object Detection_. Deng, Jiajun et al. ICCV 2019
+12. Teacher Supervises Students How to Learn From Partially Labeled Images for _Facial Landmark Detection_. Dong, Xuanyi and Yang, Yi. ICCV 2019
+13. Progressive Teacher-student Learning for Early _Action Prediction_. Wang, Xionghui et al. CVPR 2019
+14. Lightweight Image _Super-Resolution_ with Information Multi-distillation Network. Hui, Zheng et al. ICCVW 2019
+15. AWSD:Adaptive Weighted Spatiotemporal Distillation for _Video Representation_. Tavakolian, Mohammad et al. ICCV 2019
+16. Dynamic Kernel Distillation for Efficient _Pose Estimation_ in Videos. Nie, Xuecheng et al. ICCV 2019
+17. Teacher Guided _Architecture Search_. Bashivan, Pouya and Tensen, Mark. ICCV 2019
+18. Online Model Distillation for Efficient _Video Inference_. Mullapudi et al. ICCV 2019
+19. Distilling _Object Detectors_ with Fine-grained Feature Imitation. Wang, Tao et al. CVPR 2019
+20. Relation Distillation Networks for _Video Object Detection_. Deng, Jiajun et al. ICCV 2019
+21. Knowledge Distillation for Incremental Learning in _Semantic Segmentation_. arXiv:1911.03462
+22. MOD: A Deep Mixture Model with Online Knowledge Distillation for Large Scale Video Temporal Concept Localization. arXiv:1910.12295
+23. Teacher-Students Knowledge Distillation for _Siamese Trackers_. arXiv:1907.10586
+24. LaTeS: Latent Space Distillation for Teacher-Student _Driving_ Policy Learning. Zhao, Albert et al. CVPR 2020(pre)
+25. Knowledge Distillation for _Brain Tumor Segmentation_. arXiv:2002.03688
+26. ROAD: Reality Oriented Adaptation for _Semantic Segmentation_ of Urban Scenes. Chen, Yuhua et al. CVPR 2018
+27. Multi-Representation Knowledge Distillation For Audio Classification. Gao, Liang et al. arXiv:2002.09607
+28. Collaborative Distillation for Ultra-Resolution Universal _Style Transfer_. Wang, Huan et al. CVPR 2020 [[code]][15.28]
+29. ShadowTutor: Distributed Partial Distillation for Mobile _Video_ DNN Inference. Chung, Jae-Won et al. ICPP 2020 [[code]][15.29]
+30. Object Relational Graph with Teacher-Recommended Learning for _Video Captioning_. Zhang, Ziqi et al. CVPR 2020
+31. Spatio-Temporal Graph for _Video Captioning_ with Knowledge distillation. CVPR 2020 [[code]][15.31]
+32. Squeezed Deep _6DoF Object Detection_ Using Knowledge Distillation. Felix, Heitor et al. arXiv:2003.13586
+33. Distilled Semantics for Comprehensive _Scene Understanding_ from Videos. Tosi, Fabio et al. arXiv:2003.14030
+34. Parallel WaveNet: Fast high-fidelity _speech synthesis_. Van et al. ICML 2018
+35. Distill Knowledge From NRSfM for Weakly Supervised _3D Pose_ Learning. Wang Chaoyang et al. ICCV 2019
+36. KD-MRI: A knowledge distillation framework for _image reconstruction_ and image restoration in MRI workflow. Murugesan et al. MIDL 2020
+37. Geometry-Aware Distillation for Indoor _Semantic Segmentation_. Jiao, Jianbo et al. CVPR 2019
+38. Teacher Supervises Students How to Learn From Partially Labeled Images for _Facial Landmark Detection_. ICCV 2019
+39. Distill Image _Dehazing_ with Heterogeneous Task Imitation. Hong, Ming et al. CVPR 2020
+40. Knowledge Distillation for _Action Anticipation_ via Label Smoothing. Camporese et al. arXiv:2004.07711
+41. More Grounded _Image Captioning_ by Distilling Image-Text Matching Model. Zhou, Yuanen et al. CVPR 2020
+42. Distilling Knowledge from Refinement in Multiple _Instance Detection_ Networks. Zeni, Luis Felipe & Jung, Claudio. arXiv:2004.10943
+43. Enabling Incremental Knowledge Transfer for _Object Detection_ at the Edge. arXiv:2004.05746
+44. Uninformed Students: Student-Teacher _Anomaly Detection_ with Discriminative Latent Embeddings. Bergmann, Paul et al. CVPR 2020
+45. TA-Student _VQA_: Multi-Agents Training by Self-Questioning. Xiong, Peixi & Wu Ying. CVPR 2020
+46. Mentornet: Learning data-driven curriculum for very deep neural networks on corrupted labels. Jiang, Lu et al. ICML 2018
+47. A Multi-Task Mean Teacher for Semi-Supervised _Shadow Detection_. Chen, Zhihao et al. CVPR 2020 [[code]][15.48]
+48. Learning Lightweight _Face Detector_ with Knowledge Distillation. Zhang Shifeng et al. IEEE 2019
+49. Learning Lightweight _Pedestrian Detector_ with Hierarchical Knowledge Distillation. ICIP 2019
+50. Low-resolution face recognition in the wild with mixed-domain distillation. Zhao, Shengwei et al. BigMM 2019
+51. Distilling _Object Detectors_ with Task Adaptive Regularization. Sun, Ruoyu et al. arXiv:2006.13108
+52. Intra-class Compactness Distillation for _Semantic Segmentation_. ECCV 2020
+53. DOPE: Distillation Of Part Experts for whole-body _3D pose estimation_ in the wild. ECCV 2020
+54. Self-similarity Student for Partial Label Histopathology Image _Segmentation_. ECCV 2020
+55. Robust _Re-Identification_ by Multiple Views Knowledge Distillation. Porrello et al. ECCV 2020 [[code]][15.58]
+56. LabelEnc: A New Intermediate Supervision Method for _Object Detection_. Hao, Miao et al. arXiv:2007.03282
+57. Optical Flow Distillation: Towards Efficient and Stable _Video Style Transfer_. Chen, Xinghao et al. ECCV 2020
+58. Adversarial Self-Supervised Learning for Semi-Supervised _3D Action Recognition_. Si, Chenyang et al. ECCV 2020
+59. Dual-Path Distillation: A Unified Framework to Improve Black-Box Attacks. Zhang, Yonggang et al. ICML 2020
+60. RGB-IR Cross-modality Person _ReID_ based on Teacher-Student GAN Mode. Zhang, Ziyue et al. arXiv:2007.07452
+61. _Defocus Blur Detection_ via Depth Distillation. Cun, Xiaodong & Pun, Chi-Man. ECCV 2020 [[code]][15.64]
+62. Boosting Weakly Supervised _Object Detection_ with Progressive Knowledge Transfer. Zhong, Yuanyi et al. ECCV 2020 [[code]][15.64]
+63. Weight Decay Scheduling and Knowledge Distillation for _Active Learning_. ECCV 2020
+64. Circumventing Outliers of AutoAugment with Knowledge Distillation. ECCV 2020
+65. Improving _Face Recognition_ from Hard Samples via Distribution Distillation Loss. ECCV 2020
+66. Exclusivity-Consistency Regularized Knowledge Distillation for _Face Recognition_. ECCV 2020
+67. Self-similarity Student for Partial Label Histopathology Image _Segmentation_. Cheng, Hsien-Tzu et al. ECCV 2020
+68. Deep Semi-supervised Knowledge Distillation for Overlapping Cervical Cell _Instance Segmentation_. Zhou, Yanning et al. arXiv:2007.10787 [[code]][15.70]
+69. Two-Level Residual Distillation based Triple Network for Incremental _Object Detection_. Yang, Dongbao et al. arXiv:2007.13428
+70. Towards Unsupervised _Crowd Counting_ via Regression-Detection Bi-knowledge Transfer. Liu, Yuting et al. ACM MM 2020
+71. Teacher-Critical Training Strategies for _Image Captioning_. Huang, Yiqing & Chen, Jiansheng. arXiv:2009.14405
+72. Object Relational Graph with Teacher-Recommended Learning for _Video Captioning_. Zhang, Ziqi et al. CVPR 2020
+73. Multi-Frame to Single-Frame: Knowledge Distillation for _3D Object Detection_. Wang Yue et al. ECCV 2020
+74. Residual Feature Distillation Network for Lightweight Image _Super-Resolution_. Liu, Jie et al. ECCV 2020
+75. Intra-Utterance Similarity Preserving Knowledge Distillation for Audio Tagging. Interspeech 2020
+76. Federated Model Distillation with Noise-Free Differential Privacy. arXiv:2009.05537
+77. _Long-tailed Recognition_ by Routing Diverse Distribution-Aware Experts. Wang, Xudong et al. arXiv:2010.01809
+78. Fast _Video Salient Object Detection_ via Spatiotemporal Knowledge Distillation. Yi, Tang & Yuan, Li. arXiv:2010.10027
+79. Multiresolution Knowledge Distillation for _Anomaly Detection_. Salehi et al. cvpr 2021
+80. Channel-wise Distillation for _Semantic Segmentation_. Shu, Changyong et al. arXiv: 2011.13256
+81. Teach me to segment with mixed supervision: Confident students become masters. Dolz, Jose et al. arXiv:2012.08051
+82. Invariant Teacher and Equivariant Student for Unsupervised _3D Human Pose Estimation_. Xu, Chenxin et al. AAAI 2021 [[code]][15.80]
+83. Training data-efficient _image transformers_ & distillation through attention. Touvron, Hugo et al. arXiv:2012.12877 [[code]][15.81]
+84. SID: Incremental Learning for Anchor-Free _Object Detection_ via Selective and Inter-Related Distillation. Peng, Can et al. arXiv:2012.15439
+85. PSSM-Distil: Protein Secondary Structure Prediction (PSSP) on Low-Quality PSSM by Knowledge Distillation with Contrastive Learning. Wang, Qin et al. AAAI 2021
+86. Diverse Knowledge Distillation for End-­to‐End _Person Search_. Zhang, Xinyu et al. AAAI 2021
+87. Enhanced _Audio Tagging_ via Multi­‐ to Single­‐Modal Teacher­‐Student Mutual Learning. Yin, Yifang et al. AAAI 2021
+88. Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks. Li, Yige et al. ICLR 2021 [[code]][15.86]
+89. Unbiased Teacher for Semi-Supervised _Object Detection_. Liu, Yen-Cheng et al. ICLR 2021 [[code]][15.87]
+90. Localization Distillation for _Object Detection_. Zheng, Zhaohui et al. cvpr 2021 [[code]][15.88]
+91. Distilling Knowledge via Intermediate _Classifier_ Heads. Aryan & Amirali. arXiv:2103.00497
+92. Distilling _Object Detectors_ via Decoupled Features. (HUAWEI-Noah). CVPR 2021
+93. General Instance Distillation for _Object Detection_. Dai, Xing et al. CVPR 2021
+94. Multiresolution Knowledge Distillation for _Anomaly Detection_. Mohammadreza et al. CVPR 2021
+95. Student-Teacher Feature Pyramid Matching for Unsupervised _Anomaly Detection_. Wang, Guodong et al. arXiv:2103.04257
+96. Teacher-Explorer-Student Learning: A Novel Learning Method for _Open Set Recognition_. Jaeyeon Jang & Chang Ouk Kim. IEEE 2021
+97. Dense Relation Distillation with Context-aware Aggregation for Few-Shot _Object Detection_. Hu, Hanzhe et al. CVPR 2021 [[code]][15.95]
+98. Compressing _Visual-linguistic_ Model via Knowledge Distillation. Fang, Zhiyuan et al. arXiv:2104.02096
+99. Farewell to Mutual Information: Variational Distillation for Cross-Modal Person _Re-Identification_. Tian, Xudong et al. CVPR 2021
+100. Improving Weakly Supervised _Visual Grounding_ by Contrastive Knowledge Distillation. Wang, Liwei et al. CVPR 2021
+101. Orderly Dual-Teacher Knowledge Distillation for Lightweight _Human Pose Estimation_. Zhao, Zhongqiu et al. arXiv:2104.10414
+102. Boosting Light-Weight _Depth Estimation_ Via Knowledge Distillation. Hu, Junjie et al. arXiv:2105.06143
+103. Weakly Supervised Dense Video Captioning via Jointly Usage of Knowledge
 Distillation and Cross-modal Matching. Wu, Bofeng et al. arViv:2105.08252
 102. Revisiting Knowledge Distillation for Object Detection. Banitalebi-Dehkordi, Amin. arXiv: 2105.10633
 103. Towards Compact Single Image Super-Resolution via Contrastive Self-distillation. Yanbo, Wang et al. IJCAI 2021
 104. How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting. Monti, Alessio et al. CVPR 2022
+105. Model conversion via differentially private data-free distillation. Liu, Bochao et al. IJCAI 2023
 
 
 ### for NLP & Data-Mining
